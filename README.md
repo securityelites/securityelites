@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to SecurityElites
 
-<!--
-**securityelites/securityelites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learn Ethical Hacking, Bug Bounty, and Cybersecurity step-by-step.
 
-Here are some ideas to get you started:
+## 🔥 What We Do
+- Kali Linux Tutorials  
+- Bug Bounty Guides  
+- Web Security (XSS, SQLi, etc.)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Start Learning
+👉 https://securityelites.com
+
+## 🛠 Tools Covered
+- Kali Linux  
+- Burp Suite  
+- Nmap  
+- Nikto  
+
+## 🌎 Mission
+Make cybersecurity learning accessible to everyone.
+
+⭐ Follow for regular updates!

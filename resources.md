@@ -8,3 +8,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Bug Bounty Automation Python 2026 — The Exact Stack Top Hunters Use to Earn $300K/Year](https://securityelites.com/bug-bounty-automation-python-stack/) — *Bug Bounty Hunting* (2026-04-18)
 - [How Hackers Break Into Docker Containers — 5 Real Attack Techniques (2026)](https://securityelites.com/how-hackers-break-into-docker-2026/) — *Cloud Hacking* (2026-04-19)
 - [Clickjacking Bug Bounty 2026 — Find UI Redressing Vulnerabilities and Chain to Account Takeover | Bug Bounty Day20](https://securityelites.com/day-20-clickjacking-bug-bounty/) — *Bug Bounty Course* (2026-04-19)
+- [How Hackers Steal Your ChatGPT Conversation History — And How to Stop It](https://securityelites.com/chatgpt-conversation-history-theft-2026/) — *AI in Hacking* (2026-04-19)

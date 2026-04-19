@@ -7,3 +7,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Microsoft Copilot Prompt Injection 2026 — Enterprise AI's Biggest Security Risk](https://securityelites.com/microsoft-copilot-prompt-injection-2026/?utm_source=github&utm_medium=syndication&utm_campaign=backlinks) — *AI in Hacking* (2026-04-18)
 - [Bug Bounty Automation Python 2026 — The Exact Stack Top Hunters Use to Earn $300K/Year](https://securityelites.com/bug-bounty-automation-python-stack/) — *Bug Bounty Hunting* (2026-04-18)
 - [How Hackers Break Into Docker Containers — 5 Real Attack Techniques (2026)](https://securityelites.com/how-hackers-break-into-docker-2026/) — *Cloud Hacking* (2026-04-19)
+- [Clickjacking Bug Bounty 2026 — Find UI Redressing Vulnerabilities and Chain to Account Takeover | Bug Bounty Day20](https://securityelites.com/day-20-clickjacking-bug-bounty/) — *Bug Bounty Course* (2026-04-19)

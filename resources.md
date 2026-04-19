@@ -14,3 +14,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA File Inclusion Advanced Lab 2026 — PHP Wrappers & Path Bypass Complete Walkthrough | Hacking Lab17](https://securityelites.com/dvwa-file-inclusion-advanced-lab-2026/) — *DVWA Labs* (2026-04-19)
 - [Cybersecurity Certifications Employers Actually Require in 2026 — Honest Ranked List](https://securityelites.com/cybersecurity-certifications-employers-require-2026/) — *Cyber Security Career* (2026-04-19)
 - [How Hackers Exploit Bluetooth Devices in 2026 — Bluejacking, Bluesnarfing & BIAS Attacks](https://securityelites.com/how-hackers-exploit-bluetooth-2026/) — *Android Hacking* (2026-04-19)
+- [AV Evasion Basics 2026 — Signature vs Behaviour Detection and Bypass Techniques | Hacking Course Day33](https://securityelites.com/day-33-av-evasion-basics/) — *Ethical Hacking* (2026-04-19)

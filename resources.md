@@ -11,3 +11,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Steal Your ChatGPT Conversation History — And How to Stop It](https://securityelites.com/chatgpt-conversation-history-theft-2026/) — *AI in Hacking* (2026-04-19)
 - [Linux Privilege Escalation 2026 — SUID, Sudo Misconfig & Cron Jobs Complete Guide | Hacking Course Day31](https://securityelites.com/day-31-linux-privilege-escalation/) — *Ethical Hacking* (2026-04-19)
 - [DVWA File Upload Advanced Lab 2026 — Extension Bypass & MIME Spoofing Complete Walkthrough | Hacking Lab18](https://securityelites.com/dvwa-file-upload-advanced-lab-2026/) — *DVWA Labs* (2026-04-19)
+- [DVWA File Inclusion Advanced Lab 2026 — PHP Wrappers & Path Bypass Complete Walkthrough | Hacking Lab17](https://securityelites.com/dvwa-file-inclusion-advanced-lab-2026/) — *DVWA Labs* (2026-04-19)

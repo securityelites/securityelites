@@ -20,3 +20,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Report Bank & Credit Card Fraud in India — Complete Step-by-Step Guide to Get Your Money Back](https://securityelites.com/how-to-report-bank-fraud-india-get-money-back/) — *Cyber Security* (2026-04-20)
 - [How to Report Bank & Credit Card Fraud in the USA — Complete Step-by-Step Guide to Get Your Money Back](https://securityelites.com/how-to-report-bank-fraud-us-get-money-back/) — *Cyber Security* (2026-04-20)
 - [How to Report Bank & Credit Card Fraud in the UK — Complete Step-by-Step Guide](https://securityelites.com/how-to-report-bank-fraud-uk-get-money-back/) — *Cyber Security* (2026-04-20)
+- [Medusa Tutorial Kali Linux 2026 — Parallel Brute Force for SSH, FTP, HTTP & 20+ Protocols | Tools Day20](https://securityelites.com/kali-linux-day-20-medusa-tutorial/) — *Cyber Security* (2026-04-20)

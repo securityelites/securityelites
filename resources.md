@@ -16,3 +16,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Exploit Bluetooth Devices in 2026 — Bluejacking, Bluesnarfing & BIAS Attacks](https://securityelites.com/how-hackers-exploit-bluetooth-2026/) — *Android Hacking* (2026-04-19)
 - [AV Evasion Basics 2026 — Signature vs Behaviour Detection and Bypass Techniques | Hacking Course Day33](https://securityelites.com/day-33-av-evasion-basics/) — *Ethical Hacking* (2026-04-19)
 - [DVWA SQL Injection High Security Lab 2026 — Second-Order Injection | Hacking Lab 21](https://securityelites.com/dvwa-sql-injection-high-security-lab-2026/) — *DVWA Labs* (2026-04-20)
+- [DVWA CSRF Advanced Lab 2026 — Token Bypass via XSS and Referer Validation Flaws | Hacking Lab20](https://securityelites.com/dvwa-csrf-advanced-lab-2026/) — *Cross-Site Scripting (XSS)* (2026-04-20)

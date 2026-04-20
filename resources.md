@@ -19,3 +19,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA CSRF Advanced Lab 2026 — Token Bypass via XSS and Referer Validation Flaws | Hacking Lab20](https://securityelites.com/dvwa-csrf-advanced-lab-2026/) — *Cross-Site Scripting (XSS)* (2026-04-20)
 - [How to Report Bank & Credit Card Fraud in India — Complete Step-by-Step Guide to Get Your Money Back](https://securityelites.com/how-to-report-bank-fraud-india-get-money-back/) — *Cyber Security* (2026-04-20)
 - [How to Report Bank & Credit Card Fraud in the USA — Complete Step-by-Step Guide to Get Your Money Back](https://securityelites.com/how-to-report-bank-fraud-us-get-money-back/) — *Cyber Security* (2026-04-20)
+- [How to Report Bank & Credit Card Fraud in the UK — Complete Step-by-Step Guide](https://securityelites.com/how-to-report-bank-fraud-uk-get-money-back/) — *Cyber Security* (2026-04-20)

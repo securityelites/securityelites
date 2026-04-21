@@ -25,3 +25,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [GraphQL Bug Bounty 2026 — Introspection Abuse, Injection & Broken Authorization | BB Day 22](https://securityelites.com/day-22-graphql-bug-bounty/) — *Bug Bounty Course* (2026-04-21)
 - [What Happens When You Scan Someone's IP Without Permission in 2026 (The Law)](https://securityelites.com/scanning-ip-without-permission-law-2026/) — *Bug Bounty Hunting* (2026-04-21)
 - [DVWA Vulnerability Chaining Lab 2026 — XSS + CSRF + File Upload Attack Chain | Hacking Lab22](https://securityelites.com/dvwa-vulnerability-chaining-lab-2026/) — *Command Injection* (2026-04-21)
+- [Payload Obfuscation 2026 — Encoding, Encryption & Packing Shellcode for AV Bypass | Hacking Course Day34](https://securityelites.com/day-34-payload-obfuscation/) — *Ethical Hacking* (2026-04-21)

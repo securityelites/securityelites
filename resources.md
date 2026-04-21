@@ -30,3 +30,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA SQLi to OS Shell Lab 2026 — File Write to Remote Code Execution | Hacking Lab23](https://securityelites.com/dvwa-sqli-to-os-shell-lab-2026/) — *DVWA Labs* (2026-04-21)
 - [7 Hidden Burp Suite Features That Save Hours of Manual Testing (2026)](https://securityelites.com/burp-suite-hidden-features-2026/) — *Cyber Security Tools* (2026-04-21)
 - [Autonomous AI Agents Attack Surface 2026 — Security Risks of Agentic AI](https://securityelites.com/autonomous-ai-agents-attack-surface-2026/) — *AI in Hacking* (2026-04-21)
+- [How Ethical Hackers Break Into Smart Locks — Real Techniques Explained (2026)](https://securityelites.com/how-hackers-break-smart-locks-2026/) — *Cyber Security* (2026-04-21)

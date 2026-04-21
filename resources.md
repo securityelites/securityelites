@@ -29,3 +29,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Content Filter Bypass 2026 — How Researchers Test Safety Filtering Systems](https://securityelites.com/ai-content-filter-bypass-techniques-2026/) — *AI in Hacking* (2026-04-21)
 - [DVWA SQLi to OS Shell Lab 2026 — File Write to Remote Code Execution | Hacking Lab23](https://securityelites.com/dvwa-sqli-to-os-shell-lab-2026/) — *DVWA Labs* (2026-04-21)
 - [7 Hidden Burp Suite Features That Save Hours of Manual Testing (2026)](https://securityelites.com/burp-suite-hidden-features-2026/) — *Cyber Security Tools* (2026-04-21)
+- [Autonomous AI Agents Attack Surface 2026 — Security Risks of Agentic AI](https://securityelites.com/autonomous-ai-agents-attack-surface-2026/) — *AI in Hacking* (2026-04-21)

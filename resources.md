@@ -27,3 +27,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Vulnerability Chaining Lab 2026 — XSS + CSRF + File Upload Attack Chain | Hacking Lab22](https://securityelites.com/dvwa-vulnerability-chaining-lab-2026/) — *Command Injection* (2026-04-21)
 - [Payload Obfuscation 2026 — Encoding, Encryption & Packing Shellcode for AV Bypass | Hacking Course Day34](https://securityelites.com/day-34-payload-obfuscation/) — *Ethical Hacking* (2026-04-21)
 - [AI Content Filter Bypass 2026 — How Researchers Test Safety Filtering Systems](https://securityelites.com/ai-content-filter-bypass-techniques-2026/) — *AI in Hacking* (2026-04-21)
+- [DVWA SQLi to OS Shell Lab 2026 — File Write to Remote Code Execution | Hacking Lab23](https://securityelites.com/dvwa-sqli-to-os-shell-lab-2026/) — *DVWA Labs* (2026-04-21)

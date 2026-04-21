@@ -32,3 +32,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Autonomous AI Agents Attack Surface 2026 — Security Risks of Agentic AI](https://securityelites.com/autonomous-ai-agents-attack-surface-2026/) — *AI in Hacking* (2026-04-21)
 - [How Ethical Hackers Break Into Smart Locks — Real Techniques Explained (2026)](https://securityelites.com/how-hackers-break-smart-locks-2026/) — *Cyber Security* (2026-04-21)
 - [DVWA Burp Suite Integration Lab 2026 — Full Attack Walkthrough Using Burp Suite | Hacking Lab24](https://securityelites.com/dvwa-burp-suite-integration-lab-2026/) — *Cyber Security Tools* (2026-04-21)
+- [AI Voice Cloning Authentication Bypass 2026 — How Deepfakes Defeat Voice Biometrics](https://securityelites.com/ai-voice-cloning-authentication-bypass-2026/) — *AI in Hacking* (2026-04-21)

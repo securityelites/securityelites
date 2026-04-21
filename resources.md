@@ -22,3 +22,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Report Bank & Credit Card Fraud in the UK — Complete Step-by-Step Guide](https://securityelites.com/how-to-report-bank-fraud-uk-get-money-back/) — *Cyber Security* (2026-04-20)
 - [Medusa Tutorial Kali Linux 2026 — Parallel Brute Force for SSH, FTP, HTTP & 20+ Protocols | Tools Day20](https://securityelites.com/kali-linux-day-20-medusa-tutorial/) — *Cyber Security* (2026-04-20)
 - [Training Data Poisoning 2026 — How Attackers Corrupt AI Models Before Deployment](https://securityelites.com/training-data-poisoning-attacks-2026/) — *AI in Hacking* (2026-04-21)
+- [GraphQL Bug Bounty 2026 — Introspection Abuse, Injection & Broken Authorization | BB Day 22](https://securityelites.com/day-22-graphql-bug-bounty/) — *Bug Bounty Course* (2026-04-21)

@@ -42,3 +42,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Commands Cheat Sheet 2026 — 200+ Commands with Examples (The Only Reference You'll Ever Need)](https://securityelites.com/kali-linux-commands-cheat-sheet/) — *Cheat Sheets* (2026-04-22)
 - [What Certifications Do Ethical Hackers Need 2026 — Honest Ranking (CEH vs OSCP vs eJPT vs Security+ Compared)](https://securityelites.com/ethical-hacking-certifications/) — *Cyber Security Career* (2026-04-22)
 - [Day 2: Netcat Tutorial for Beginners — Master the Swiss Army Knife of Networking in Kali Linux (2026)](https://securityelites.com/day-2-netcat-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Kali Linux Day 3: Gobuster Tutorial — Find Hidden Directories, Files & Subdomains (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-3-gobuster-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)

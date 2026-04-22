@@ -79,3 +79,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 18: File Upload Vulnerabilities — From Image Upload to Web Shell (2026)](https://securityelites.com/day-18-file-upload-vulnerabilities/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 17: Security Misconfiguration — The Easiest Vulnerabilities to Find (2026)](https://securityelites.com/day-17-security-misconfiguration/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 19: Command Injection — When User Input Reaches the OS Shell (2026)](https://securityelites.com/day-19-command-injection/) — *Command Injection* (2026-04-22)
+- [Day 20: Web Application Penetration Testing Methodology 2026 — Zero to Pro Hacker Workflow (Complete Guide)](https://securityelites.com/day-20-web-app-pentesting-methodology/) — *Blue Team* (2026-04-22)

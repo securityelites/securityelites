@@ -36,3 +36,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Recon-ng Tutorial 2026 — Modular OSINT Framework for Professional Reconnaissance | Tools Day21](https://securityelites.com/kali-linux-day-21-recon-ng-tutorial/) — *Cyber Security Tools* (2026-04-22)
 - [Day 4: Linux File System Explained — Why Every Directory Is a Hacker's Treasure Map](https://securityelites.com/day-4-linux-file-system/) — *Ethical Hacking Course* (2026-04-22)
 - [Day 5: Networking Basics for Hackers — How the Internet Actually Works (2026)](https://securityelites.com/day-5-networking-basics-for-hackers/) — *Ethical Hacking Course* (2026-04-22)
+- [Day 6: IP Addressing & Subnetting for Hackers — The Only Guide You'll Ever Need (2026)](https://securityelites.com/day-6-ip-addressing-subnetting-for-beginners/) — *Ethical Hacking Course* (2026-04-22)

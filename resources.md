@@ -72,3 +72,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 9: Google Dorking & OSINT — How to Find Publicly Exposed Information Like a Pro (2026)](https://securityelites.com/day-9-google-dorking-osint/) — *Ethical Hacking Course* (2026-04-22)
 - [Day 10: How Password Attacks Work — Hashing, Cracking & Credential Security (2026)](https://securityelites.com/day-10-how-password-attacks-work/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 12: Burp Suite Setup — Intercept Your First Web Request in 10 Minutes (2026)](https://securityelites.com/day-12-burp-suite-setup/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Day 11: Web Application Security Basics — How the Web Works (and Where It Breaks) 2026](https://securityelites.com/day-11-web-application-security-basics/) — *Cyber Security Courses &amp; Training* (2026-04-22)

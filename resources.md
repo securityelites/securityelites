@@ -46,3 +46,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Day 4: Hydra Tutorial — Brute Force SSH, FTP, HTTP & 50+ Protocols (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-4-hydra-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Kali Linux Day 5: John the Ripper Tutorial — Crack Hashes, /etc/shadow, ZIP & PDF Passwords (Complete Guide 2026)](https://securityelites.com/kali-linux-day-5-john-the-ripper-tutorial/) — *Cyber Security Tools* (2026-04-22)
 - [Kali Linux Day 7: SQLmap Tutorial (2026) — Automate SQL Injection Like a Pro 🔥](https://securityelites.com/kali-linux-day-7-sqlmap-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Kali Linux Day 6: Nikto Tutorial (Kali Linux 2026): Find CRITICAL Web Server Vulnerabilities in Minutes](https://securityelites.com/kali-linux-day-6-nikto-tutorial/) — *Cyber Security Tools* (2026-04-22)

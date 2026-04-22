@@ -78,3 +78,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Free Ethical Hacking Course for Beginners 2026 — 100 Days from Zero to Professional (No Credit Card Ever)](https://securityelites.com/free-ethical-hacking-course/) — *Blue Team* (2026-04-22)
 - [Day 18: File Upload Vulnerabilities — From Image Upload to Web Shell (2026)](https://securityelites.com/day-18-file-upload-vulnerabilities/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 17: Security Misconfiguration — The Easiest Vulnerabilities to Find (2026)](https://securityelites.com/day-17-security-misconfiguration/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Day 19: Command Injection — When User Input Reaches the OS Shell (2026)](https://securityelites.com/day-19-command-injection/) — *Command Injection* (2026-04-22)

@@ -81,3 +81,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 19: Command Injection — When User Input Reaches the OS Shell (2026)](https://securityelites.com/day-19-command-injection/) — *Command Injection* (2026-04-22)
 - [Day 20: Web Application Penetration Testing Methodology 2026 — Zero to Pro Hacker Workflow (Complete Guide)](https://securityelites.com/day-20-web-app-pentesting-methodology/) — *Blue Team* (2026-04-22)
 - [Day 21: Metasploit Framework — From Module to Shell (Complete Beginner's Guide 2026)](https://securityelites.com/day-21-metasploit-framework/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [AI Jailbreaking Research 2026 — How Researchers Study LLM Safety Robustness](https://securityelites.com/jailbreaking-claude-ai-2026/) — *AI in Hacking* (2026-04-22)

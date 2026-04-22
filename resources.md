@@ -60,3 +60,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 11: Open Redirect Bug Bounty Hunting 2026 — Find, Chain and Report the Vulnerability That Turns $200 Bugs Into $5,000 Findings](https://securityelites.com/day-11-open-redirect-bug-bounty/) — *Authentication Bypass* (2026-04-22)
 - [Bug Bounty Day 6: Subdomain Enumeration — Build Your Full Attack Surface Map (2026)](https://securityelites.com/day-6-subdomain-enumeration-bug-bounty/) — *Bug Bounty Course* (2026-04-22)
 - [Day 7: XSS Bug Bounty Hunting — Find, Exploit & Report Cross-Site Scripting Bugs That Pay (2026)](https://securityelites.com/day-7-xss-bug-bounty/) — *Bug Bounty Course* (2026-04-22)
+- [Day 8: IDOR Bug Bounty Hunting — Find Insecure Direct Object Reference Vulnerabilities That Pay (2026)](https://securityelites.com/day-8-idor-bug-bounty/) — *Bug Bounty Course* (2026-04-22)

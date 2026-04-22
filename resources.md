@@ -69,3 +69,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 1: What Is Ethical Hacking? (The Truth Nobody Tells Beginners in 2026)](https://securityelites.com/day-1-what-is-ethical-hacking/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 2: How to Install Kali Linux in 2026 (Step-by-Step for Complete Beginners)](https://securityelites.com/day-2-how-to-install-kali-linux/) — *Ethical Hacking Course* (2026-04-22)
 - [Day 3: Linux Commands for Ethical Hacking (The 40 You'll Use Every Single Day)](https://securityelites.com/day-3-linux-commands-for-ethical-hacking/) — *Ethical Hacking Course* (2026-04-22)
+- [Day 9: Google Dorking & OSINT — How to Find Publicly Exposed Information Like a Pro (2026)](https://securityelites.com/day-9-google-dorking-osint/) — *Ethical Hacking Course* (2026-04-22)

@@ -48,3 +48,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Day 7: SQLmap Tutorial (2026) — Automate SQL Injection Like a Pro 🔥](https://securityelites.com/kali-linux-day-7-sqlmap-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Kali Linux Day 6: Nikto Tutorial (Kali Linux 2026): Find CRITICAL Web Server Vulnerabilities in Minutes](https://securityelites.com/kali-linux-day-6-nikto-tutorial/) — *Cyber Security Tools* (2026-04-22)
 - [Kali Linux Day 8: Wireshark Tutorial 2026 — Capture & Analyse Real Network Traffic (Complete Guide)](https://securityelites.com/kali-linux-day-8-wireshark-tutorial/) — *Cyber Security Tools* (2026-04-22)
+- [Kali Linux Day 9 : theHarvester Tutorial 2026 — OSINT Email & Domain Recon Complete Guide](https://securityelites.com/kali-linux-day-9-theharvester-tutorial/) — *Kali Linux* (2026-04-22)

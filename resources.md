@@ -44,3 +44,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 2: Netcat Tutorial for Beginners — Master the Swiss Army Knife of Networking in Kali Linux (2026)](https://securityelites.com/day-2-netcat-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Kali Linux Day 3: Gobuster Tutorial — Find Hidden Directories, Files & Subdomains (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-3-gobuster-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Kali Linux Day 4: Hydra Tutorial — Brute Force SSH, FTP, HTTP & 50+ Protocols (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-4-hydra-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Kali Linux Day 5: John the Ripper Tutorial — Crack Hashes, /etc/shadow, ZIP & PDF Passwords (Complete Guide 2026)](https://securityelites.com/kali-linux-day-5-john-the-ripper-tutorial/) — *Cyber Security Tools* (2026-04-22)

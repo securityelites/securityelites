@@ -58,3 +58,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Write a Bug Bounty Report That Gets Paid — Templates, Examples, and the 9 Reasons Reports Get Rejected (2026)](https://securityelites.com/how-to-report-bug-bounty-vulnerability/) — *Bug Bounty Hunting* (2026-04-22)
 - [Google Bug Bounty Program — How Ethical Hackers Legally Earn $100–$31,337 Finding Gmail Vulnerabilities (2026)](https://securityelites.com/google-bug-bounty-program/) — *Bug Bounty Hunting* (2026-04-22)
 - [Day 11: Open Redirect Bug Bounty Hunting 2026 — Find, Chain and Report the Vulnerability That Turns $200 Bugs Into $5,000 Findings](https://securityelites.com/day-11-open-redirect-bug-bounty/) — *Authentication Bypass* (2026-04-22)
+- [Bug Bounty Day 6: Subdomain Enumeration — Build Your Full Attack Surface Map (2026)](https://securityelites.com/day-6-subdomain-enumeration-bug-bounty/) — *Bug Bounty Course* (2026-04-22)

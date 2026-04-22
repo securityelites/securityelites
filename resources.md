@@ -85,3 +85,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Automated Scan Lab 2026 — Nikto & OWASP ZAP Against a Real Vulnerable Target | Hacking Lab25](https://securityelites.com/dvwa-automated-scan-lab-2026/) — *Bug Bounty Hunting* (2026-04-22)
 - [Day 1: Nmap Tutorial for Beginners — How to Scan Any Network Like a Pro in Kali Linux (2026)](https://securityelites.com/day-1-nmap-tutorial/) — *Kali Linux* (2026-04-22)
 - [AI-Powered Social Engineering 2026 — How Generative AI Makes Phishing More Dangerous](https://securityelites.com/ai-powered-social-engineering-2026/) — *AI in Hacking* (2026-04-22)
+- [C2 Frameworks 2026 — Cobalt Strike, Sliver, Empire & Red Team C2 Architecture | Hacking Course Day35](https://securityelites.com/day-35-c2-frameworks/) — *Blue Team* (2026-04-22)

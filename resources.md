@@ -49,3 +49,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Day 6: Nikto Tutorial (Kali Linux 2026): Find CRITICAL Web Server Vulnerabilities in Minutes](https://securityelites.com/kali-linux-day-6-nikto-tutorial/) — *Cyber Security Tools* (2026-04-22)
 - [Kali Linux Day 8: Wireshark Tutorial 2026 — Capture & Analyse Real Network Traffic (Complete Guide)](https://securityelites.com/kali-linux-day-8-wireshark-tutorial/) — *Cyber Security Tools* (2026-04-22)
 - [Kali Linux Day 9 : theHarvester Tutorial 2026 — OSINT Email & Domain Recon Complete Guide](https://securityelites.com/kali-linux-day-9-theharvester-tutorial/) — *Kali Linux* (2026-04-22)
+- [Day 1: What Is Bug Bounty? How Beginners Are Earning $10,000/Month Finding Bugs From Home (2026)](https://securityelites.com/day-1-bug-bounty-for-beginners/) — *Bug Bounty Course* (2026-04-22)

@@ -64,3 +64,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 9: SQL Injection for Bug Bounty 2026 — Manual Testing + SQLmap Complete Guide](https://securityelites.com/day-9-sql-injection-bug-bounty/) — *Bug Bounty Course* (2026-04-22)
 - [Day 10: SSRF — Server-Side Request Forgery Hunting (2026 Bug Bounty Complete Guide)](https://securityelites.com/day-10-ssrf-bug-bounty/) — *Authentication Bypass* (2026-04-22)
 - [Day 12: File Upload Vulnerabilities — From Bypassing Filters to Remote Code Execution (Bug Bounty 2026)](https://securityelites.com/day-12-file-upload-vulnerabilities-bug-bounty/) — *Bug Bounty Course* (2026-04-22)
+- [BB Day 14: Command Injection Bug Bounty 2026 — Find OS Injection in Web Apps & APIs That Pay](https://securityelites.com/day-14-command-injection-bug-bounty/) — *Bug Bounty Course* (2026-04-22)

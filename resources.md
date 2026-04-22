@@ -84,3 +84,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Jailbreaking Research 2026 — How Researchers Study LLM Safety Robustness](https://securityelites.com/jailbreaking-claude-ai-2026/) — *AI in Hacking* (2026-04-22)
 - [DVWA Automated Scan Lab 2026 — Nikto & OWASP ZAP Against a Real Vulnerable Target | Hacking Lab25](https://securityelites.com/dvwa-automated-scan-lab-2026/) — *Bug Bounty Hunting* (2026-04-22)
 - [Day 1: Nmap Tutorial for Beginners — How to Scan Any Network Like a Pro in Kali Linux (2026)](https://securityelites.com/day-1-nmap-tutorial/) — *Kali Linux* (2026-04-22)
+- [AI-Powered Social Engineering 2026 — How Generative AI Makes Phishing More Dangerous](https://securityelites.com/ai-powered-social-engineering-2026/) — *AI in Hacking* (2026-04-22)

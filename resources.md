@@ -74,3 +74,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 12: Burp Suite Setup — Intercept Your First Web Request in 10 Minutes (2026)](https://securityelites.com/day-12-burp-suite-setup/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 11: Web Application Security Basics — How the Web Works (and Where It Breaks) 2026](https://securityelites.com/day-11-web-application-security-basics/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 13: SQL Injection Explained — From First Quote to Finding the Vulnerability (2026)](https://securityelites.com/day-13-sql-injection-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Day 14: XSS Cross-Site Scripting — How Hackers Steal Cookies & Take Over Accounts (2026)](https://securityelites.com/day-14-xss-cross-site-scripting/) — *Cross-Site Scripting (XSS)* (2026-04-22)

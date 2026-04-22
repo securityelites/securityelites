@@ -80,3 +80,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 17: Security Misconfiguration — The Easiest Vulnerabilities to Find (2026)](https://securityelites.com/day-17-security-misconfiguration/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 19: Command Injection — When User Input Reaches the OS Shell (2026)](https://securityelites.com/day-19-command-injection/) — *Command Injection* (2026-04-22)
 - [Day 20: Web Application Penetration Testing Methodology 2026 — Zero to Pro Hacker Workflow (Complete Guide)](https://securityelites.com/day-20-web-app-pentesting-methodology/) — *Blue Team* (2026-04-22)
+- [Day 21: Metasploit Framework — From Module to Shell (Complete Beginner's Guide 2026)](https://securityelites.com/day-21-metasploit-framework/) — *Cyber Security Courses &amp; Training* (2026-04-22)

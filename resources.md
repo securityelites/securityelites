@@ -82,3 +82,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 20: Web Application Penetration Testing Methodology 2026 — Zero to Pro Hacker Workflow (Complete Guide)](https://securityelites.com/day-20-web-app-pentesting-methodology/) — *Blue Team* (2026-04-22)
 - [Day 21: Metasploit Framework — From Module to Shell (Complete Beginner's Guide 2026)](https://securityelites.com/day-21-metasploit-framework/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [AI Jailbreaking Research 2026 — How Researchers Study LLM Safety Robustness](https://securityelites.com/jailbreaking-claude-ai-2026/) — *AI in Hacking* (2026-04-22)
+- [DVWA Automated Scan Lab 2026 — Nikto & OWASP ZAP Against a Real Vulnerable Target | Hacking Lab25](https://securityelites.com/dvwa-automated-scan-lab-2026/) — *Bug Bounty Hunting* (2026-04-22)

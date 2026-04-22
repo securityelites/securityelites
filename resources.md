@@ -86,3 +86,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 1: Nmap Tutorial for Beginners — How to Scan Any Network Like a Pro in Kali Linux (2026)](https://securityelites.com/day-1-nmap-tutorial/) — *Kali Linux* (2026-04-22)
 - [AI-Powered Social Engineering 2026 — How Generative AI Makes Phishing More Dangerous](https://securityelites.com/ai-powered-social-engineering-2026/) — *AI in Hacking* (2026-04-22)
 - [C2 Frameworks 2026 — Cobalt Strike, Sliver, Empire & Red Team C2 Architecture | Hacking Course Day35](https://securityelites.com/day-35-c2-frameworks/) — *Blue Team* (2026-04-22)
+- [AI Chatbot Data Exfiltration 2026 — How Prompt Injection Leaks User Data](https://securityelites.com/ai-chatbot-data-exfiltration-prompt-injection-2026/) — *AI in Hacking* (2026-04-22)

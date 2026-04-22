@@ -52,3 +52,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 1: What Is Bug Bounty? How Beginners Are Earning $10,000/Month Finding Bugs From Home (2026)](https://securityelites.com/day-1-bug-bounty-for-beginners/) — *Bug Bounty Course* (2026-04-22)
 - [Day 2: Setting Up Your Bug Bounty Hacking Lab — Burp Suite, Firefox & Your First Intercepted HTTP Request (2026)](https://securityelites.com/day-2-burp-suite-setup-for-bug-bounty/) — *Bug Bounty Course* (2026-04-22)
 - [Day 3: How the Web Works — HTTP, DNS & the Request-Response Cycle Every Bug Bounty Hunter Must Understand (2026)](https://securityelites.com/day-3-how-http-works-for-beginners/) — *Bug Bounty Course* (2026-04-22)
+- [Day 4: OWASP Top 10 Explained — The Official Bug Bounty Vulnerability Map Every Hunter Needs (2026)](https://securityelites.com/day-4-owasp-top-10-explained/) — *Bug Bounty Course* (2026-04-22)

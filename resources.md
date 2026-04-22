@@ -34,3 +34,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Burp Suite Integration Lab 2026 — Full Attack Walkthrough Using Burp Suite | Hacking Lab24](https://securityelites.com/dvwa-burp-suite-integration-lab-2026/) — *Cyber Security Tools* (2026-04-21)
 - [AI Voice Cloning Authentication Bypass 2026 — How Deepfakes Defeat Voice Biometrics](https://securityelites.com/ai-voice-cloning-authentication-bypass-2026/) — *AI in Hacking* (2026-04-21)
 - [Recon-ng Tutorial 2026 — Modular OSINT Framework for Professional Reconnaissance | Tools Day21](https://securityelites.com/kali-linux-day-21-recon-ng-tutorial/) — *Cyber Security Tools* (2026-04-22)
+- [Day 4: Linux File System Explained — Why Every Directory Is a Hacker's Treasure Map](https://securityelites.com/day-4-linux-file-system/) — *Ethical Hacking Course* (2026-04-22)

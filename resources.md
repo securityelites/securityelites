@@ -40,3 +40,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 7: Wireshark for Beginners — How to Capture & Read Real Network Traffic (2026)](https://securityelites.com/day-7-wireshark-tutorial-for-beginners/) — *Ethical Hacking Course* (2026-04-22)
 - [Day 8: Nmap Tutorial for Beginners — Complete Network Scanning Guide (2026)](https://securityelites.com/day-8-nmap-tutorial-for-beginners/) — *Ethical Hacking Course* (2026-04-22)
 - [Kali Linux Commands Cheat Sheet 2026 — 200+ Commands with Examples (The Only Reference You'll Ever Need)](https://securityelites.com/kali-linux-commands-cheat-sheet/) — *Cheat Sheets* (2026-04-22)
+- [What Certifications Do Ethical Hackers Need 2026 — Honest Ranking (CEH vs OSCP vs eJPT vs Security+ Compared)](https://securityelites.com/ethical-hacking-certifications/) — *Cyber Security Career* (2026-04-22)

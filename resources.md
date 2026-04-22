@@ -56,3 +56,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 5: Burp Suite Deep Dive for Beginners — Scanner, Intruder, Decoder & Your First Real Vulnerability Test (2026)](https://securityelites.com/day-5-burp-suite-deep-dive/) — *Bug Bounty Course* (2026-04-22)
 - [Bug Bounty Hunting for Beginners — The Complete Step-by-Step Guide From Zero to First Paid Finding (2026)](https://securityelites.com/bug-bounty-hunting-for-beginners/) — *Bug Bounty Hunting* (2026-04-22)
 - [How to Write a Bug Bounty Report That Gets Paid — Templates, Examples, and the 9 Reasons Reports Get Rejected (2026)](https://securityelites.com/how-to-report-bug-bounty-vulnerability/) — *Bug Bounty Hunting* (2026-04-22)
+- [Google Bug Bounty Program — How Ethical Hackers Legally Earn $100–$31,337 Finding Gmail Vulnerabilities (2026)](https://securityelites.com/google-bug-bounty-program/) — *Bug Bounty Hunting* (2026-04-22)

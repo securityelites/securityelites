@@ -75,3 +75,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 11: Web Application Security Basics — How the Web Works (and Where It Breaks) 2026](https://securityelites.com/day-11-web-application-security-basics/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 13: SQL Injection Explained — From First Quote to Finding the Vulnerability (2026)](https://securityelites.com/day-13-sql-injection-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Day 14: XSS Cross-Site Scripting — How Hackers Steal Cookies & Take Over Accounts (2026)](https://securityelites.com/day-14-xss-cross-site-scripting/) — *Cross-Site Scripting (XSS)* (2026-04-22)
+- [Free Ethical Hacking Course for Beginners 2026 — 100 Days from Zero to Professional (No Credit Card Ever)](https://securityelites.com/free-ethical-hacking-course/) — *Blue Team* (2026-04-22)

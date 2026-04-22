@@ -43,3 +43,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Certifications Do Ethical Hackers Need 2026 — Honest Ranking (CEH vs OSCP vs eJPT vs Security+ Compared)](https://securityelites.com/ethical-hacking-certifications/) — *Cyber Security Career* (2026-04-22)
 - [Day 2: Netcat Tutorial for Beginners — Master the Swiss Army Knife of Networking in Kali Linux (2026)](https://securityelites.com/day-2-netcat-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
 - [Kali Linux Day 3: Gobuster Tutorial — Find Hidden Directories, Files & Subdomains (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-3-gobuster-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)
+- [Kali Linux Day 4: Hydra Tutorial — Brute Force SSH, FTP, HTTP & 50+ Protocols (Complete Beginner Guide 2026)](https://securityelites.com/kali-linux-day-4-hydra-tutorial/) — *Cyber Security Courses &amp; Training* (2026-04-22)

@@ -54,3 +54,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 3: How the Web Works — HTTP, DNS & the Request-Response Cycle Every Bug Bounty Hunter Must Understand (2026)](https://securityelites.com/day-3-how-http-works-for-beginners/) — *Bug Bounty Course* (2026-04-22)
 - [Day 4: OWASP Top 10 Explained — The Official Bug Bounty Vulnerability Map Every Hunter Needs (2026)](https://securityelites.com/day-4-owasp-top-10-explained/) — *Bug Bounty Course* (2026-04-22)
 - [Day 5: Burp Suite Deep Dive for Beginners — Scanner, Intruder, Decoder & Your First Real Vulnerability Test (2026)](https://securityelites.com/day-5-burp-suite-deep-dive/) — *Bug Bounty Course* (2026-04-22)
+- [Bug Bounty Hunting for Beginners — The Complete Step-by-Step Guide From Zero to First Paid Finding (2026)](https://securityelites.com/bug-bounty-hunting-for-beginners/) — *Bug Bounty Hunting* (2026-04-22)

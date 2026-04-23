@@ -90,3 +90,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Build a Bug Bounty Automation Lab at Home for Under $100 (2026)](https://securityelites.com/bug-bounty-automation-lab-setup-under-100/) — *Bug Bounty Hunting* (2026-04-22)
 - [DVWA Authentication Bypass Lab 2026 — SQL Injection Login & Session Manipulation | Hacking Lab26](https://securityelites.com/dvwa-authentication-bypass-lab-2026/) — *Authentication Bypass* (2026-04-23)
 - [AI Ransomware Attacks 2026 — How Malware Hacks You Automatically](https://securityelites.com/ai-ransomware-attacks-2026/) — *AI in Hacking* (2026-04-23)
+- [Gemini Advanced Prompt Injection Vulnerabilities 2026 — Research Findings](https://securityelites.com/gemini-advanced-prompt-injection-vulnerabilities-2026/) — *AI in Hacking* (2026-04-23)

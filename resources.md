@@ -93,3 +93,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Gemini Advanced Prompt Injection Vulnerabilities 2026 — Research Findings](https://securityelites.com/gemini-advanced-prompt-injection-vulnerabilities-2026/) — *AI in Hacking* (2026-04-23)
 - [Model Poisoning Attacks 2026 — How AI Models Get Hacked From Inside](https://securityelites.com/model-poisoning-attacks-2026/) — *AI in Hacking* (2026-04-23)
 - [Shodan Tutorial Kali Linux 2026 — Search Engine for Hackers, Dork Queries & API Usage | Hacking Tools Day22](https://securityelites.com/kali-linux-day-22-shodan-tutorial/) — *Cyber Security Tools* (2026-04-23)
+- [AI LLM Hacking Course Day 1 - The AI Security Landscape 2026 — Why Every Ethical Hacker Needs to Learn LLM Hacking Now](https://securityelites.com/ai-llm-day-1-ai-security-landscape-2026/) — *AI in Hacking* (2026-04-23)

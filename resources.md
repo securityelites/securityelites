@@ -88,3 +88,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [C2 Frameworks 2026 — Cobalt Strike, Sliver, Empire & Red Team C2 Architecture | Hacking Course Day35](https://securityelites.com/day-35-c2-frameworks/) — *Blue Team* (2026-04-22)
 - [AI Chatbot Data Exfiltration 2026 — How Prompt Injection Leaks User Data](https://securityelites.com/ai-chatbot-data-exfiltration-prompt-injection-2026/) — *AI in Hacking* (2026-04-22)
 - [How to Build a Bug Bounty Automation Lab at Home for Under $100 (2026)](https://securityelites.com/bug-bounty-automation-lab-setup-under-100/) — *Bug Bounty Hunting* (2026-04-22)
+- [DVWA Authentication Bypass Lab 2026 — SQL Injection Login & Session Manipulation | Hacking Lab26](https://securityelites.com/dvwa-authentication-bypass-lab-2026/) — *Authentication Bypass* (2026-04-23)

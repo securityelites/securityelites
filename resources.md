@@ -95,3 +95,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Shodan Tutorial Kali Linux 2026 — Search Engine for Hackers, Dork Queries & API Usage | Hacking Tools Day22](https://securityelites.com/kali-linux-day-22-shodan-tutorial/) — *Cyber Security Tools* (2026-04-23)
 - [AI LLM Hacking Course Day 1 - The AI Security Landscape 2026 — Why Every Ethical Hacker Needs to Learn LLM Hacking Now](https://securityelites.com/ai-llm-day-1-ai-security-landscape-2026/) — *AI in Hacking* (2026-04-23)
 - [WebSocket Bug Bounty 2026 — Cross-Site WebSocket Hijacking & Message Injection | BB Day 23](https://securityelites.com/day-23-websocket-bug-bounty/) — *Bug Bounty Course* (2026-04-24)
+- [Social Engineering Scripts for Pentesters 2026 — Phishing, Vishing & Pretexting Playbooks](https://securityelites.com/social-engineering-scripts-pentesters-2026/) — *Ethical Hacking* (2026-04-24)

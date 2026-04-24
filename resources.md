@@ -96,3 +96,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI LLM Hacking Course Day 1 - The AI Security Landscape 2026 — Why Every Ethical Hacker Needs to Learn LLM Hacking Now](https://securityelites.com/ai-llm-day-1-ai-security-landscape-2026/) — *AI in Hacking* (2026-04-23)
 - [WebSocket Bug Bounty 2026 — Cross-Site WebSocket Hijacking & Message Injection | BB Day 23](https://securityelites.com/day-23-websocket-bug-bounty/) — *Bug Bounty Course* (2026-04-24)
 - [Social Engineering Scripts for Pentesters 2026 — Phishing, Vishing & Pretexting Playbooks](https://securityelites.com/social-engineering-scripts-pentesters-2026/) — *Ethical Hacking* (2026-04-24)
+- [DVWA Source Code Review Lab 2026 — Finding Vulnerabilities in PHP Before You Exploit Them | Hacking Lab27](https://securityelites.com/dvwa-source-code-review-lab-2026/) — *Blue Team* (2026-04-24)

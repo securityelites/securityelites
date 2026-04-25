@@ -102,3 +102,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Open Redirect to Account Takeover — The Exploit Chain Most Hunters Miss in 2026](https://securityelites.com/open-redirect-account-takeover-chain/) — *Authentication Bypass* (2026-04-25)
 - [How LLMs Work — Transformer Architecture, Tokens & Context Windows | AI LLM Hacking Course Day2](https://securityelites.com/ai-llm-day-2-how-llms-work-hackers-guide/) — *AI in Hacking* (2026-04-25)
 - [DVWA Pentest Report Lab 2026 — Write a Professional Penetration Test Report From Your DVWA Findings | Hacking Lab2](https://securityelites.com/dvwa-pentest-report-lab-2026/) — *Bug Bounty Reports* (2026-04-25)
+- [MCP Server Attacks on AI Assistants 2026 — Tool Poisoning and Context Injection](https://securityelites.com/mcp-server-attacks-ai-assistants-2026/) — *AI in Hacking* (2026-04-25)

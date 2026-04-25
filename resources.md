@@ -98,3 +98,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Social Engineering Scripts for Pentesters 2026 — Phishing, Vishing & Pretexting Playbooks](https://securityelites.com/social-engineering-scripts-pentesters-2026/) — *Ethical Hacking* (2026-04-24)
 - [DVWA Source Code Review Lab 2026 — Finding Vulnerabilities in PHP Before You Exploit Them | Hacking Lab27](https://securityelites.com/dvwa-source-code-review-lab-2026/) — *Blue Team* (2026-04-24)
 - [AI Hallucination Attacks 2026: Real Exploits, Slopsquatting & CVE Abuse](https://securityelites.com/ai-hallucination-attacks-2026/) — *AI in Hacking* (2026-04-24)
+- [Pivoting & Tunneling 2026 — Chisel, Ligolo-ng, SSH Tunnels & SOCKS5 Through Victims | Hacking Course Day36](https://securityelites.com/day-36-pivoting-tunneling/) — *Ethical Hacking* (2026-04-25)

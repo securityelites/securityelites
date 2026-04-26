@@ -107,3 +107,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 25 Bug Bounty — Host Header Injection Attacks 2026](https://securityelites.com/day-25-host-header-injection-bug-bounty/) — *Bug Bounty Course* (2026-04-26)
 - [CRLF Injection Bug Bounty 2026 — Full Exploit Guide (XSS, Response Splitting) BB Day 24](https://securityelites.com/day-24-crlf-injection-bug-bounty/) — *Bug Bounty Course* (2026-04-26)
 - [SecurityElites Launched 47 Free Hacking Labs 2026 — No Signup, No VM, No Setup - Start Your Hacking Journey Now](https://securityelites.com/securityelites-labs-47-free-hacking-labs-2026/) — *AI in Hacking* (2026-04-26)
+- [LLM Fuzzing Techniques 2026 — Automated Vulnerability Discovery in AI Models](https://securityelites.com/llm-fuzzing-techniques-2026/) — *AI in Hacking* (2026-04-26)

@@ -104,3 +104,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Pentest Report Lab 2026 — Write a Professional Penetration Test Report From Your DVWA Findings | Hacking Lab2](https://securityelites.com/dvwa-pentest-report-lab-2026/) — *Bug Bounty Reports* (2026-04-25)
 - [MCP Server Attacks on AI Assistants 2026 — Tool Poisoning and Context Injection](https://securityelites.com/mcp-server-attacks-ai-assistants-2026/) — *AI in Hacking* (2026-04-25)
 - [Kali Linux Day 23 — Fierce DNS Reconnaissance Tutorial 2026](https://securityelites.com/kali-linux-day-23-fierce-tutorial/) — *Cyber Security Tools* (2026-04-25)
+- [Day 25 Bug Bounty — Host Header Injection Attacks 2026](https://securityelites.com/day-25-host-header-injection-bug-bounty/) — *Bug Bounty Course* (2026-04-26)

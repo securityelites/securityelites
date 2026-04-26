@@ -110,3 +110,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM Fuzzing Techniques 2026 — Automated Vulnerability Discovery in AI Models](https://securityelites.com/llm-fuzzing-techniques-2026/) — *AI in Hacking* (2026-04-26)
 - [OWASP LLM Top 10 — The Complete Hacker's Guide to Every Vulnerability | AI LLM Hacking Course Day3](https://securityelites.com/ai-llm-day-3-owasp-llm-top-10-2025/) — *AI in Hacking* (2026-04-26)
 - [10 Real Bug Bounty Reports That Paid $10,000+ — What They Had in Common](https://securityelites.com/real-bug-bounty-reports-10000-paid/) — *Bug Bounty Hunting* (2026-04-26)
+- [Network Persistence 2026 — Scheduled Tasks, Registry Persistence & Service Backdoors | Hacking Course Day37](https://securityelites.com/day-37-network-persistence/) — *Ethical Hacking* (2026-04-26)

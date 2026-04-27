@@ -113,3 +113,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Network Persistence 2026 — Scheduled Tasks, Registry Persistence & Service Backdoors | Hacking Course Day37](https://securityelites.com/day-37-network-persistence/) — *Ethical Hacking* (2026-04-26)
 - [AI-Assisted Recon and Attack Surface Mapping 2026 — How hackers use LLMs to map attack surfaces faster](https://securityelites.com/ai-assisted-recon-attack-surface-mapping-2026/) — *AI in Hacking* (2026-04-27)
 - [DVWA Impossible Security Analysis 2026 — What Secure PHP Code Actually Looks Like | Hacking Labs Day29](https://securityelites.com/dvwa-impossible-security-analysis-2026/) — *DVWA Labs* (2026-04-27)
+- [eJPT Certification 2026 — Is It Worth It, How Hard Is It, and Who Should Skip It](https://securityelites.com/ejpt-certification-worth-it-2026/) — *Cyber Security Career* (2026-04-27)

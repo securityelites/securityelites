@@ -115,3 +115,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Impossible Security Analysis 2026 — What Secure PHP Code Actually Looks Like | Hacking Labs Day29](https://securityelites.com/dvwa-impossible-security-analysis-2026/) — *DVWA Labs* (2026-04-27)
 - [eJPT Certification 2026 — Is It Worth It, How Hard Is It, and Who Should Skip It](https://securityelites.com/ejpt-certification-worth-it-2026/) — *Cyber Security Career* (2026-04-27)
 - [Prompt Injection in Agentic Workflows 2026 — When AI Agents Act on Malicious Instructions](https://securityelites.com/prompt-injection-agentic-workflows-2026/) — *AI in Hacking* (2026-04-27)
+- [DVWA Complete Pentest Challenge 2026 — Full Assessment From Scratch, No Hints | Hacking Lab 30](https://securityelites.com/dvwa-complete-pentest-challenge-2026/) — *Blue Team* (2026-04-27)

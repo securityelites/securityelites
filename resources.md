@@ -117,3 +117,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prompt Injection in Agentic Workflows 2026 — When AI Agents Act on Malicious Instructions](https://securityelites.com/prompt-injection-agentic-workflows-2026/) — *AI in Hacking* (2026-04-27)
 - [DVWA Complete Pentest Challenge 2026 — Full Assessment From Scratch, No Hints | Hacking Lab 30](https://securityelites.com/dvwa-complete-pentest-challenge-2026/) — *Blue Team* (2026-04-27)
 - [LLM01 Prompt Injection 2026 — Complete Attack Guide | AI LLM Hacking Course Day4](https://securityelites.com/ai-llm-day-4-llm01-prompt-injection-complete-guide/) — *AI in Hacking* (2026-04-27)
+- [OWASP ZAP Tutorial 2026 — Automated Web Scanning, Spider & Active Attack | Kali Linux Tools Day24](https://securityelites.com/kali-linux-day-24-owasp-zap-tutorial/) — *Bug Bounty Reconnaissance* (2026-04-27)

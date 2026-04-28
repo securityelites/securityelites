@@ -121,3 +121,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Application API Key Theft via Prompt Injection 2026 — Credential Extraction Attacks](https://securityelites.com/ai-application-api-key-theft-prompt-injection-2026/) — *AI in Hacking* (2026-04-28)
 - [Metasploitable Lab Setup 2026 — VirtualBox, Isolated Network & First Connection | Hacking Lab 31](https://securityelites.com/metasploitable-lab-setup-2026/) — *Ethical Hacking* (2026-04-28)
 - [50 Cybersecurity Interview Questions 2026 — Real Questions + Model Answers](https://securityelites.com/cybersecurity-interview-questions-2026/) — *Cyber Security Career* (2026-04-28)
+- [SSTI Bug Bounty 2026 — Server-Side Template Injection to RCE on 5 Template Engines | BB Day 26](https://securityelites.com/day-26-ssti-bug-bounty/) — *Bug Bounty Course* (2026-04-28)

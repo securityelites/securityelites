@@ -122,3 +122,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Metasploitable Lab Setup 2026 — VirtualBox, Isolated Network & First Connection | Hacking Lab 31](https://securityelites.com/metasploitable-lab-setup-2026/) — *Ethical Hacking* (2026-04-28)
 - [50 Cybersecurity Interview Questions 2026 — Real Questions + Model Answers](https://securityelites.com/cybersecurity-interview-questions-2026/) — *Cyber Security Career* (2026-04-28)
 - [SSTI Bug Bounty 2026 — Server-Side Template Injection to RCE on 5 Template Engines | BB Day 26](https://securityelites.com/day-26-ssti-bug-bounty/) — *Bug Bounty Course* (2026-04-28)
+- [Registry Persistence 2026 — Run Keys, COM Hijacking & Boot Execute | Hacking Course Day 38](https://securityelites.com/day-38-registry-persistence/) — *Ethical Hacking* (2026-04-28)

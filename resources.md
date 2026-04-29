@@ -128,3 +128,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Model Inversion Attacks 2026 — Extracting Training Data from AI Models](https://securityelites.com/model-inversion-attacks-2026/) — *AI in Hacking* (2026-04-29)
 - [Metasploitable Nmap Enumeration Lab 2026 — Complete Walkthrough | Hacking Lab 32](https://securityelites.com/metasploitable-nmap-enumeration-lab-2026/) — *Enumeration* (2026-04-29)
 - [AI Worms and Self-Propagating LLM Malware 2026 — The Morris Worm for AI Systems](https://securityelites.com/ai-worms-self-propagating-llm-malware-2026/) — *AI in Hacking* (2026-04-29)
+- [SSRF vs CSRF Bug Bounty 2026— What's the Difference and Why Both Pay Critical](https://securityelites.com/ssrf-vs-csrf-difference-bug-bounty/) — *Bug Bounty Hunting* (2026-04-29)

@@ -127,3 +127,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Command Injection Payloads That Bypass WAF in 2026 — Real Bypass List](https://securityelites.com/command-injection-payloads-bypass-waf-2026/) — *Command Injection* (2026-04-29)
 - [Model Inversion Attacks 2026 — Extracting Training Data from AI Models](https://securityelites.com/model-inversion-attacks-2026/) — *AI in Hacking* (2026-04-29)
 - [Metasploitable Nmap Enumeration Lab 2026 — Complete Walkthrough | Hacking Lab 32](https://securityelites.com/metasploitable-nmap-enumeration-lab-2026/) — *Enumeration* (2026-04-29)
+- [AI Worms and Self-Propagating LLM Malware 2026 — The Morris Worm for AI Systems](https://securityelites.com/ai-worms-self-propagating-llm-malware-2026/) — *AI in Hacking* (2026-04-29)

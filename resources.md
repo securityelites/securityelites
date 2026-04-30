@@ -132,3 +132,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [BeEF-XSS Tutorial 2026 — Browser Exploitation Framework, Hooking & Command Modules | Tools Day 25](https://securityelites.com/kali-linux-day-25-beef-xss-tutorial/) — *Cross-Site Scripting (XSS)* (2026-04-29)
 - [Scheduled Tasks & Cron Jobs 2026 — Creating Persistent Backdoors via Task Schedulers | Hacking Course Day 39](https://securityelites.com/day-39-scheduled-tasks-cron/) — *Blue Team* (2026-04-30)
 - [Many-Shot Jailbreaking Technique 2026 — How Context Window Size Defeats Safety Training](https://securityelites.com/many-shot-jailbreaking-technique-2026/) — *AI in Hacking* (2026-04-30)
+- [Windows Privilege Escalation 2026 — WinPEAS, AlwaysInstallElevated, Token Impersonation | Hacking Course Day 32](https://securityelites.com/day-32-windows-privilege-escalation/) — *Ethical Hacking* (2026-04-30)

@@ -135,3 +135,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Windows Privilege Escalation 2026 — WinPEAS, AlwaysInstallElevated, Token Impersonation | Hacking Course Day 32](https://securityelites.com/day-32-windows-privilege-escalation/) — *Ethical Hacking* (2026-04-30)
 - [OWASP Top 10 LLM Vulnerabilities 2026 — Red Team Assessment Framework + Real Exploits](https://securityelites.com/owasp-top-10-llm-vulnerabilities-2026/) — *AI in Hacking* (2026-04-30)
 - [AI Deepfake Penetration Testing 2026 — Synthetic Media in Offensive Security](https://securityelites.com/ai-deepfake-penetration-testing-2026/) — *AI in Hacking* (2026-04-30)
+- [Path Traversal LFI Bug Bounty 2026 — Directory Traversal, proc Leaks & Log Poison | BB Day 27](https://securityelites.com/day-27-path-traversal-lfi-bug-bounty/) — *Bug Bounty Course* (2026-04-30)

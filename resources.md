@@ -131,3 +131,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [SSRF vs CSRF Bug Bounty 2026— What's the Difference and Why Both Pay Critical](https://securityelites.com/ssrf-vs-csrf-difference-bug-bounty/) — *Bug Bounty Hunting* (2026-04-29)
 - [BeEF-XSS Tutorial 2026 — Browser Exploitation Framework, Hooking & Command Modules | Tools Day 25](https://securityelites.com/kali-linux-day-25-beef-xss-tutorial/) — *Cross-Site Scripting (XSS)* (2026-04-29)
 - [Scheduled Tasks & Cron Jobs 2026 — Creating Persistent Backdoors via Task Schedulers | Hacking Course Day 39](https://securityelites.com/day-39-scheduled-tasks-cron/) — *Blue Team* (2026-04-30)
+- [Many-Shot Jailbreaking Technique 2026 — How Context Window Size Defeats Safety Training](https://securityelites.com/many-shot-jailbreaking-technique-2026/) — *AI in Hacking* (2026-04-30)

@@ -140,3 +140,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Insecure AI Plugin Architecture Attacks 2026 — When Tools Become Weapons](https://securityelites.com/insecure-ai-plugin-architecture-attacks-2026/) — *AI in Hacking* (2026-05-01)
 - [Indirect Prompt Injection 2026 — Web-Delivered Attacks That Hijack AI Without User Input | AI LLM Hacking Course Day 5](https://securityelites.com/ai-llm-day-5-indirect-prompt-injection-attacks/) — *AI in Hacking* (2026-05-01)
 - [How to Reverse a Real Android APK in 15 Minutes — Complete Beginner Guide 2026](https://securityelites.com/reverse-android-apk-15-minutes/) — *Ethical Hacking* (2026-05-01)
+- [Metasploitable Service Enumeration Lab 2026 — Full Attack Surface Mapping | Hacking Lab 33](https://securityelites.com/metasploitable-service-enumeration-lab-2026/) — *Enumeration* (2026-05-01)

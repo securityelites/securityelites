@@ -138,3 +138,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Path Traversal LFI Bug Bounty 2026 — Directory Traversal, proc Leaks & Log Poison | BB Day 27](https://securityelites.com/day-27-path-traversal-lfi-bug-bounty/) — *Bug Bounty Course* (2026-04-30)
 - [AI Code Assistant Backdoor Injection 2026 — When Copilot Writes Malicious Code](https://securityelites.com/ai-code-assistant-backdoor-injection-2026/) — *AI in Hacking* (2026-05-01)
 - [Insecure AI Plugin Architecture Attacks 2026 — When Tools Become Weapons](https://securityelites.com/insecure-ai-plugin-architecture-attacks-2026/) — *AI in Hacking* (2026-05-01)
+- [Indirect Prompt Injection 2026 — Web-Delivered Attacks That Hijack AI Without User Input | AI LLM Hacking Course Day 5](https://securityelites.com/ai-llm-day-5-indirect-prompt-injection-attacks/) — *AI in Hacking* (2026-05-01)

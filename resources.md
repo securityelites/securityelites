@@ -136,3 +136,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [OWASP Top 10 LLM Vulnerabilities 2026 — Red Team Assessment Framework + Real Exploits](https://securityelites.com/owasp-top-10-llm-vulnerabilities-2026/) — *AI in Hacking* (2026-04-30)
 - [AI Deepfake Penetration Testing 2026 — Synthetic Media in Offensive Security](https://securityelites.com/ai-deepfake-penetration-testing-2026/) — *AI in Hacking* (2026-04-30)
 - [Path Traversal LFI Bug Bounty 2026 — Directory Traversal, proc Leaks & Log Poison | BB Day 27](https://securityelites.com/day-27-path-traversal-lfi-bug-bounty/) — *Bug Bounty Course* (2026-04-30)
+- [AI Code Assistant Backdoor Injection 2026 — When Copilot Writes Malicious Code](https://securityelites.com/ai-code-assistant-backdoor-injection-2026/) — *AI in Hacking* (2026-05-01)

@@ -145,3 +145,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Metasploit + Metasploitable First Module 2026 — vsftpd Backdoor to Root Shell | Hacking Lab 34](https://securityelites.com/metasploit-metasploitable-first-module-2026/) — *Ethical Hacking* (2026-05-01)
 - [AI Password Cracking 2026 — How Machine Learning Breaks Credentials Faster](https://securityelites.com/ai-password-cracking-2026/) — *AI in Hacking* (2026-05-02)
 - [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials & System Data | AI LLM Hacking Course Day 6](https://securityelites.com/ai-llm-day-6-llm02-sensitive-information-disclosure/) — *AI in Hacking* (2026-05-02)
+- [Prompt Injection in RAG Systems 2026 — How Attackers Poison AI Knowledge Bases](https://securityelites.com/prompt-injection-rag-systems-2026/) — *AI in Hacking* (2026-05-02)

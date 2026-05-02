@@ -143,3 +143,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Metasploitable Service Enumeration Lab 2026 — Full Attack Surface Mapping | Hacking Lab 33](https://securityelites.com/metasploitable-service-enumeration-lab-2026/) — *Enumeration* (2026-05-01)
 - [Shadow AI Security Risks 2026 — The Unsanctioned AI Epidemic in Enterprise](https://securityelites.com/shadow-ai-security-risks-2026/) — *AI in Hacking* (2026-05-01)
 - [Metasploit + Metasploitable First Module 2026 — vsftpd Backdoor to Root Shell | Hacking Lab 34](https://securityelites.com/metasploit-metasploitable-first-module-2026/) — *Ethical Hacking* (2026-05-01)
+- [AI Password Cracking 2026 — How Machine Learning Breaks Credentials Faster](https://securityelites.com/ai-password-cracking-2026/) — *AI in Hacking* (2026-05-02)

@@ -144,3 +144,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Shadow AI Security Risks 2026 — The Unsanctioned AI Epidemic in Enterprise](https://securityelites.com/shadow-ai-security-risks-2026/) — *AI in Hacking* (2026-05-01)
 - [Metasploit + Metasploitable First Module 2026 — vsftpd Backdoor to Root Shell | Hacking Lab 34](https://securityelites.com/metasploit-metasploitable-first-module-2026/) — *Ethical Hacking* (2026-05-01)
 - [AI Password Cracking 2026 — How Machine Learning Breaks Credentials Faster](https://securityelites.com/ai-password-cracking-2026/) — *AI in Hacking* (2026-05-02)
+- [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials & System Data | AI LLM Hacking Course Day 6](https://securityelites.com/ai-llm-day-6-llm02-sensitive-information-disclosure/) — *AI in Hacking* (2026-05-02)

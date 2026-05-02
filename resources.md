@@ -149,3 +149,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Use Social Engineering in 2026 — 7 Manipulation Techniques That Actually Work](https://securityelites.com/how-hackers-use-social-engineering-2026/) — *AI in Hacking* (2026-05-02)
 - [2026 LLM Jailbreak Landscape](https://securityelites.com/2026-llm-jailbreak-landscape/) — *AI in Hacking* (2026-05-02)
 - [AI Model Theft — Extraction Attacks 2026 — Stealing Trained Models Through the API](https://securityelites.com/ai-model-theft-extraction-attacks-2026/) — *AI in Hacking* (2026-05-02)
+- [AI CAPTCHA Bypass 2026 — How AI Solves Any CAPTCHA in Seconds](https://securityelites.com/ai-captcha-bypass-2026/) — *AI in Hacking* (2026-05-02)

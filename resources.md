@@ -150,3 +150,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [2026 LLM Jailbreak Landscape](https://securityelites.com/2026-llm-jailbreak-landscape/) — *AI in Hacking* (2026-05-02)
 - [AI Model Theft — Extraction Attacks 2026 — Stealing Trained Models Through the API](https://securityelites.com/ai-model-theft-extraction-attacks-2026/) — *AI in Hacking* (2026-05-02)
 - [AI CAPTCHA Bypass 2026 — How AI Solves Any CAPTCHA in Seconds](https://securityelites.com/ai-captcha-bypass-2026/) — *AI in Hacking* (2026-05-02)
+- [What Hackers Can Do With Your IP Address And What They Can't 2026](https://securityelites.com/what-hackers-can-do-with-your-ip-address-2026/) — *Cyber Security* (2026-05-03)

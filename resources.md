@@ -152,3 +152,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI CAPTCHA Bypass 2026 — How AI Solves Any CAPTCHA in Seconds](https://securityelites.com/ai-captcha-bypass-2026/) — *AI in Hacking* (2026-05-02)
 - [What Hackers Can Do With Your IP Address And What They Can't 2026](https://securityelites.com/what-hackers-can-do-with-your-ip-address-2026/) — *Cyber Security* (2026-05-03)
 - [How to Tell If Your Phone Is Hacked 2026 — 10 Warning Signs + Fix Guide](https://securityelites.com/how-to-tell-if-your-phone-is-hacked-2026/) — *Android Hacking* (2026-05-03)
+- [Can AI Be Hacked? 10 Ways How Hackers Hack AI Systems in 2026](https://securityelites.com/can-ai-be-hacked-vulnerabilities-2026/) — *AI in Hacking* (2026-05-03)

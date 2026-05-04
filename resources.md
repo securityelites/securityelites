@@ -154,3 +154,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Tell If Your Phone Is Hacked 2026 — 10 Warning Signs + Fix Guide](https://securityelites.com/how-to-tell-if-your-phone-is-hacked-2026/) — *Android Hacking* (2026-05-03)
 - [Can AI Be Hacked? 10 Ways How Hackers Hack AI Systems in 2026](https://securityelites.com/can-ai-be-hacked-vulnerabilities-2026/) — *AI in Hacking* (2026-05-03)
 - [What Is Vibe Coding? Why Developers Are Shipping Insecure AI Code in 2026](https://securityelites.com/vibe-coding-security-risks-2026/) — *AI in Hacking* (2026-05-04)
+- [Is My Password Leaked? Check for Free 2026 — Complete Breach Check Guide](https://securityelites.com/is-my-password-leaked-check-free-2026/) — *Cyber Security* (2026-05-04)

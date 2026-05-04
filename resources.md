@@ -157,3 +157,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Is My Password Leaked? Check for Free 2026 — Complete Breach Check Guide](https://securityelites.com/is-my-password-leaked-check-free-2026/) — *Cyber Security* (2026-05-04)
 - [AI Scams 2026 — How Criminals Use AI to Steal Money (Real Cases)](https://securityelites.com/ai-scams-how-criminals-use-ai-2026/) — *AI in Hacking* (2026-05-04)
 - [ChatGPT Hacked — What Actually Happened and What It Means for Users 2026](https://securityelites.com/chatgpt-hacked-what-happened-2026/) — *AI in Hacking* (2026-05-04)
+- [How to Spot AI Deepfakes 2026 — Detection Guide for Video, Audio and Images](https://securityelites.com/how-to-spot-ai-deepfakes-2026/) — *AI Deepfake* (2026-05-04)

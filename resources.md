@@ -160,3 +160,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Spot AI Deepfakes 2026 — Detection Guide for Video, Audio and Images](https://securityelites.com/how-to-spot-ai-deepfakes-2026/) — *AI Deepfake* (2026-05-04)
 - [Is Someone Hacking My WiFi Right Now? How to Check 2026](https://securityelites.com/is-someone-hacking-my-wifi-how-to-check-2026/) — *Cyber Security* (2026-05-05)
 - [LLM-Powered OSINT 2026 — Using AI to Automate Open Source Intelligence Gathering](https://securityelites.com/llm-powered-osint-2026/) — *AI in Hacking* (2026-05-05)
+- [LLM03 Supply Chain Vulnerabilities 2026 — Attacking AI Models Before They Deploy | AI LLM Hacking Course Day 7](https://securityelites.com/ai-llm-day-7-llm03-supply-chain-vulnerabilities/) — *AI in Hacking* (2026-05-05)

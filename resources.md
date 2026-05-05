@@ -163,3 +163,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM03 Supply Chain Vulnerabilities 2026 — Attacking AI Models Before They Deploy | AI LLM Hacking Course Day 7](https://securityelites.com/ai-llm-day-7-llm03-supply-chain-vulnerabilities/) — *AI in Hacking* (2026-05-05)
 - [What Is Prompt Injection? The Attack That Breaks AI Assistants (2026)](https://securityelites.com/what-is-prompt-injection-explained-2026/) — *AI in Hacking* (2026-05-05)
 - [AI API Authorization Vulnerabilities 2026 — Broken Access Control in LLM APIs](https://securityelites.com/ai-api-authorization-vulnerabilities-2026/) — *AI in Hacking* (2026-05-05)
+- [Is ChatGPT Safe for Work? Privacy Risks Every Business Needs to Know 2026](https://securityelites.com/is-chatgpt-safe-for-work-privacy-risks-2026/) — *AI in Hacking* (2026-05-05)

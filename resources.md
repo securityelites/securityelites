@@ -159,3 +159,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [ChatGPT Hacked — What Actually Happened and What It Means for Users 2026](https://securityelites.com/chatgpt-hacked-what-happened-2026/) — *AI in Hacking* (2026-05-04)
 - [How to Spot AI Deepfakes 2026 — Detection Guide for Video, Audio and Images](https://securityelites.com/how-to-spot-ai-deepfakes-2026/) — *AI Deepfake* (2026-05-04)
 - [Is Someone Hacking My WiFi Right Now? How to Check 2026](https://securityelites.com/is-someone-hacking-my-wifi-how-to-check-2026/) — *Cyber Security* (2026-05-05)
+- [LLM-Powered OSINT 2026 — Using AI to Automate Open Source Intelligence Gathering](https://securityelites.com/llm-powered-osint-2026/) — *AI in Hacking* (2026-05-05)

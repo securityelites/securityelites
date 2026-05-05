@@ -165,3 +165,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI API Authorization Vulnerabilities 2026 — Broken Access Control in LLM APIs](https://securityelites.com/ai-api-authorization-vulnerabilities-2026/) — *AI in Hacking* (2026-05-05)
 - [Is ChatGPT Safe for Work? Privacy Risks Every Business Needs to Know 2026](https://securityelites.com/is-chatgpt-safe-for-work-privacy-risks-2026/) — *AI in Hacking* (2026-05-05)
 - [What Is an LLM? Large Language Models Explained for Security Teams 2026](https://securityelites.com/what-is-an-llm-large-language-model-security-2026/) — *AI in Hacking* (2026-05-05)
+- [ChatGPT vs Gemini vs Claude Security Comparison— Which AI Is Safest to Use in 2026?](https://securityelites.com/chatgpt-vs-gemini-vs-claude-security-comparison-2026/) — *AI in Hacking* (2026-05-05)

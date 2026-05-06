@@ -167,3 +167,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is an LLM? Large Language Models Explained for Security Teams 2026](https://securityelites.com/what-is-an-llm-large-language-model-security-2026/) — *AI in Hacking* (2026-05-05)
 - [ChatGPT vs Gemini vs Claude Security Comparison— Which AI Is Safest to Use in 2026?](https://securityelites.com/chatgpt-vs-gemini-vs-claude-security-comparison-2026/) — *AI in Hacking* (2026-05-05)
 - [Is AI Watching You? How AI Surveillance Works in 2026](https://securityelites.com/ai-surveillance-how-it-works-2026/) — *AI in Hacking* (2026-05-06)
+- [Can AI Write Malware? What the Research Shows — And What Defenders Must Know (2026)](https://securityelites.com/can-ai-write-malware-2026/) — *AI in Hacking* (2026-05-06)

@@ -170,3 +170,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Can AI Write Malware? What the Research Shows — And What Defenders Must Know (2026)](https://securityelites.com/can-ai-write-malware-2026/) — *AI in Hacking* (2026-05-06)
 - [What Does AI Know About You? More Than You Think 2026](https://securityelites.com/what-does-ai-know-about-you-2026/) — *AI in Hacking* (2026-05-06)
 - [LLM04 Data Model Poisoning 2026 — Corrupting AI From the Training Phase | AI LLM Hacking Class Day 8](https://securityelites.com/ai-llm-day-8-llm04-data-model-poisoning/) — *AI in Hacking* (2026-05-06)
+- [How to Use AI for Cybersecurity Without Creating New Risks in 2026](https://securityelites.com/how-to-use-ai-for-cybersecurity-2026/) — *AI in Hacking* (2026-05-06)

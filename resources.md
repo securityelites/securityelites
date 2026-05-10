@@ -172,3 +172,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM04 Data Model Poisoning 2026 — Corrupting AI From the Training Phase | AI LLM Hacking Class Day 8](https://securityelites.com/ai-llm-day-8-llm04-data-model-poisoning/) — *AI in Hacking* (2026-05-06)
 - [How to Use AI for Cybersecurity Without Creating New Risks in 2026](https://securityelites.com/how-to-use-ai-for-cybersecurity-2026/) — *AI in Hacking* (2026-05-06)
 - [LLM05 Improper Output Handling 2026 — XSS, RCE and SSRF via AI Output | AI LLM Hacking Course Day 9](https://securityelites.com/ai-llm-day-9-llm05-improper-output-handling/) — *AI in Hacking* (2026-05-10)
+- [Cracking Passwords using AI in 2026 - How AI Makes Weak Passwords Even More Dangerous](https://securityelites.com/cracking-passwords-using-ai-in-2026/) — *AI in Hacking* (2026-05-10)

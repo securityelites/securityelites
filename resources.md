@@ -175,3 +175,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Cracking Passwords using AI in 2026 - How AI Makes Weak Passwords Even More Dangerous](https://securityelites.com/cracking-passwords-using-ai-in-2026/) — *AI in Hacking* (2026-05-10)
 - [Will AI Replace Cybersecurity Jobs in 2026? The Honest   Answer](https://securityelites.com/will-ai-replace-cybersecurity-jobs-2026/) — *AI in Hacking* (2026-05-10)
 - [Nation-State AI Cyberwarfare 2026 — How Governments Use LLMs to Attack](https://securityelites.com/nation-state-ai-cyberwarfare-2026/) — *AI in Hacking* (2026-05-11)
+- [SET Social Engineering Toolkit 2026 — Spear-Phishing, Credential Harvesting & Payloads | Kali Linux Day 26](https://securityelites.com/kali-linux-day-26-set-tutorial/) — *Cyber Security Tools* (2026-05-11)

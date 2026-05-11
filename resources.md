@@ -178,3 +178,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [SET Social Engineering Toolkit 2026 — Spear-Phishing, Credential Harvesting & Payloads | Kali Linux Day 26](https://securityelites.com/kali-linux-day-26-set-tutorial/) — *Cyber Security Tools* (2026-05-11)
 - [Prototype Pollution Bug Bounty 2026 — Client-Side, Server-Side & RCE Escalation | BB Day 28](https://securityelites.com/day-28-prototype-pollution-bug-bounty/) — *Bug Bounty Course* (2026-05-11)
 - [What Is AI Jailbreaking? How People Break AI Safety Rules](https://securityelites.com/what-is-ai-jailbreaking-explained-2026/) — *AI in Hacking* (2026-05-11)
+- [Agentic AI Security Risks in 2026 — The Attack Surface Every Organisation Needs to Understand](https://securityelites.com/agentic-ai-security-risks-2026/) — *Agentic AI* (2026-05-11)

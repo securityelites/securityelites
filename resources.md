@@ -182,3 +182,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [MCP Server Security Risks 2026 — Why Hackers Are Already Targeting Them](https://securityelites.com/mcp-server-security-risks-2026/) — *AI in Hacking* (2026-05-12)
 - [PROMPTFLUX and PROMPTSTEAL explained  — AI Malware That Queries LLMs Mid-Attack (2026)](https://securityelites.com/ai-malware-promptflux-llm-2026/) — *AI in Hacking* (2026-05-12)
 - [How to Audit AI-Generated Code for Security — Complete 2026 Checklist](https://securityelites.com/how-to-audit-ai-generated-code-security-2026/) — *AI in Hacking* (2026-05-12)
+- [How Hackers Attack AI Agents in 2026 — The Complete Threat Model](https://securityelites.com/how-hackers-attack-ai-agents-2026/) — *Agentic AI* (2026-05-12)

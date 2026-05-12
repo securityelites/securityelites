@@ -180,3 +180,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is AI Jailbreaking? How People Break AI Safety Rules](https://securityelites.com/what-is-ai-jailbreaking-explained-2026/) — *AI in Hacking* (2026-05-11)
 - [Agentic AI Security Risks in 2026 — The Attack Surface Every Organisation Needs to Understand](https://securityelites.com/agentic-ai-security-risks-2026/) — *Agentic AI* (2026-05-11)
 - [MCP Server Security Risks 2026 — Why Hackers Are Already Targeting Them](https://securityelites.com/mcp-server-security-risks-2026/) — *AI in Hacking* (2026-05-12)
+- [PROMPTFLUX and PROMPTSTEAL explained  — AI Malware That Queries LLMs Mid-Attack (2026)](https://securityelites.com/ai-malware-promptflux-llm-2026/) — *AI in Hacking* (2026-05-12)

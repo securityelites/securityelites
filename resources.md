@@ -179,3 +179,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prototype Pollution Bug Bounty 2026 — Client-Side, Server-Side & RCE Escalation | BB Day 28](https://securityelites.com/day-28-prototype-pollution-bug-bounty/) — *Bug Bounty Course* (2026-05-11)
 - [What Is AI Jailbreaking? How People Break AI Safety Rules](https://securityelites.com/what-is-ai-jailbreaking-explained-2026/) — *AI in Hacking* (2026-05-11)
 - [Agentic AI Security Risks in 2026 — The Attack Surface Every Organisation Needs to Understand](https://securityelites.com/agentic-ai-security-risks-2026/) — *Agentic AI* (2026-05-11)
+- [MCP Server Security Risks 2026 — Why Hackers Are Already Targeting Them](https://securityelites.com/mcp-server-security-risks-2026/) — *AI in Hacking* (2026-05-12)

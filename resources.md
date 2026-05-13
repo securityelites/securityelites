@@ -185,3 +185,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Attack AI Agents in 2026 — The Complete Threat Model](https://securityelites.com/how-hackers-attack-ai-agents-2026/) — *Agentic AI* (2026-05-12)
 - [Google SAIF — The Secure AI Framework Every Security Team Needs in 2026](https://securityelites.com/google-saif-secure-ai-framework-2026/) — *Agentic AI* (2026-05-13)
 - [Shadow AI Security Risks 2026 — Biggest Worry for IT Industry](https://securityelites.com/shadow-ai-security-risks-2026-biggest-worry/) — *AI in Hacking* (2026-05-13)
+- [AI-Powered Phishing 2026 — How BEC Became a Multi-Persona AI Campaign](https://securityelites.com/ai-powered-phishing-attacks-2026/) — *AI Deepfake* (2026-05-13)

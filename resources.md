@@ -191,3 +191,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Infostealer Malware — How Credential Theft Got Smarter in 2026](https://securityelites.com/ai-infostealer-malware-credential-theft-2026/) — *AI in Hacking* (2026-05-14)
 - [LLM07 System Prompt Leakage 2026 — 15 Extraction Techniques Every AI Red Teamer Needs | Day 11](https://securityelites.com/ai-llm-day-11-llm07-system-prompt-leakage/) — *AI in Hacking* (2026-05-14)
 - [Non-Human Identity Security 2026 — How AI Agents Are Breaking IAM](https://securityelites.com/non-human-identity-ai-agents-iam-2026/) — *Agentic AI* (2026-05-14)
+- [Is AI Always Listening? The Technical Truth About Voice Privacy in 2026](https://securityelites.com/is-ai-always-listening-2026/) — *AI in Hacking* (2026-05-14)

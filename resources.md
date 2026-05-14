@@ -189,3 +189,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM06 Excessive Agency 2026 — Hijacking AI Agents to Take Real-World Actions | AI LLM Hacking Course Day 10](https://securityelites.com/ai-llm-day-10-llm06-excessive-agency/) — *AI in Hacking* (2026-05-13)
 - [DLL Hijacking 2026 — Search Order Abuse, Phantom DLLs & Persistence | Hacking Course Day 40](https://securityelites.com/day-40-dll-hijacking/) — *Blue Team* (2026-05-14)
 - [AI Infostealer Malware — How Credential Theft Got Smarter in 2026](https://securityelites.com/ai-infostealer-malware-credential-theft-2026/) — *AI in Hacking* (2026-05-14)
+- [LLM07 System Prompt Leakage 2026 — 15 Extraction Techniques Every AI Red Teamer Needs | Day 11](https://securityelites.com/ai-llm-day-11-llm07-system-prompt-leakage/) — *AI in Hacking* (2026-05-14)

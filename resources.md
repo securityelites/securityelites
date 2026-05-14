@@ -187,3 +187,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Shadow AI Security Risks 2026 — Biggest Worry for IT Industry](https://securityelites.com/shadow-ai-security-risks-2026-biggest-worry/) — *AI in Hacking* (2026-05-13)
 - [AI-Powered Phishing 2026 — How BEC Became a Multi-Persona AI Campaign](https://securityelites.com/ai-powered-phishing-attacks-2026/) — *AI Deepfake* (2026-05-13)
 - [LLM06 Excessive Agency 2026 — Hijacking AI Agents to Take Real-World Actions | AI LLM Hacking Course Day 10](https://securityelites.com/ai-llm-day-10-llm06-excessive-agency/) — *AI in Hacking* (2026-05-13)
+- [DLL Hijacking 2026 — Search Order Abuse, Phantom DLLs & Persistence | Hacking Course Day 40](https://securityelites.com/day-40-dll-hijacking/) — *Blue Team* (2026-05-14)

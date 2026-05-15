@@ -193,3 +193,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Non-Human Identity Security 2026 — How AI Agents Are Breaking IAM](https://securityelites.com/non-human-identity-ai-agents-iam-2026/) — *Agentic AI* (2026-05-14)
 - [Is AI Always Listening? The Technical Truth About Voice Privacy in 2026](https://securityelites.com/is-ai-always-listening-2026/) — *AI in Hacking* (2026-05-14)
 - [How to Protect Yourself From AI in 2026 — The Complete Consumer Protection Guide](https://securityelites.com/how-to-protect-yourself-from-ai-2026/) — *AI Deepfake* (2026-05-14)
+- [AI Location Tracking Privacy 2026 — What Apps Know About Where You Go](https://securityelites.com/ai-location-tracking-privacy-2026/) — *AI Deepfake* (2026-05-15)

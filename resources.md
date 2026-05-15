@@ -195,3 +195,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Protect Yourself From AI in 2026 — The Complete Consumer Protection Guide](https://securityelites.com/how-to-protect-yourself-from-ai-2026/) — *AI Deepfake* (2026-05-14)
 - [AI Location Tracking Privacy 2026 — What Apps Know About Where You Go](https://securityelites.com/ai-location-tracking-privacy-2026/) — *AI Deepfake* (2026-05-15)
 - [Smart Home AI Security Risks 2026 — Is Your Ring, Alexa, or Smart Home Safe?](https://securityelites.com/smart-home-devices-ai-security-2026/) — *AI Deepfake* (2026-05-15)
+- [LLM08 Vector Embedding Weaknesses 2026 — RAG Attack Guide | AI LLM Hacking Course Day 12](https://securityelites.com/ai-llm-day-12-llm08-vector-embedding-weaknesses/) — *AI in Hacking* (2026-05-15)

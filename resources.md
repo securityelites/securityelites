@@ -200,3 +200,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM09 Misinformation 2026 — Testing AI for Harmful False Outputs and Hallucination Exploitation | Day 13](https://securityelites.com/ai-llm-day-13-llm09-misinformation/) — *AI in Hacking* (2026-05-17)
 - [How to Hack AI Models — The Complete Ethical Security Guide for 2026](https://securityelites.com/how-to-hack-ai-models-2026/) — *AI in Hacking* (2026-05-17)
 - [AI Hacking for Beginners — Everything I Wish I Knew When I Started (2026)](https://securityelites.com/ai-hacking-for-beginners-2026/) — *AI in Hacking* (2026-05-17)
+- [LLM10 Unbounded Consumption — Token DoS, API Cost Attacks and Model Extraction | Day14](https://securityelites.com/ai-llm-day-14-llm10-unbounded-consumption/) — *AI in Hacking* (2026-05-18)

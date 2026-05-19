@@ -204,3 +204,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [15 AI Hacking Tools Every Security Researcher Uses in 2026](https://securityelites.com/ai-hacking-tools-2026/) — *AI Attack Framework Tools* (2026-05-19)
 - [What Is AI Red Teaming — The Beginner's Complete Breakdown](https://securityelites.com/what-is-ai-red-teaming-2026/) — *AI in Hacking* (2026-05-19)
 - [How AI and LLMs are discovering zero-days faster than human researchers in 2026](https://securityelites.com/ai-vulnerability-discovery-zero-days-2026/) — *AI in Hacking* (2026-05-19)
+- [AI Jailbreaking — Complete Guide to Safety Training Bypass, DAN Variants and Token-Level Attacks | Day15](https://securityelites.com/ai-llm-day-15-ai-jailbreaking-complete-guide-2026/) — *AI in Hacking* (2026-05-19)

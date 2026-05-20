@@ -207,3 +207,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Jailbreaking — Complete Guide to Safety Training Bypass, DAN Variants and Token-Level Attacks | Day15](https://securityelites.com/ai-llm-day-15-ai-jailbreaking-complete-guide-2026/) — *AI in Hacking* (2026-05-19)
 - [AI-Powered Exploit Code Generation — From CVE to PoC in Seconds](https://securityelites.com/ai-powered-exploit-code-generation-2026/) — *Agentic AI* (2026-05-19)
 - [Linux Sudo Privilege Escalation Methods — 7 Techniques + GTFOBins Guide](https://securityelites.com/linux-sudo-privilege-escalation-methods-2026/) — *Cyber Security* (2026-05-20)
+- [Metasploitable vsftpd Backdoor Lab — CVE-2011-2523 Exploit Guide](https://securityelites.com/metasploitable-vsftpd-backdoor-lab-2026/) — *Ethical Hacking* (2026-05-20)

@@ -209,3 +209,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Linux Sudo Privilege Escalation Methods — 7 Techniques + GTFOBins Guide](https://securityelites.com/linux-sudo-privilege-escalation-methods-2026/) — *Cyber Security* (2026-05-20)
 - [Metasploitable vsftpd Backdoor Lab — CVE-2011-2523 Exploit Guide](https://securityelites.com/metasploitable-vsftpd-backdoor-lab-2026/) — *Ethical Hacking* (2026-05-20)
 - [How to Build an Automated Prompt Injection Testing Pipeline | Day 16](https://securityelites.com/ai-llm-day-16-automated-prompt-injection-testing/) — *AI Attack Framework Tools* (2026-05-20)
+- [AI Security Posture Management - The Security Tool Every Organisation Needs](https://securityelites.com/ai-security-posture-management-ai-spm-2026/) — *AI in Hacking* (2026-05-20)

@@ -211,3 +211,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Build an Automated Prompt Injection Testing Pipeline | Day 16](https://securityelites.com/ai-llm-day-16-automated-prompt-injection-testing/) — *AI Attack Framework Tools* (2026-05-20)
 - [AI Security Posture Management - The Security Tool Every Organisation Needs](https://securityelites.com/ai-security-posture-management-ai-spm-2026/) — *AI in Hacking* (2026-05-20)
 - [Social Media Hacking Using AI (2026 Full Guide): How It Works &amp; How to Stop It](https://securityelites.com/social-media-hacking-using-ai-full-guide/) — *AI in Security* (2026-05-20)
+- [How to Use Burp Suite for LLM Security Testing | Day17](https://securityelites.com/ai-llm-day-17-burp-suite-llm-security-testing/) — *AI Attack Framework Tools* (2026-05-22)

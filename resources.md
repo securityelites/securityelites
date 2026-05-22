@@ -213,3 +213,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Social Media Hacking Using AI (2026 Full Guide): How It Works &amp; How to Stop It](https://securityelites.com/social-media-hacking-using-ai-full-guide/) — *AI in Security* (2026-05-20)
 - [How to Use Burp Suite for LLM Security Testing | Day17](https://securityelites.com/ai-llm-day-17-burp-suite-llm-security-testing/) — *AI Attack Framework Tools* (2026-05-22)
 - [How to Extract a System Prompt Using Advanced Techniques in 2026 | Day 18](https://securityelites.com/ai-llm-day-18-advanced-system-prompt-extraction/) — *AI in Hacking* (2026-05-22)
+- [Post-Quantum Cryptography — What Security Teams Must Do Before It's Too Late](https://securityelites.com/post-quantum-cryptography-security-teams-2026/) — *AI in Hacking* (2026-05-22)

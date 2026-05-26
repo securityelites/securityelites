@@ -216,3 +216,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Post-Quantum Cryptography — What Security Teams Must Do Before It's Too Late](https://securityelites.com/post-quantum-cryptography-security-teams-2026/) — *AI in Hacking* (2026-05-22)
 - [Msfvenom Tutorial - How to Use Msfvenom to Generate Payloads | Kali Linux Day 27](https://securityelites.com/kali-linux-day-27-msfvenom-tutorial/) — *Cyber Security* (2026-05-23)
 - [How to Conduct an AI Agent Security Assessment in 2026 | Day 19](https://securityelites.com/ai-llm-day-19-ai-agent-security-assessment/) — *Agentic AI* (2026-05-25)
+- [How to Perform LLM API Reconnaissance - Mapping the AI Attack Surface Before You Test | Day 20](https://securityelites.com/ai-llm-day-20-llm-api-reconnaissance/) — *AI in Hacking* (2026-05-26)

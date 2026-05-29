@@ -219,3 +219,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Perform LLM API Reconnaissance - Mapping the AI Attack Surface Before You Test | Day 20](https://securityelites.com/ai-llm-day-20-llm-api-reconnaissance/) — *AI in Hacking* (2026-05-26)
 - [How to Become AI Red Teamer in 2026 — Full Career Roadmap](https://securityelites.com/how-to-become-ai-red-teamer-2026/) — *Agentic AI* (2026-05-27)
 - [AI Red Team vs Traditional Red Team — The Key Differences Nobody Explains](https://securityelites.com/ai-red-team-vs-traditional-red-team-2026/) — *AI in Hacking* (2026-05-29)
+- [LLM Hacking Tutorial — How Security Researchers Break Language Models (2026)](https://securityelites.com/llm-hacking-tutorial-2026/) — *AI in Hacking* (2026-05-29)

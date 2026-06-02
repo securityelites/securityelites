@@ -222,3 +222,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [LLM Hacking Tutorial — How Security Researchers Break Language Models (2026)](https://securityelites.com/llm-hacking-tutorial-2026/) — *AI in Hacking* (2026-05-29)
 - [Best AI Cybersecurity Certifications in 2026 — Ranked by What Employers Actually Want](https://securityelites.com/ai-cybersecurity-certifications-2026/) — *AI in Hacking* (2026-06-01)
 - [ChatGPT Security Vulnerabilities — What Ethical Hackers Found in 2026](https://securityelites.com/chatgpt-security-vulnerabilities-2026/) — *AI in Hacking* (2026-06-02)
+- [How to Hack ChatGPT — The Ethical Security Research Guide for 2026](https://securityelites.com/how-to-hack-chatgpt-2026/) — *AI in Hacking* (2026-06-02)

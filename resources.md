@@ -221,3 +221,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Red Team vs Traditional Red Team — The Key Differences Nobody Explains](https://securityelites.com/ai-red-team-vs-traditional-red-team-2026/) — *AI in Hacking* (2026-05-29)
 - [LLM Hacking Tutorial — How Security Researchers Break Language Models (2026)](https://securityelites.com/llm-hacking-tutorial-2026/) — *AI in Hacking* (2026-05-29)
 - [Best AI Cybersecurity Certifications in 2026 — Ranked by What Employers Actually Want](https://securityelites.com/ai-cybersecurity-certifications-2026/) — *AI in Hacking* (2026-06-01)
+- [ChatGPT Security Vulnerabilities — What Ethical Hackers Found in 2026](https://securityelites.com/chatgpt-security-vulnerabilities-2026/) — *AI in Hacking* (2026-06-02)

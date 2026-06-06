@@ -225,3 +225,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Hack ChatGPT — The Ethical Security Research Guide for 2026](https://securityelites.com/how-to-hack-chatgpt-2026/) — *AI in Hacking* (2026-06-02)
 - [How to Test for LLM Authentication Bypass — Complete Attack Guide | Day 21](https://securityelites.com/ai-llm-day-21-llm-authentication-bypass/) — *AI in Hacking* (2026-06-03)
 - [GPT-4 Attack Techniques — A Security Researcher's Complete Breakdown](https://securityelites.com/gpt-4-attack-techniques-2026/) — *AI in Hacking* (2026-06-03)
+- [What Is Artificial Intelligence? A Complete Beginner's Guide (2026) | AI Basics Day 1](https://securityelites.com/ai-basics-day-1-what-is-artificial-intelligence/) — *AI Basics* (2026-06-06)

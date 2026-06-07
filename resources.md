@@ -227,3 +227,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [GPT-4 Attack Techniques — A Security Researcher's Complete Breakdown](https://securityelites.com/gpt-4-attack-techniques-2026/) — *AI in Hacking* (2026-06-03)
 - [What Is Artificial Intelligence? A Complete Beginner's Guide (2026) | AI Basics Day 1](https://securityelites.com/ai-basics-day-1-what-is-artificial-intelligence/) — *AI Basics* (2026-06-06)
 - [How Does AI Learn? Training Data, Patterns & Models Explained (2026) | AI Basics Day 2](https://securityelites.com/ai-basics-day-2-how-ai-learns/) — *AI Basics* (2026-06-07)
+- [Types of AI Explained — With Real Examples (2026) |AI Basics Day 3](https://securityelites.com/ai-basics-day-3-types-of-ai-you-already-use/) — *AI Basics* (2026-06-07)

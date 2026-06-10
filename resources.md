@@ -228,3 +228,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is Artificial Intelligence? A Complete Beginner's Guide (2026) | AI Basics Day 1](https://securityelites.com/ai-basics-day-1-what-is-artificial-intelligence/) — *AI Basics* (2026-06-06)
 - [How Does AI Learn? Training Data, Patterns & Models Explained (2026) | AI Basics Day 2](https://securityelites.com/ai-basics-day-2-how-ai-learns/) — *AI Basics* (2026-06-07)
 - [Types of AI Explained — With Real Examples (2026) |AI Basics Day 3](https://securityelites.com/ai-basics-day-3-types-of-ai-you-already-use/) — *AI Basics* (2026-06-07)
+- [How Hackers Attack AI Systems — 6 Real Attack Types Explained Simply (2026) | AI Basics Day 4](https://securityelites.com/ai-basics-day-4-how-hackers-attack-ai/) — *AI Basics* (2026-06-10)

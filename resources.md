@@ -231,3 +231,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Attack AI Systems — 6 Real Attack Types Explained Simply (2026) | AI Basics Day 4](https://securityelites.com/ai-basics-day-4-how-hackers-attack-ai/) — *AI Basics* (2026-06-10)
 - [How to Stay Safe From AI Threats — A Practical Guide for Everyone (2026) | AI Basics Day 5](https://securityelites.com/ai-basics-day-5-how-to-stay-safe-in-an-ai-world/) — *AI Basics* (2026-06-10)
 - [How to Execute Advanced Prompt Injection Chains | AI/LLM Hacking Course Day 22](https://securityelites.com/ai-llm-day-22-advanced-prompt-injection-chains/) — *AI in Hacking* (2026-06-10)
+- [How LLMs Actually Process Your Prompts — What's Really Happening](https://securityelites.com/prompt-engineering-day-1-how-llms-process-prompts/) — *AI Basics* (2026-06-12)

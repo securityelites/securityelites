@@ -233,3 +233,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Execute Advanced Prompt Injection Chains | AI/LLM Hacking Course Day 22](https://securityelites.com/ai-llm-day-22-advanced-prompt-injection-chains/) — *AI in Hacking* (2026-06-10)
 - [How LLMs Actually Process Your Prompts — What's Really Happening](https://securityelites.com/prompt-engineering-day-1-how-llms-process-prompts/) — *AI Basics* (2026-06-12)
 - [Master Prompt Structure for LLMs — Roles and Format | Prompt Engineering Part 2](https://securityelites.com/prompt-engineering-day-2-prompt-structure-and-roles/) — *AI Basics* (2026-06-12)
+- [Advanced Prompt Engineering Techniques That Actually Work in 2026 | Part 3](https://securityelites.com/prompt-engineering-day-3-advanced-prompt-techniques/) — *AI Basics* (2026-06-18)

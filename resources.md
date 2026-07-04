@@ -236,3 +236,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Advanced Prompt Engineering Techniques That Actually Work in 2026 | Part 3](https://securityelites.com/prompt-engineering-day-3-advanced-prompt-techniques/) — *AI Basics* (2026-06-18)
 - [Prompt Injection Attacks — From Prompt Engineering to Exploitation | Part 4](https://securityelites.com/prompt-engineering-day-4-prompt-injection-attacks/) — *AI in Hacking* (2026-06-20)
 - [Reverse Prompting — How to Extract Hidden System Prompts | Prompt Engineering Part 5](https://securityelites.com/prompt-engineering-day-5-reverse-prompting-basics/) — *AI Basics* (2026-07-04)
+- [How to Execute Advanced RAG Poisoning Attacks in 2026 | AI LLM Hacking Course Day 23](https://securityelites.com/ai-llm-day-23-rag-poisoning-attacks/) — *AI in Hacking* (2026-07-04)

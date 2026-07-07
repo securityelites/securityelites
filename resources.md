@@ -238,3 +238,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Reverse Prompting — How to Extract Hidden System Prompts | Prompt Engineering Part 5](https://securityelites.com/prompt-engineering-day-5-reverse-prompting-basics/) — *AI Basics* (2026-07-04)
 - [How to Execute Advanced RAG Poisoning Attacks in 2026 | AI LLM Hacking Course Day 23](https://securityelites.com/ai-llm-day-23-rag-poisoning-attacks/) — *AI in Hacking* (2026-07-04)
 - [How to do LLM Behaviour Mapping — Reverse Engineering AI System Design | Prompt Engineering Part 6](https://securityelites.com/prompt-engineering-day-6-llm-behaviour-mapping/) — *AI Basics* (2026-07-05)
+- [Prompt Defence and Hardening — Building LLMs That Can't Be Broken (2026) | Prompt Engineering Final Part](https://securityelites.com/prompt-engineering-day-7-prompt-defence-and-hardening/) — *AI Basics* (2026-07-07)

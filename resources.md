@@ -241,3 +241,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prompt Defence and Hardening — Building LLMs That Can't Be Broken (2026) | Prompt Engineering Final Part](https://securityelites.com/prompt-engineering-day-7-prompt-defence-and-hardening/) — *AI Basics* (2026-07-07)
 - [How to Fingerprint an Unknown AI Model | AI LLM Hacking Course Day 24](https://securityelites.com/ai-llm-day-24-ai-model-fingerprinting/) — *AI in Hacking* (2026-07-08)
 - [How to Write a Professional AI Security Assessment Report — Complete Professional Guide | AI LLM Hacking Course Day 25](https://securityelites.com/ai-llm-day-25-ai-security-report-writing/) — *AI in Hacking* (2026-07-10)
+- [How to Assess LLM Supply Chain Security in 2026 — Complete Attack Guide | AI LLM Hacking Course Day 26](https://securityelites.com/ai-llm-day-26-llm-supply-chain-security/) — *AI Attack Framework Tools* (2026-07-11)

@@ -242,3 +242,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Fingerprint an Unknown AI Model | AI LLM Hacking Course Day 24](https://securityelites.com/ai-llm-day-24-ai-model-fingerprinting/) — *AI in Hacking* (2026-07-08)
 - [How to Write a Professional AI Security Assessment Report — Complete Professional Guide | AI LLM Hacking Course Day 25](https://securityelites.com/ai-llm-day-25-ai-security-report-writing/) — *AI in Hacking* (2026-07-10)
 - [How to Assess LLM Supply Chain Security in 2026 — Complete Attack Guide | AI LLM Hacking Course Day 26](https://securityelites.com/ai-llm-day-26-llm-supply-chain-security/) — *AI Attack Framework Tools* (2026-07-11)
+- [What Is a Large Language Model? Plain English Explained (2026) | LLM Basics Day 1](https://securityelites.com/llm-basics-day-1-what-is-a-large-language-model/) — *AI Basics* (2026-07-12)

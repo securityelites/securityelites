@@ -244,3 +244,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Assess LLM Supply Chain Security in 2026 — Complete Attack Guide | AI LLM Hacking Course Day 26](https://securityelites.com/ai-llm-day-26-llm-supply-chain-security/) — *AI Attack Framework Tools* (2026-07-11)
 - [What Is a Large Language Model? Plain English Explained (2026) | LLM Basics Day 1](https://securityelites.com/llm-basics-day-1-what-is-a-large-language-model/) — *AI Basics* (2026-07-12)
 - [How LLMs Learn From Text — Simply Explained 2026 | LLM Basics Day 2 of 5](https://securityelites.com/llm-basics-day-2-how-llms-learn-from-text/) — *AI Basics* (2026-07-14)
+- [Why LLMs Make Mistakes — Hallucinations, Bias and Limits Explained | LLM Basics Day 3 of 5](https://securityelites.com/llm-basics-day-3-why-llms-make-mistakes/) — *AI Basics* (2026-07-19)

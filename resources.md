@@ -245,3 +245,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is a Large Language Model? Plain English Explained (2026) | LLM Basics Day 1](https://securityelites.com/llm-basics-day-1-what-is-a-large-language-model/) — *AI Basics* (2026-07-12)
 - [How LLMs Learn From Text — Simply Explained 2026 | LLM Basics Day 2 of 5](https://securityelites.com/llm-basics-day-2-how-llms-learn-from-text/) — *AI Basics* (2026-07-14)
 - [Why LLMs Make Mistakes — Hallucinations, Bias and Limits Explained | LLM Basics Day 3 of 5](https://securityelites.com/llm-basics-day-3-why-llms-make-mistakes/) — *AI Basics* (2026-07-19)
+- [How LLMs Are Used in Real Apps — From ChatGPT to Your Phone | LLM Basics Day 4 of 5](https://securityelites.com/llm-basics-day-4-how-llms-are-used-in-real-apps/) — *Agentic AI* (2026-07-20)

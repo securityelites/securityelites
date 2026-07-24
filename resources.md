@@ -247,3 +247,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Why LLMs Make Mistakes — Hallucinations, Bias and Limits Explained | LLM Basics Day 3 of 5](https://securityelites.com/llm-basics-day-3-why-llms-make-mistakes/) — *AI Basics* (2026-07-19)
 - [How LLMs Are Used in Real Apps — From ChatGPT to Your Phone | LLM Basics Day 4 of 5](https://securityelites.com/llm-basics-day-4-how-llms-are-used-in-real-apps/) — *Agentic AI* (2026-07-20)
 - [How to Use LLMs Safely — Beginner's Guide 2026 | LLM Basics Day 5 Final](https://securityelites.com/llm-basics-day-5-how-to-use-llms-safely/) — *AI Basics* (2026-07-24)
+- [How to Run a Complete AI Red Team Operations Engagement | AI LLM Hacking Course Day 27 of 90](https://securityelites.com/ai-llm-day-27-ai-red-team-operations/) — *AI Attack Framework Tools* (2026-07-24)

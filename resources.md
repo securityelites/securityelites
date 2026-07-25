@@ -250,3 +250,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Run a Complete AI Red Team Operations Engagement | AI LLM Hacking Course Day 27 of 90](https://securityelites.com/ai-llm-day-27-ai-red-team-operations/) — *AI Attack Framework Tools* (2026-07-24)
 - [How to Perform Adversarial ML Attacks Testing in 2026 | AI LLM Hacking Course Day 28 of 90](https://securityelites.com/ai-llm-day-28-adversarial-ml-attacks/) — *AI Attack Framework Tools* (2026-07-25)
 - [How to Think About Code — AI Coding Beginner | Mastering Coding with AI Day 1 of 5](https://securityelites.com/ai-coding-day-1-how-to-think-about-code/) — *Agentic AI* (2026-07-25)
+- [How Web Cache Poisoning works — Complete Guide | Bug Bounty Course Day 29 of 60](https://securityelites.com/day-29-web-cache-poisoning-bug-bounty/) — *Authentication Bypass* (2026-07-25)

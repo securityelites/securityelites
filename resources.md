@@ -249,3 +249,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Use LLMs Safely — Beginner's Guide 2026 | LLM Basics Day 5 Final](https://securityelites.com/llm-basics-day-5-how-to-use-llms-safely/) — *AI Basics* (2026-07-24)
 - [How to Run a Complete AI Red Team Operations Engagement | AI LLM Hacking Course Day 27 of 90](https://securityelites.com/ai-llm-day-27-ai-red-team-operations/) — *AI Attack Framework Tools* (2026-07-24)
 - [How to Perform Adversarial ML Attacks Testing in 2026 | AI LLM Hacking Course Day 28 of 90](https://securityelites.com/ai-llm-day-28-adversarial-ml-attacks/) — *AI Attack Framework Tools* (2026-07-25)
+- [How to Think About Code — AI Coding Beginner | Mastering Coding with AI Day 1 of 5](https://securityelites.com/ai-coding-day-1-how-to-think-about-code/) — *Agentic AI* (2026-07-25)

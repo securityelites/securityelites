@@ -252,3 +252,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Think About Code — AI Coding Beginner | Mastering Coding with AI Day 1 of 5](https://securityelites.com/ai-coding-day-1-how-to-think-about-code/) — *Agentic AI* (2026-07-25)
 - [How Web Cache Poisoning works — Complete Guide | Bug Bounty Course Day 29 of 60](https://securityelites.com/day-29-web-cache-poisoning-bug-bounty/) — *Authentication Bypass* (2026-07-25)
 - [Prompting AI for Code — How to Get Working Code Every Time | Mastering Coding with AI Day 2 of 5](https://securityelites.com/ai-coding-day-2-prompting-ai-for-code/) — *Agentic AI* (2026-07-27)
+- [How to Assess Enterprise AI Security — LangChain and Gateway Attack Guide | AI LLM Hacking Course Day 29 of 90](https://securityelites.com/ai-llm-day-29-enterprise-ai-security/) — *Agentic AI* (2026-07-28)

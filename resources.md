@@ -254,3 +254,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prompting AI for Code — How to Get Working Code Every Time | Mastering Coding with AI Day 2 of 5](https://securityelites.com/ai-coding-day-2-prompting-ai-for-code/) — *Agentic AI* (2026-07-27)
 - [How to Assess Enterprise AI Security — LangChain and Gateway Attack Guide | AI LLM Hacking Course Day 29 of 90](https://securityelites.com/ai-llm-day-29-enterprise-ai-security/) — *Agentic AI* (2026-07-28)
 - [Reading and Debugging AI Code Without Coding Knowledge | Mastering Coding with Day 3 of 5](https://securityelites.com/ai-coding-day-3-reading-and-debugging-ai-code/) — *Agentic AI* (2026-07-29)
+- [AI Bug Bounty 2026 — Finding, Reporting and Getting Paid for AI Vulnerabilities | AI LLM Hacking Course Day 30 of 90](https://securityelites.com/ai-llm-day-30-ai-bug-bounty/) — *AI Attack Framework Tools* (2026-07-29)

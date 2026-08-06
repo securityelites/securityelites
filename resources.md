@@ -258,3 +258,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Build a Real Tool With AI Coding — Complete Project Day | Mastering Coding with AI Day 4 of 5](https://securityelites.com/ai-coding-day-4-build-a-real-tool-with-ai/) — *AI Basics* (2026-07-31)
 - [Secure AI Generated Code — Ship Confidently in 2026 | Mastering Coding with AI Day 5 of 5](https://securityelites.com/ai-coding-day-5-secure-and-ship-ai-code/) — *AI Basics* (2026-08-01)
 - [Perfect Prompt Formula for AI Coding — Bug Free AI APP Development Day 1 of 5](https://securityelites.com/ai-app-dev-day-1-perfect-prompt-formula/) — *AI Basics* (2026-08-04)
+- [AI App Architecture Planning — Bug Free AI APP Development Day 2 of 5](https://securityelites.com/ai-app-dev-day-2-architecture-first/) — *AI Basics* (2026-08-06)

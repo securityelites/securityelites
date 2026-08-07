@@ -260,3 +260,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Perfect Prompt Formula for AI Coding — Bug Free AI APP Development Day 1 of 5](https://securityelites.com/ai-app-dev-day-1-perfect-prompt-formula/) — *AI Basics* (2026-08-04)
 - [AI App Architecture Planning — Bug Free AI APP Development Day 2 of 5](https://securityelites.com/ai-app-dev-day-2-architecture-first/) — *AI Basics* (2026-08-06)
 - [How to Test LLM Data Exfiltration Vulnerabilities in 2026 | AI LLM Hacking Course Day 31 of 90](https://securityelites.com/ai-llm-day-31-llm-data-exfiltration/) — *AI in Hacking* (2026-08-07)
+- [How to Create Modular Code Patterns — Build Apps That Don't Break | Bug Free AI APP Development Day 3 of 5](https://securityelites.com/ai-app-dev-day-3-modular-code-patterns/) — *AI Basics* (2026-08-07)

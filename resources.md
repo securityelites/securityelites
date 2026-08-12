@@ -264,3 +264,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Model Stealing in 2026 — API Probing, Functionality Cloning and IP Extraction | AI LLM Hacking Course Day 32 of 90](https://securityelites.com/ai-llm-day-32-ai-model-stealing/) — *AI Attack Framework Tools* (2026-08-08)
 - [Debugging AI Code without Crying — 5-Step AI Debug Protocol | Bug Free AI APP Development Day 4 of 5](https://securityelites.com/ai-app-dev-day-4-debugging-without-crying/) — *AI Basics* (2026-08-09)
 - [How to steal AI Models, their API and Codebase](https://securityelites.com/how-to-steal-ai-models-their-api-and-codebase/) — *Premium* (2026-08-09)
+- [Ship Production-Ready AI-Built Apps — Security Polish | Bug Free AI APP Development Day 5 of 5](https://securityelites.com/ai-app-dev-day-5-ship-secure-optimised-apps/) — *AI Basics* (2026-08-12)

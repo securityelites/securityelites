@@ -265,3 +265,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Debugging AI Code without Crying — 5-Step AI Debug Protocol | Bug Free AI APP Development Day 4 of 5](https://securityelites.com/ai-app-dev-day-4-debugging-without-crying/) — *AI Basics* (2026-08-09)
 - [How to steal AI Models, their API and Codebase](https://securityelites.com/how-to-steal-ai-models-their-api-and-codebase/) — *Premium* (2026-08-09)
 - [Ship Production-Ready AI-Built Apps — Security Polish | Bug Free AI APP Development Day 5 of 5](https://securityelites.com/ai-app-dev-day-5-ship-secure-optimised-apps/) — *AI Basics* (2026-08-12)
+- [What Is an AI Agent? Turning Chatbots Into Autonomous Workers | Build AI Agents Day 1 of Day 5](https://securityelites.com/ai-agents-day-1-what-is-an-ai-agent/) — *Agentic AI* (2026-08-16)

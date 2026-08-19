@@ -268,3 +268,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is an AI Agent? Turning Chatbots Into Autonomous Workers | Build AI Agents Day 1 of Day 5](https://securityelites.com/ai-agents-day-1-what-is-an-ai-agent/) — *Agentic AI* (2026-08-16)
 - [How to Identify LLM Denial of Service Vulnerabilities in 2026 | AI LLM Hacking Course Day 33 of 90](https://securityelites.com/ai-llm-day-33-llm-denial-of-service/) — *AI Attack Framework Tools* (2026-08-16)
 - [How to Assess Multimodal AI Security in 2026 | AI LLM Hacking Course Day 34 of 90](https://securityelites.com/ai-llm-day-34-multimodal-ai-security/) — *AI Attack Framework Tools* (2026-08-18)
+- [How AI Agents Work — Memory, Tools, Planning and MCP Explained | AI Agents Course Day 2 of 5](https://securityelites.com/ai-agents-day-2-how-agents-think/) — *Agentic AI* (2026-08-19)

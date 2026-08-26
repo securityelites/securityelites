@@ -273,3 +273,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Red Team Lab Setup 2026: Build Your Range in One Hour | Offensive AI Operator Course Day 0 of 30](https://securityelites.com/ai-red-team-lab-setup-2026/) — *AI Basics* (2026-08-22)
 - [AI Pentesting 2026: The Day Traditional Pentesting Stopped Working | Offensive AI Operator Course Day 1 of 30](https://securityelites.com/ai-pentesting-2026/) — *AI Attack Framework Tools* (2026-08-23)
 - [Real World AI Agents — What They Can Actually Do for You in 2026 | AI Agents Course Day 3 of 5](https://securityelites.com/ai-agents-day-3-real-world-ai-agents/) — *Agentic AI* (2026-08-23)
+- [AI Recon: Fingerprint Any LLM App in 10 Minutes | Offensive AI Operator Day 2 of 30](https://securityelites.com/ai-recon-fingerprint-llm/) — *AI Attack Framework Tools* (2026-08-26)

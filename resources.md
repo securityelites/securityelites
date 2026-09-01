@@ -277,3 +277,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Advanced Agentic AI Security 2026 — Multi-Agent Attack Guide | AI LLM Hacking Course Day 36 of 90](https://securityelites.com/ai-llm-day-36-llm-agentic-security-advanced/) — *Agentic AI* (2026-08-26)
 - [AI Agent Security Risks — How Agents Get Hacked and Cause Harm | AI Agents Course Day 4 of 5](https://securityelites.com/ai-agents-day-4-ai-agent-security-risks/) — *Agentic AI* (2026-08-28)
 - [AI Privacy Attacks — PII Extraction and Re-Identification Guide | AI LLM Hacking Course Day 37 of 90](https://securityelites.com/ai-llm-day-37-ai-privacy-attacks/) — *AI Deepfake* (2026-08-31)
+- [How to Build your first AI Agent — Step-by-Step for Absolute Beginners 2026 | AI Agent Course Day 5 of 5](https://securityelites.com/ai-agents-day-5-build-your-first-ai-agent/) — *Agentic AI* (2026-09-01)

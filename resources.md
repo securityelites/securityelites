@@ -280,3 +280,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Build your first AI Agent — Step-by-Step for Absolute Beginners 2026 | AI Agent Course Day 5 of 5](https://securityelites.com/ai-agents-day-5-build-your-first-ai-agent/) — *Agentic AI* (2026-09-01)
 - [What Are Deepfakes? How AI Creates Fake Faces, Voices and Videos | Deepfake Detection for Beginners Day 1 of 7](https://securityelites.com/deepfake-detection-day-1-what-are-deepfakes/) — *AI Basics* (2026-09-04)
 - [How to Spot AI Generated Faces — The Complete Visual Checklist | Deepfake Detection for Beginners — Day 2 of 7](https://securityelites.com/deepfake-detection-day-2-reading-fake-faces/) — *AI Basics* (2026-09-05)
+- [How to Assess LLM Fine Tuning Security in 2026 - Dataset Poisoning, Training Attacks and Fine-Tune Vulnerabilities | AI LLM Hacking Course Day 38 of 90](https://securityelites.com/ai-llm-day-38-llm-fine-tuning-security/) — *AI Attack Framework Tools* (2026-09-06)

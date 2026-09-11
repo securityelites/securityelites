@@ -282,3 +282,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Spot AI Generated Faces — The Complete Visual Checklist | Deepfake Detection for Beginners — Day 2 of 7](https://securityelites.com/deepfake-detection-day-2-reading-fake-faces/) — *AI Basics* (2026-09-05)
 - [How to Assess LLM Fine Tuning Security in 2026 - Dataset Poisoning, Training Attacks and Fine-Tune Vulnerabilities | AI LLM Hacking Course Day 38 of 90](https://securityelites.com/ai-llm-day-38-llm-fine-tuning-security/) — *AI Attack Framework Tools* (2026-09-06)
 - [How to Spot Deepfake Video — Real Complete 2026 Guide | Deepfake Detection for Beginners Day 3 of 7](https://securityelites.com/deepfake-detection-day-3-spotting-fake-videos/) — *AI Basics* (2026-09-10)
+- [How to Assess AI Governance and Compliance in 2026 | AI LLM Hacking Course Day 39 of 90](https://securityelites.com/ai-llm-day-39-ai-governance-compliance/) — *AI Attack Framework Tools* (2026-09-11)

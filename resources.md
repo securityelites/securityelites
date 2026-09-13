@@ -284,3 +284,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Spot Deepfake Video — Real Complete 2026 Guide | Deepfake Detection for Beginners Day 3 of 7](https://securityelites.com/deepfake-detection-day-3-spotting-fake-videos/) — *AI Basics* (2026-09-10)
 - [How to Assess AI Governance and Compliance in 2026 | AI LLM Hacking Course Day 39 of 90](https://securityelites.com/ai-llm-day-39-ai-governance-compliance/) — *AI Attack Framework Tools* (2026-09-11)
 - [How to Respond to an AI Incident in 2026 | AI LLM Hacking Course Day 40 of 90](https://securityelites.com/ai-llm-day-40-ai-incident-response/) — *AI in Hacking* (2026-09-13)
+- [How to Detect Voice Cloning — Real 2026 Full Guide | Deepfake Detection for Beginners — Day 4 of 7](https://securityelites.com/deepfake-detection-day-4-detect-voice-cloning/) — *AI Basics* (2026-09-13)

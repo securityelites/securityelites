@@ -288,3 +288,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Advanced AI Red Team Techniques 2026 — Attack Chain Mastery | AI LLM Hacking course Day 41 of 90](https://securityelites.com/ai-llm-day-41-llm-red-team-advanced-techniques/) — *AI Attack Framework Tools* (2026-09-15)
 - [Deepfake Attacks Fraud Exposed — Real 2025-2026 Cases | Deepfake Detection for Beginners — Day 5 of 7](https://securityelites.com/deepfake-detection-day-5-deepfake-attacks/) — *AI Attack Framework Tools* (2026-09-16)
 - [Armitage Tutorial 2026 — Metasploit GUI, Team Server Guide | Kali Linux Course Day 28](https://securityelites.com/kali-linux-day-28-armitage-tutorial/) — *Blue Team* (2026-09-16)
+- [Process Injection — How Malware Hides in Trusted Processes & How to Catch It | Ethical Hacking Course Day 41 of 100](https://securityelites.com/day-41-process-injection/) — *Command Injection* (2026-09-18)

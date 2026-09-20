@@ -290,3 +290,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Armitage Tutorial 2026 — Metasploit GUI, Team Server Guide | Kali Linux Course Day 28](https://securityelites.com/kali-linux-day-28-armitage-tutorial/) — *Blue Team* (2026-09-16)
 - [Process Injection — How Malware Hides in Trusted Processes & How to Catch It | Ethical Hacking Course Day 41 of 100](https://securityelites.com/day-41-process-injection/) — *Command Injection* (2026-09-18)
 - [Deepfake Detection Tools Free — Complete 2026 Kit and 6-Tool Workflow | Deepfake Detection for Beginners — Day 6 of 7](https://securityelites.com/deepfake-detection-day-6-detection-tools/) — *AI Deepfake* (2026-09-19)
+- [How to Protect Yourself From Deepfakes — Real 2026 Plan | Deepfake Detection for Beginners — Day 7 of 7](https://securityelites.com/deepfake-detection-day-7-personal-protection/) — *AI Deepfake* (2026-09-20)

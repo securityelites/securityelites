@@ -292,3 +292,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Deepfake Detection Tools Free — Complete 2026 Kit and 6-Tool Workflow | Deepfake Detection for Beginners — Day 6 of 7](https://securityelites.com/deepfake-detection-day-6-detection-tools/) — *AI Deepfake* (2026-09-19)
 - [How to Protect Yourself From Deepfakes — Real 2026 Plan | Deepfake Detection for Beginners — Day 7 of 7](https://securityelites.com/deepfake-detection-day-7-personal-protection/) — *AI Deepfake* (2026-09-20)
 - [What Is MCP Security — Real 2026 Beginner Complete Guide | MCP Security — Day 1 of 7](https://securityelites.com/mcp-security-day-1-what-is-mcp-security/) — *AI in Hacking* (2026-09-23)
+- [How to Assess AI Social Engineering Risk in 2026 | AI LLM Hacking Course Day 42 of 90](https://securityelites.com/ai-llm-day-42-ai-social-engineering/) — *Agentic AI* (2026-09-25)

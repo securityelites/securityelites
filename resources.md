@@ -294,3 +294,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is MCP Security — Real 2026 Beginner Complete Guide | MCP Security — Day 1 of 7](https://securityelites.com/mcp-security-day-1-what-is-mcp-security/) — *AI in Hacking* (2026-09-23)
 - [How to Assess AI Social Engineering Risk in 2026 | AI LLM Hacking Course Day 42 of 90](https://securityelites.com/ai-llm-day-42-ai-social-engineering/) — *Agentic AI* (2026-09-25)
 - [SecurityElites 14-Day XP Challenge — Win Free Certification + Premium Memberships](https://securityelites.com/securityelites-14-day-xp-challenge-october-2026/) — *Cyber Security* (2026-10-06)
+- [MCP Attack Surface — The 2026 Beginner's Complete Map | MCP Security — Day 2 of 7](https://securityelites.com/mcp-security-day-2-mcp-attack-surface/) — *AI Attack Framework Tools* (2026-10-10)

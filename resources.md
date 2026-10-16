@@ -297,3 +297,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [MCP Attack Surface — The 2026 Beginner's Complete Map | MCP Security — Day 2 of 7](https://securityelites.com/mcp-security-day-2-mcp-attack-surface/) — *AI Attack Framework Tools* (2026-10-10)
 - [Deserialization Bug Bounty — Find, Exploit, Report Java, PHP and Python Unsafe Deserialization | Bug Bounty Course Day 30 of 60](https://securityelites.com/day-30-deserialization-bug-bounty/) — *Blue Team* (2026-10-10)
 - [How to perform credential Harvesting - DUMP LSASS, SAM, NTDS and Browser Passwords | Ethical Hacking Course Day 42 of 100](https://securityelites.com/day-42-credential-harvesting/) — *Authentication Bypass* (2026-10-15)
+- [Prompt Injection through MCP — The Complete 2026 Beginner's Guide | MCP Security Day 3 of 7](https://securityelites.com/mcp-security-day-3-prompt-injection-through-mcp/) — *AI in Hacking* (2026-10-16)

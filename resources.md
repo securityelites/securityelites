@@ -299,3 +299,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to perform credential Harvesting - DUMP LSASS, SAM, NTDS and Browser Passwords | Ethical Hacking Course Day 42 of 100](https://securityelites.com/day-42-credential-harvesting/) — *Authentication Bypass* (2026-10-15)
 - [Prompt Injection through MCP — The Complete 2026 Beginner's Guide | MCP Security Day 3 of 7](https://securityelites.com/mcp-security-day-3-prompt-injection-through-mcp/) — *AI in Hacking* (2026-10-16)
 - [How to Conduct AI Vulnerability Research in 2026 | AI LLM Hacking Course Day 43 of 90](https://securityelites.com/ai-llm-day-43-ai-vulnerability-research/) — *AI in Hacking* (2026-10-17)
+- [MCP Tool Poisoning — Real 2026 Rug Pull Attack Guide | MCP Security Day 4 of 7](https://securityelites.com/mcp-security-day-4-tool-poisoning-rug-pulls/) — *AI Attack Framework Tools* (2026-10-26)

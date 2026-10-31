@@ -319,3 +319,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lab13: DVWA Insecure CAPTCHA Lab 2026 — Bypass Logic & Complete Walkthrough](https://securityelites.com/dvwa-insecure-captcha-lab-2026/) — *Authentication Bypass* (2026-10-31)
 - [Data Exfiltration Techniques 2026 — DNS Tunneling, ICMP Exfil & Covert Channels | Hacking Course Day29](https://securityelites.com/day-29-data-exfiltration/) — *Ethical Hacking* (2026-10-31)
 - [Lab11 : DVWA SQL Injection Blind Lab 2026 — Boolean and Time-Based Blind SQLi Guide](https://securityelites.com/dvwa-sql-injection-blind-lab-2026/) — *DVWA Labs* (2026-10-31)
+- [Lab 9: DVWA XSS Stored Lab 2026 — One Payload Hacks Every User (Persistent XSS Exploit Guide)](https://securityelites.com/dvwa-xss-stored-lab-2026/) — *Cross-Site Scripting (XSS)* (2026-10-31)

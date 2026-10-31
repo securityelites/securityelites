@@ -324,3 +324,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 26: Pass the Hash & Pass the Ticket 2026 — Lateral Movement With NTLM & Kerberos](https://securityelites.com/day-26-pass-the-hash-ticket/) — *Authentication Bypass* (2026-10-31)
 - [Nmap Commands with Examples 2026 — The Complete Reference (Every Flag, Every Scan Type, Free PDF Cheat Sheet)](https://securityelites.com/nmap-commands-with-examples/) — *Cheat Sheets* (2026-10-31)
 - [Instagram Bug Bounty — How Ethical Hackers Legally Earn $500–$30,000 Finding Instagram Vulnerabilities (2026)](https://securityelites.com/instagram-bug-bounty-program/) — *Bug Bounty Hunting* (2026-10-31)
+- [How to Secure Your Instagram Account From Hackers — The Complete 2026 Guide](https://securityelites.com/how-to-secure-instagram-account/) — *Cyber Security* (2026-10-31)

@@ -337,3 +337,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Google Dorks for Bug Bounty Hunters (Beginner Guide 2026)](https://securityelites.com/google-dorks-for-bug-bounty-hunters/) — *Bug Bounty Hunting* (2026-10-31)
 - [DVWA Brute Force Lab 2026 — Hydra & Burp Intruder Complete Walkthrough Day 2](https://securityelites.com/dvwa-brute-force-lab-2026/) — *DVWA Labs* (2026-10-31)
 - [Day 24 : Active Directory Attacks 2026 — Enumeration, Password Spraying & Initial Foothold](https://securityelites.com/day-24-active-directory-attacks/) — *Ethical Hacking* (2026-10-31)
+- [Wireshark Lab: 7 Hands-On Lab Exercises step by step(Beginner to Advanced 2026)](https://securityelites.com/wireshark-lab-step-by-step/) — *Ethical Hacking* (2026-10-31)

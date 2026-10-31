@@ -326,3 +326,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Instagram Bug Bounty — How Ethical Hackers Legally Earn $500–$30,000 Finding Instagram Vulnerabilities (2026)](https://securityelites.com/instagram-bug-bounty-program/) — *Bug Bounty Hunting* (2026-10-31)
 - [How to Secure Your Instagram Account From Hackers — The Complete 2026 Guide](https://securityelites.com/how-to-secure-instagram-account/) — *Cyber Security* (2026-10-31)
 - [How Instagram Accounts Actually Get Hacked — And How to Stop It Happening to You (2026)](https://securityelites.com/how-instagram-accounts-get-hacked/) — *Authentication Bypass* (2026-10-31)
+- [Bug Bounty Hunting: Complete Beginner's Guide 2026](https://securityelites.com/bug-bounty-hunting-2026/) — *Bug Bounty Hunting* (2026-10-31)

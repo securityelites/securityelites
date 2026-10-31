@@ -316,3 +316,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [GPT-4o Vision Hacking — How Attackers Inject Prompts Through Images](https://securityelites.com/gpt-4o-vision-prompt-injection-2026/) — *AI in Hacking* (2026-10-31)
 - [Post Exploitation Persistence 2026 — Registry, Startup Folders & WMI Subscriptions | Hacking Course Day30](https://securityelites.com/day-30-post-exploitation-persistence/) — *Ethical Hacking* (2026-10-31)
 - [10 Prompt Injection Payloads Every Security Researcher Must Know in 2026](https://securityelites.com/prompt-injection-payloads-2026/) — *AI in Hacking* (2026-10-31)
+- [Lab13: DVWA Insecure CAPTCHA Lab 2026 — Bypass Logic & Complete Walkthrough](https://securityelites.com/dvwa-insecure-captcha-lab-2026/) — *Authentication Bypass* (2026-10-31)

@@ -361,3 +361,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [BB Day16: Rate Limiting Bug Bounty 2026 — Find Bypass Flaws in Login, OTP and API Endpoints](https://securityelites.com/day-16-rate-limiting-bug-bounty/) — *Bug Bounty Course* (2026-10-31)
 - [BB Day17: JWT Attacks Bug Bounty 2026 — Algorithm Confusion, None Attack & Weak Secrets](https://securityelites.com/day-17-jwt-attacks-bug-bounty/) — *Bug Bounty Course* (2026-10-31)
 - [BB Day18: OAuth 2.0 Bug Bounty 2026 — CSRF in OAuth, Token Leakage & Account Takeover Chains](https://securityelites.com/day-18-oauth-bug-bounty/) — *Authentication Bypass* (2026-10-31)
+- [BB Day19: CSRF Bug Bounty 2026 — Find Cross-Site Request Forgery That Pays and Chain It to Account Takeover](https://securityelites.com/day-19-csrf-bug-bounty/) — *Authentication Bypass* (2026-10-31)

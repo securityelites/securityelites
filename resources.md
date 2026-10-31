@@ -357,3 +357,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [7 Websites Where You Can Practice Hacking Legally (Beginner to Pro Guide)](https://securityelites.com/websites-where-you-can-practice-hacking-legally/) — *Bug Bounty Hunting* (2026-10-31)
 - [Lab 6: DVWA File Upload Lab 2026 — Ultimate Guide to Upload PHP Webshells & Get RCE Fast](https://securityelites.com/dvwa-file-upload-lab-2026/) — *Authentication Bypass* (2026-10-31)
 - [TryHackMe vs HackTheBox 2026 — Which Platform Builds Employable Skills Faster?](https://securityelites.com/tryhackme-vs-hackthebox-2026/) — *Cyber Security* (2026-10-31)
+- [Ethical Hacking Roadmap 2026: How to Become Ethical Hacker (Beginner to Expert)](https://securityelites.com/ethical-hacking-roadmap-2026/) — *Blue Team* (2026-10-31)

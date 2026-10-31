@@ -339,3 +339,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 24 : Active Directory Attacks 2026 — Enumeration, Password Spraying & Initial Foothold](https://securityelites.com/day-24-active-directory-attacks/) — *Ethical Hacking* (2026-10-31)
 - [Wireshark Lab: 7 Hands-On Lab Exercises step by step(Beginner to Advanced 2026)](https://securityelites.com/wireshark-lab-step-by-step/) — *Ethical Hacking* (2026-10-31)
 - [Lab 3: DVWA Command Injection Lab 2026 — Inject OS Commands & Get a Reverse Shell](https://securityelites.com/dvwa-command-injection-lab-2026/) — *Command Injection* (2026-10-31)
+- [Kali Linux Day15: Enum4linux Tutorial Kali Linux 2026 — SMB Enumeration, User Listing & Share Discovery](https://securityelites.com/kali-linux-day-15-enum4linux-tutorial/) — *Enumeration* (2026-10-31)

@@ -348,3 +348,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Agent Data Exfiltration Lab: Make an Assistant Read the Admin’s Email](https://securityelites.com/ai-agent-data-exfiltration-lab-walkthrough/) — *Agentic AI* (2026-10-31)
 - [XXE Lab: Read Server Files Through an XML Upload](https://securityelites.com/xxe-lab-walkthrough-external-entity-file-read/) — *Hacking Labs* (2026-10-31)
 - [CSRF Lab: Make a Victim’s Bank Send You Money](https://securityelites.com/csrf-lab-walkthrough-money-transfer/) — *Authentication Bypass* (2026-10-31)
+- [SSRF Lab: Make a Server Fetch Its Own Cloud Secrets](https://securityelites.com/ssrf-lab-walkthrough-cloud-metadata/) — *Hacking Labs* (2026-10-31)

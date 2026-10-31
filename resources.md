@@ -349,3 +349,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [XXE Lab: Read Server Files Through an XML Upload](https://securityelites.com/xxe-lab-walkthrough-external-entity-file-read/) — *Hacking Labs* (2026-10-31)
 - [CSRF Lab: Make a Victim’s Bank Send You Money](https://securityelites.com/csrf-lab-walkthrough-money-transfer/) — *Authentication Bypass* (2026-10-31)
 - [SSRF Lab: Make a Server Fetch Its Own Cloud Secrets](https://securityelites.com/ssrf-lab-walkthrough-cloud-metadata/) — *Hacking Labs* (2026-10-31)
+- [Command Injection Lab: Turn a Ping Tool Into a Shell](https://securityelites.com/command-injection-lab-walkthrough-ping-tool/) — *Command Injection* (2026-10-31)

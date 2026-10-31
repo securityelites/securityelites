@@ -350,3 +350,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [CSRF Lab: Make a Victim’s Bank Send You Money](https://securityelites.com/csrf-lab-walkthrough-money-transfer/) — *Authentication Bypass* (2026-10-31)
 - [SSRF Lab: Make a Server Fetch Its Own Cloud Secrets](https://securityelites.com/ssrf-lab-walkthrough-cloud-metadata/) — *Hacking Labs* (2026-10-31)
 - [Command Injection Lab: Turn a Ping Tool Into a Shell](https://securityelites.com/command-injection-lab-walkthrough-ping-tool/) — *Command Injection* (2026-10-31)
+- [JWT None Algorithm Lab: Forge an Admin Token Without a Key](https://securityelites.com/jwt-none-algorithm-lab-walkthrough/) — *Authentication Bypass* (2026-10-31)

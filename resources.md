@@ -306,3 +306,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [RAG Poisoning Lab: Hijack a Bot Through Its Knowledge Base](https://securityelites.com/rag-poisoning-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
 - [Markdown Rendering Injection Lab: XSS Through an AI Chatbot](https://securityelites.com/markdown-rendering-injection-lab-llm-xss/) — *AI in Hacking* (2026-10-31)
 - [AI Jailbreak Lab: Multi-Turn Roleplay Bypass Explained](https://securityelites.com/ai-jailbreak-roleplay-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
+- [Token Smuggling Lab: Split a Jailbreak Across Messages](https://securityelites.com/token-smuggling-lab-multi-message-jailbreak/) — *AI in Hacking* (2026-10-31)

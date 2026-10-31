@@ -346,3 +346,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Web Hacking Tutorial Day 4: SQL Injection Deep Dive for Beginners](https://securityelites.com/dvwa-web-hacking-tutorial-day-4/) — *DVWA Labs* (2026-10-31)
 - [MCP Tool Poisoning Lab: Hijack an AI Agent Through a Tool Description](https://securityelites.com/mcp-tool-poisoning-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
 - [AI Agent Data Exfiltration Lab: Make an Assistant Read the Admin’s Email](https://securityelites.com/ai-agent-data-exfiltration-lab-walkthrough/) — *Agentic AI* (2026-10-31)
+- [XXE Lab: Read Server Files Through an XML Upload](https://securityelites.com/xxe-lab-walkthrough-external-entity-file-read/) — *Hacking Labs* (2026-10-31)

@@ -322,3 +322,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lab 9: DVWA XSS Stored Lab 2026 — One Payload Hacks Every User (Persistent XSS Exploit Guide)](https://securityelites.com/dvwa-xss-stored-lab-2026/) — *Cross-Site Scripting (XSS)* (2026-10-31)
 - [BloodHound Tutorial 2026 — Find the SHORTEST Path to Domain Admin in Minutes | Day 27](https://securityelites.com/day-27-bloodhound-tutorial/) — *Ethical Hacking* (2026-10-31)
 - [Day 26: Pass the Hash & Pass the Ticket 2026 — Lateral Movement With NTLM & Kerberos](https://securityelites.com/day-26-pass-the-hash-ticket/) — *Authentication Bypass* (2026-10-31)
+- [Nmap Commands with Examples 2026 — The Complete Reference (Every Flag, Every Scan Type, Free PDF Cheat Sheet)](https://securityelites.com/nmap-commands-with-examples/) — *Cheat Sheets* (2026-10-31)

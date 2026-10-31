@@ -330,3 +330,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Hack WiFi Password (Kali Linux 2026 Guide) — Ethical Hacker Method](https://securityelites.com/how-to-hack-wifi-password/) — *Ethical Hacking* (2026-10-31)
 - [Red Team vs Blue Team vs Purple Team Explained (Complete Cybersecurity Guide)](https://securityelites.com/red-team-vs-blue-team-vs-purple-team/) — *Blue Team* (2026-10-31)
 - [What Is Ethical Hacking? Complete Beginner Guide (Step-by-Step 2026)](https://securityelites.com/what-is-ethical-hacking-beginner-guide/) — *Ethical Hacking* (2026-10-31)
+- [Ethical Hacking Lab Setup at Home (Beginner Guide)](https://securityelites.com/ethical-hacking-lab-setup-at-home/) — *DVWA Labs* (2026-10-31)

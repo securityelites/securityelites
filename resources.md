@@ -312,3 +312,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Tool Confusion Lab: Trick an Agent Into the Admin Tool](https://securityelites.com/ai-tool-confusion-lab-agent-security/) — *Agentic AI* (2026-10-31)
 - [System Prompt Extraction Lab: Make BrandBot Leak Its Prompt](https://securityelites.com/system-prompt-extraction-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
 - [SQL Injection Lab: Bypass a Login Without the Password](https://securityelites.com/sql-injection-login-bypass-lab-walkthrough/) — *Ethical Hacking* (2026-10-31)
+- [Kali Linux Day19: Hashcat Tutorial Kali Linux 2026 — GPU Password Cracking, Attack Modes & Benchmarking](https://securityelites.com/kali-linux-day-19-hashcat-tutorial/) — *Cyber Security Tools* (2026-10-31)

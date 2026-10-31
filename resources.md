@@ -320,3 +320,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Data Exfiltration Techniques 2026 — DNS Tunneling, ICMP Exfil & Covert Channels | Hacking Course Day29](https://securityelites.com/day-29-data-exfiltration/) — *Ethical Hacking* (2026-10-31)
 - [Lab11 : DVWA SQL Injection Blind Lab 2026 — Boolean and Time-Based Blind SQLi Guide](https://securityelites.com/dvwa-sql-injection-blind-lab-2026/) — *DVWA Labs* (2026-10-31)
 - [Lab 9: DVWA XSS Stored Lab 2026 — One Payload Hacks Every User (Persistent XSS Exploit Guide)](https://securityelites.com/dvwa-xss-stored-lab-2026/) — *Cross-Site Scripting (XSS)* (2026-10-31)
+- [BloodHound Tutorial 2026 — Find the SHORTEST Path to Domain Admin in Minutes | Day 27](https://securityelites.com/day-27-bloodhound-tutorial/) — *Ethical Hacking* (2026-10-31)

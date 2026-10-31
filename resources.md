@@ -334,3 +334,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Beginner’s Guide for Cyber Security and Ethical Hacking (Step-by-Step 2026)](https://securityelites.com/beginners-guide-for-cyber-security-and-ethical-hacking-step-by-step-2026/) — *Ethical Hacking* (2026-10-31)
 - [ChatGPT Plugins Are a Security Nightmare — Here's How Hackers Exploit Them](https://securityelites.com/chatgpt-plugin-security-vulnerabilities-2026/) — *AI in Hacking* (2026-10-31)
 - [Kali Linux WSL2 Setup 2026 — Install, Configure & Run Tools on Windows in 10 Minutes](https://securityelites.com/kali-linux-wsl2-setup-2026/) — *Kali Linux* (2026-10-31)
+- [Google Dorks for Bug Bounty Hunters (Beginner Guide 2026)](https://securityelites.com/google-dorks-for-bug-bounty-hunters/) — *Bug Bounty Hunting* (2026-10-31)

@@ -341,3 +341,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lab 3: DVWA Command Injection Lab 2026 — Inject OS Commands & Get a Reverse Shell](https://securityelites.com/dvwa-command-injection-lab-2026/) — *Command Injection* (2026-10-31)
 - [Kali Linux Day15: Enum4linux Tutorial Kali Linux 2026 — SMB Enumeration, User Listing & Share Discovery](https://securityelites.com/kali-linux-day-15-enum4linux-tutorial/) — *Enumeration* (2026-10-31)
 - [Indirect Prompt Injection 2026 — When Web Pages Attack Your AI Agent](https://securityelites.com/indirect-prompt-injection-attacks-2026/) — *AI in Hacking* (2026-10-31)
+- [Kali Linux Tutorial for Beginners 2026(Complete Ethical Hacking Guide)](https://securityelites.com/kali-linux-tutorial-for-beginners/) — *Ethical Hacking* (2026-10-31)

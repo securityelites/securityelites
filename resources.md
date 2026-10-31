@@ -358,3 +358,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lab 6: DVWA File Upload Lab 2026 — Ultimate Guide to Upload PHP Webshells & Get RCE Fast](https://securityelites.com/dvwa-file-upload-lab-2026/) — *Authentication Bypass* (2026-10-31)
 - [TryHackMe vs HackTheBox 2026 — Which Platform Builds Employable Skills Faster?](https://securityelites.com/tryhackme-vs-hackthebox-2026/) — *Cyber Security* (2026-10-31)
 - [Ethical Hacking Roadmap 2026: How to Become Ethical Hacker (Beginner to Expert)](https://securityelites.com/ethical-hacking-roadmap-2026/) — *Blue Team* (2026-10-31)
+- [BB Day16: Rate Limiting Bug Bounty 2026 — Find Bypass Flaws in Login, OTP and API Endpoints](https://securityelites.com/day-16-rate-limiting-bug-bounty/) — *Bug Bounty Course* (2026-10-31)

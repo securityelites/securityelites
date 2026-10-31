@@ -354,3 +354,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Stored XSS Lab: Plant a Comment That Runs for Every Visitor](https://securityelites.com/stored-xss-lab-walkthrough-blog-comment/) — *Cross-Site Scripting (XSS)* (2026-10-31)
 - [Reflected XSS Lab: Make a Search Box Run Your JavaScript](https://securityelites.com/reflected-xss-lab-walkthrough-search-box/) — *Cross-Site Scripting (XSS)* (2026-10-31)
 - [DVWA vs WebGoat vs Juice Shop 2026 — Which Hacking Lab Is Best for Beginners?](https://securityelites.com/dvwa-vs-webgoat-vs-juice-shop-2026/) — *DVWA Labs* (2026-10-31)
+- [7 Websites Where You Can Practice Hacking Legally (Beginner to Pro Guide)](https://securityelites.com/websites-where-you-can-practice-hacking-legally/) — *Bug Bounty Hunting* (2026-10-31)

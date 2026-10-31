@@ -332,3 +332,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [What Is Ethical Hacking? Complete Beginner Guide (Step-by-Step 2026)](https://securityelites.com/what-is-ethical-hacking-beginner-guide/) — *Ethical Hacking* (2026-10-31)
 - [Ethical Hacking Lab Setup at Home (Beginner Guide)](https://securityelites.com/ethical-hacking-lab-setup-at-home/) — *DVWA Labs* (2026-10-31)
 - [Beginner’s Guide for Cyber Security and Ethical Hacking (Step-by-Step 2026)](https://securityelites.com/beginners-guide-for-cyber-security-and-ethical-hacking-step-by-step-2026/) — *Ethical Hacking* (2026-10-31)
+- [ChatGPT Plugins Are a Security Nightmare — Here's How Hackers Exploit Them](https://securityelites.com/chatgpt-plugin-security-vulnerabilities-2026/) — *AI in Hacking* (2026-10-31)

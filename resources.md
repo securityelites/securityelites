@@ -304,3 +304,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Installation Guide (2026) – Step-by-Step](https://securityelites.com/kali-linux-installation-guide-2026/) — *Kali Linux* (2026-10-31)
 - [Prompt Injection Lab: Make a Sales Bot Leak Its Secret](https://securityelites.com/prompt-injection-lab-walkthrough-sales-bot/) — *AI in Hacking* (2026-10-31)
 - [RAG Poisoning Lab: Hijack a Bot Through Its Knowledge Base](https://securityelites.com/rag-poisoning-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
+- [Markdown Rendering Injection Lab: XSS Through an AI Chatbot](https://securityelites.com/markdown-rendering-injection-lab-llm-xss/) — *AI in Hacking* (2026-10-31)

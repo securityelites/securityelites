@@ -359,3 +359,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [TryHackMe vs HackTheBox 2026 — Which Platform Builds Employable Skills Faster?](https://securityelites.com/tryhackme-vs-hackthebox-2026/) — *Cyber Security* (2026-10-31)
 - [Ethical Hacking Roadmap 2026: How to Become Ethical Hacker (Beginner to Expert)](https://securityelites.com/ethical-hacking-roadmap-2026/) — *Blue Team* (2026-10-31)
 - [BB Day16: Rate Limiting Bug Bounty 2026 — Find Bypass Flaws in Login, OTP and API Endpoints](https://securityelites.com/day-16-rate-limiting-bug-bounty/) — *Bug Bounty Course* (2026-10-31)
+- [BB Day17: JWT Attacks Bug Bounty 2026 — Algorithm Confusion, None Attack & Weak Secrets](https://securityelites.com/day-17-jwt-attacks-bug-bounty/) — *Bug Bounty Course* (2026-10-31)

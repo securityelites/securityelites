@@ -309,3 +309,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Token Smuggling Lab: Split a Jailbreak Across Messages](https://securityelites.com/token-smuggling-lab-multi-message-jailbreak/) — *AI in Hacking* (2026-10-31)
 - [Embedding Poisoning Lab: Outrank the Real Document in RAG](https://securityelites.com/embedding-poisoning-lab-rag-retrieval/) — *AI in Hacking* (2026-10-31)
 - [Indirect Prompt Injection Lab: Poison a Document Summariser](https://securityelites.com/indirect-prompt-injection-lab-document-summariser/) — *AI in Hacking* (2026-10-31)
+- [AI Tool Confusion Lab: Trick an Agent Into the Admin Tool](https://securityelites.com/ai-tool-confusion-lab-agent-security/) — *Agentic AI* (2026-10-31)

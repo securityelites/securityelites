@@ -302,3 +302,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [MCP Tool Poisoning — Real 2026 Rug Pull Attack Guide | MCP Security Day 4 of 7](https://securityelites.com/mcp-security-day-4-tool-poisoning-rug-pulls/) — *AI Attack Framework Tools* (2026-10-26)
 - [Real MCP Attacks 2026 — Four Case Studies Dissected End to End | MCP Security Day 5 of 7](https://securityelites.com/mcp-security-day-5-real-mcp-attacks-2026/) — *Agentic AI* (2026-10-30)
 - [Kali Linux Installation Guide (2026) – Step-by-Step](https://securityelites.com/kali-linux-installation-guide-2026/) — *Kali Linux* (2026-10-31)
+- [Prompt Injection Lab: Make a Sales Bot Leak Its Secret](https://securityelites.com/prompt-injection-lab-walkthrough-sales-bot/) — *AI in Hacking* (2026-10-31)

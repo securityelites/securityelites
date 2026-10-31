@@ -305,3 +305,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prompt Injection Lab: Make a Sales Bot Leak Its Secret](https://securityelites.com/prompt-injection-lab-walkthrough-sales-bot/) — *AI in Hacking* (2026-10-31)
 - [RAG Poisoning Lab: Hijack a Bot Through Its Knowledge Base](https://securityelites.com/rag-poisoning-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
 - [Markdown Rendering Injection Lab: XSS Through an AI Chatbot](https://securityelites.com/markdown-rendering-injection-lab-llm-xss/) — *AI in Hacking* (2026-10-31)
+- [AI Jailbreak Lab: Multi-Turn Roleplay Bypass Explained](https://securityelites.com/ai-jailbreak-roleplay-lab-walkthrough/) — *AI in Hacking* (2026-10-31)

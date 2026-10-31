@@ -345,3 +345,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Subdomain Enumeration Tools 2026 — 7 Best Methods to Find Every Hidden Subdomain](https://securityelites.com/subdomain-enumeration-tools-2026/) — *Enumeration* (2026-10-31)
 - [DVWA Web Hacking Tutorial Day 4: SQL Injection Deep Dive for Beginners](https://securityelites.com/dvwa-web-hacking-tutorial-day-4/) — *DVWA Labs* (2026-10-31)
 - [MCP Tool Poisoning Lab: Hijack an AI Agent Through a Tool Description](https://securityelites.com/mcp-tool-poisoning-lab-walkthrough/) — *AI in Hacking* (2026-10-31)
+- [AI Agent Data Exfiltration Lab: Make an Assistant Read the Admin’s Email](https://securityelites.com/ai-agent-data-exfiltration-lab-walkthrough/) — *Agentic AI* (2026-10-31)

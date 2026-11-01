@@ -374,3 +374,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [BB Day15: Business Logic Vulnerabilities Bug Bounty 2026 — Bypass Payment Like a Hacker](https://securityelites.com/day-15-business-logic-bug-bounty/) — *Bug Bounty Course* (2026-11-01)
 - [Day 15: CSRF & Authentication Bypass — When Web Requests Get Forged (2026)](https://securityelites.com/day-15-csrf-authentication-bypass/) — *Authentication Bypass* (2026-11-01)
 - [Day 16: Broken Access Control & IDOR — The #1 Web Vulnerability Explained (2026)](https://securityelites.com/day-16-broken-access-control-idor/) — *Cyber Security Courses &amp; Training* (2026-11-01)
+- [Exploitation Techniques Beyond Metasploit 2026 — Day 22 Ethical Hacking Guide](https://securityelites.com/day-22-exploitation-techniques-beyond-metasploit/) — *Ethical Hacking* (2026-11-01)

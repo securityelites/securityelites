@@ -377,3 +377,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Exploitation Techniques Beyond Metasploit 2026 — Day 22 Ethical Hacking Guide](https://securityelites.com/day-22-exploitation-techniques-beyond-metasploit/) — *Ethical Hacking* (2026-11-01)
 - [Day 25: Kerberoasting 2026 — Attack & Defend Service Account Passwords in Active Directory](https://securityelites.com/day-25-kerberoasting-active-directory/) — *Authentication Bypass* (2026-11-01)
 - [SSTI Lab: Escape a Template Sandbox to Read a Secret](https://securityelites.com/ssti-lab-walkthrough-jinja-sandbox-escape/) — *Hacking Labs* (2026-11-01)
+- [NoSQL Injection Lab: Log In as Admin Without a Password](https://securityelites.com/nosql-injection-lab-walkthrough-mongodb-login-bypass/) — *Hacking Labs* (2026-11-01)

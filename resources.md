@@ -383,3 +383,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prototype Pollution Lab: Become Admin Without an Admin Flag](https://securityelites.com/prototype-pollution-lab-walkthrough-user-settings/) — *Hacking Labs* (2026-11-01)
 - [CORS Misconfiguration Lab: Steal a Token From Another Site](https://securityelites.com/cors-misconfiguration-lab-walkthrough-origin-reflection/) — *Hacking Labs* (2026-11-01)
 - [GraphQL Introspection Lab: Find the Hidden Admin Query](https://securityelites.com/graphql-introspection-lab-walkthrough-hidden-fields/) — *Hacking Labs* (2026-11-01)
+- [OAuth redirect_uri Lab: Steal a Login Code With a Loose Check](https://securityelites.com/oauth-redirect-uri-lab-walkthrough-open-redirect/) — *Hacking Labs* (2026-11-01)

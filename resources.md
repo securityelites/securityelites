@@ -380,3 +380,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [NoSQL Injection Lab: Log In as Admin Without a Password](https://securityelites.com/nosql-injection-lab-walkthrough-mongodb-login-bypass/) — *Hacking Labs* (2026-11-01)
 - [DOM XSS Lab: Run Script Straight From the URL Bar](https://securityelites.com/dom-xss-lab-walkthrough-url-fragment-highlighter/) — *Hacking Labs* (2026-11-01)
 - [JWT Algorithm Confusion Lab: Forge an Admin Token With a Public Key](https://securityelites.com/jwt-algorithm-confusion-lab-walkthrough-rs256-hs256/) — *Hacking Labs* (2026-11-01)
+- [Prototype Pollution Lab: Become Admin Without an Admin Flag](https://securityelites.com/prototype-pollution-lab-walkthrough-user-settings/) — *Hacking Labs* (2026-11-01)

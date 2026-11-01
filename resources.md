@@ -368,3 +368,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [10 Best Hacking Tools in 2026 — What Every Ethical Hacker Actually Uses](https://securityelites.com/best-hacking-tools-2026/) — *Cyber Security Tools* (2026-10-31)
 - [Hashcat vs John the Ripper 2026 — The 20x Speed Gap No One Talks About](https://securityelites.com/hashcat-vs-john-speed-comparison-2026/) — *Cyber Security Tools* (2026-11-01)
 - [Google Dorking for Hackers 2026 — 50 Dorks to Find Vulnerabilities and Exposed Data](https://securityelites.com/google-dorking-for-hackers-2026/) — *Bug Bounty Hunting* (2026-11-01)
+- [Lab 4: DVWA CSRF Lab 2026 — Forge Cross-Site Requests & Bypass Token Validation](https://securityelites.com/dvwa-csrf-lab-2026/) — *DVWA Labs* (2026-11-01)

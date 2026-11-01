@@ -371,3 +371,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lab 4: DVWA CSRF Lab 2026 — Forge Cross-Site Requests & Bypass Token Validation](https://securityelites.com/dvwa-csrf-lab-2026/) — *DVWA Labs* (2026-11-01)
 - [Kali Linux Day 11: Aircrack-ng Tutorial 2026 — Crack WiFi Passwords & Audit WPA2 Security](https://securityelites.com/kali-linux-day-11-aircrack-ng-tutorial/) — *Cyber Security Tools* (2026-11-01)
 - [XXE Injection Bug Bounty 2026 — Day 13 Hack Server Files via XML](https://securityelites.com/day-13-xxe-injection-bug-bounty/) — *Bug Bounty Course* (2026-11-01)
+- [BB Day15: Business Logic Vulnerabilities Bug Bounty 2026 — Bypass Payment Like a Hacker](https://securityelites.com/day-15-business-logic-bug-bounty/) — *Bug Bounty Course* (2026-11-01)

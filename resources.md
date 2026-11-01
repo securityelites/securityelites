@@ -370,3 +370,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Google Dorking for Hackers 2026 — 50 Dorks to Find Vulnerabilities and Exposed Data](https://securityelites.com/google-dorking-for-hackers-2026/) — *Bug Bounty Hunting* (2026-11-01)
 - [Lab 4: DVWA CSRF Lab 2026 — Forge Cross-Site Requests & Bypass Token Validation](https://securityelites.com/dvwa-csrf-lab-2026/) — *DVWA Labs* (2026-11-01)
 - [Kali Linux Day 11: Aircrack-ng Tutorial 2026 — Crack WiFi Passwords & Audit WPA2 Security](https://securityelites.com/kali-linux-day-11-aircrack-ng-tutorial/) — *Cyber Security Tools* (2026-11-01)
+- [XXE Injection Bug Bounty 2026 — Day 13 Hack Server Files via XML](https://securityelites.com/day-13-xxe-injection-bug-bounty/) — *Bug Bounty Course* (2026-11-01)

@@ -378,3 +378,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Day 25: Kerberoasting 2026 — Attack & Defend Service Account Passwords in Active Directory](https://securityelites.com/day-25-kerberoasting-active-directory/) — *Authentication Bypass* (2026-11-01)
 - [SSTI Lab: Escape a Template Sandbox to Read a Secret](https://securityelites.com/ssti-lab-walkthrough-jinja-sandbox-escape/) — *Hacking Labs* (2026-11-01)
 - [NoSQL Injection Lab: Log In as Admin Without a Password](https://securityelites.com/nosql-injection-lab-walkthrough-mongodb-login-bypass/) — *Hacking Labs* (2026-11-01)
+- [DOM XSS Lab: Run Script Straight From the URL Bar](https://securityelites.com/dom-xss-lab-walkthrough-url-fragment-highlighter/) — *Hacking Labs* (2026-11-01)

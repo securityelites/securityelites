@@ -373,3 +373,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [XXE Injection Bug Bounty 2026 — Day 13 Hack Server Files via XML](https://securityelites.com/day-13-xxe-injection-bug-bounty/) — *Bug Bounty Course* (2026-11-01)
 - [BB Day15: Business Logic Vulnerabilities Bug Bounty 2026 — Bypass Payment Like a Hacker](https://securityelites.com/day-15-business-logic-bug-bounty/) — *Bug Bounty Course* (2026-11-01)
 - [Day 15: CSRF & Authentication Bypass — When Web Requests Get Forged (2026)](https://securityelites.com/day-15-csrf-authentication-bypass/) — *Authentication Bypass* (2026-11-01)
+- [Day 16: Broken Access Control & IDOR — The #1 Web Vulnerability Explained (2026)](https://securityelites.com/day-16-broken-access-control-idor/) — *Cyber Security Courses &amp; Training* (2026-11-01)

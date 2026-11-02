@@ -418,3 +418,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Information Gathering Tools in Kali Linux – Complete Beginner to Expert Guide](https://securityelites.com/information-gathering-tools-in-kali-linux/) — *Ethical Hacking* (2026-11-02)
 - [Networking Basics for Hackers: Complete Beginner Guide to Ethical Hacking](https://securityelites.com/networking-basics-for-hackers/) — *Ethical Hacking* (2026-11-02)
 - [Attribute XSS Lab: Break Out of a Value When Angle Brackets Are Escaped](https://securityelites.com/attribute-xss-lab-walkthrough-break-out-of-value/) — *Hacking Labs* (2026-11-02)
+- [AI Prompt Firewall Defender Lab: Catch Multi-Stage Attacks](https://securityelites.com/ai-prompt-firewall-defender-lab-walkthrough-multi-stage-detection/) — *AI in Hacking* (2026-11-02)

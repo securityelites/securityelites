@@ -397,3 +397,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [SSTI Lab: Read a Secret Through an Email Preview Template](https://securityelites.com/ssti-lab-walkthrough-email-preview-template/) — *Hacking Labs* (2026-11-02)
 - [OAuth State Lab: Link Your Account to the Victim&#x27;s Session](https://securityelites.com/oauth-state-lab-walkthrough-account-takeover/) — *Hacking Labs* (2026-11-02)
 - [Lateral Movement Techniques 2026 — Execute Every BloodHound Attack Path in AD | Hacking Course Day 28](https://securityelites.com/day-28-lateral-movement-techniques/) — *Authentication Bypass* (2026-11-02)
+- [Kali Linux Commands List – 200+ Ethical Hacking Commands Cheat Sheet (2026)](https://securityelites.com/kali-linux-commands-list/) — *Kali Linux* (2026-11-02)

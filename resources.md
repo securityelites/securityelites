@@ -409,3 +409,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [The Power of AI in Cyber Security – Beginner Friendly Guide (2026)](https://securityelites.com/the-power-of-ai-in-cyber-security-beginner-friendly-guide/) — *AI in Security* (2026-11-02)
 - [SQL Injection Payload Cheat Sheet 2026 | Ethical Hacking Guide](https://securityelites.com/sql-injection-payload-cheat-sheet-2026/) — *SQL Injection* (2026-11-02)
 - [DVWA Lab Setup Step-by-Step on Kali Linux (Beginner Guide)](https://securityelites.com/dvwa-lab-setup-step-by-step/) — *DVWA Labs* (2026-11-02)
+- [Cybersecurity Career Roadmap 2026 – Complete Beginner to Expert Guide](https://securityelites.com/cybersecurity-career-roadmap-2026/) — *Cyber Security Career* (2026-11-02)

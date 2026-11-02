@@ -386,3 +386,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [OAuth redirect_uri Lab: Steal a Login Code With a Loose Check](https://securityelites.com/oauth-redirect-uri-lab-walkthrough-open-redirect/) — *Hacking Labs* (2026-11-01)
 - [Race Condition Lab: Redeem a One-Time Coupon Twice](https://securityelites.com/race-condition-lab-walkthrough-single-use-coupon/) — *Hacking Labs* (2026-11-01)
 - [Mass Assignment Lab: Add an Admin Flag the Form Never Showed](https://securityelites.com/mass-assignment-lab-walkthrough-self-promote-to-admin/) — *Hacking Labs* (2026-11-01)
+- [Password Reset Lab: Guess the Reset Token and Take the Admin Account](https://securityelites.com/password-reset-poisoning-lab-walkthrough-predictable-token/) — *Hacking Labs* (2026-11-02)

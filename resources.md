@@ -400,3 +400,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Kali Linux Commands List – 200+ Ethical Hacking Commands Cheat Sheet (2026)](https://securityelites.com/kali-linux-commands-list/) — *Kali Linux* (2026-11-02)
 - [Passive vs Active Reconnaissance – Real Hacker Methods Explained](https://securityelites.com/security-elites-passive-vs-active-reconnaissance/) — *Ethical Hacking* (2026-11-02)
 - [Learn IP Addressing Basics for Cybersecurity Beginners (Complete Guide)](https://securityelites.com/learn-ip-addressing-basics-cybersecurity/) — *Ethical Hacking* (2026-11-02)
+- [SQL Injection Tutorial Step-by-Step (2026 Guide) — Real Ethical Hacker Walkthrough](https://securityelites.com/sql-injection-tutorial-step-by-step-2026/) — *SQL Injection* (2026-11-02)

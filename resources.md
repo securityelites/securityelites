@@ -387,3 +387,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Race Condition Lab: Redeem a One-Time Coupon Twice](https://securityelites.com/race-condition-lab-walkthrough-single-use-coupon/) — *Hacking Labs* (2026-11-01)
 - [Mass Assignment Lab: Add an Admin Flag the Form Never Showed](https://securityelites.com/mass-assignment-lab-walkthrough-self-promote-to-admin/) — *Hacking Labs* (2026-11-01)
 - [Password Reset Lab: Guess the Reset Token and Take the Admin Account](https://securityelites.com/password-reset-poisoning-lab-walkthrough-predictable-token/) — *Hacking Labs* (2026-11-02)
+- [LDAP Injection Lab: Log In as Admin by Breaking the Filter](https://securityelites.com/ldap-injection-lab-walkthrough-filter-manipulation/) — *Hacking Labs* (2026-11-02)

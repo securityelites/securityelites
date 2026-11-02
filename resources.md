@@ -414,3 +414,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Machine Learning for Threat Detection: Complete Cybersecurity Guide (2026)](https://securityelites.com/machine-learning-for-threat-detection-guide/) — *AI in Security* (2026-11-02)
 - [Cybersecurity Terminologies Every Beginner Must Know (Complete Mentor Guide)](https://securityelites.com/cybersecurity-terminologies-every-beginner-must-know/) — *Ethical Hacking* (2026-11-02)
 - [Linux Basics for Ethical Hackers: Complete Beginner Guide (2026)](https://securityelites.com/linux-basics-for-ethical-hackers/) — *Ethical Hacking* (2026-11-02)
+- [Best Kali Linux Tools for Beginners (2026 Ethical Hacking Guide)](https://securityelites.com/best-kali-linux-tools-for-beginners/) — *Kali Linux* (2026-11-02)

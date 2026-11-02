@@ -411,3 +411,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [DVWA Lab Setup Step-by-Step on Kali Linux (Beginner Guide)](https://securityelites.com/dvwa-lab-setup-step-by-step/) — *DVWA Labs* (2026-11-02)
 - [Cybersecurity Career Roadmap 2026 – Complete Beginner to Expert Guide](https://securityelites.com/cybersecurity-career-roadmap-2026/) — *Cyber Security Career* (2026-11-02)
 - [Best Certifications for Ethical Hackers in 2026 (Complete Career Roadmap)](https://securityelites.com/best-certifications-for-ethical-hackers/) — *Cyber Security Career* (2026-11-02)
+- [Machine Learning for Threat Detection: Complete Cybersecurity Guide (2026)](https://securityelites.com/machine-learning-for-threat-detection-guide/) — *AI in Security* (2026-11-02)

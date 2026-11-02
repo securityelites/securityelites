@@ -399,3 +399,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Lateral Movement Techniques 2026 — Execute Every BloodHound Attack Path in AD | Hacking Course Day 28](https://securityelites.com/day-28-lateral-movement-techniques/) — *Authentication Bypass* (2026-11-02)
 - [Kali Linux Commands List – 200+ Ethical Hacking Commands Cheat Sheet (2026)](https://securityelites.com/kali-linux-commands-list/) — *Kali Linux* (2026-11-02)
 - [Passive vs Active Reconnaissance – Real Hacker Methods Explained](https://securityelites.com/security-elites-passive-vs-active-reconnaissance/) — *Ethical Hacking* (2026-11-02)
+- [Learn IP Addressing Basics for Cybersecurity Beginners (Complete Guide)](https://securityelites.com/learn-ip-addressing-basics-cybersecurity/) — *Ethical Hacking* (2026-11-02)

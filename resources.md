@@ -402,3 +402,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Learn IP Addressing Basics for Cybersecurity Beginners (Complete Guide)](https://securityelites.com/learn-ip-addressing-basics-cybersecurity/) — *Ethical Hacking* (2026-11-02)
 - [SQL Injection Tutorial Step-by-Step (2026 Guide) — Real Ethical Hacker Walkthrough](https://securityelites.com/sql-injection-tutorial-step-by-step-2026/) — *SQL Injection* (2026-11-02)
 - [Social Media Footprinting Techniques Hackers Use (Complete Ethical Hacker Guide)](https://securityelites.com/social-media-footprinting-techniques-hackers-use/) — *Ethical Hacking* (2026-11-02)
+- [Top 20 Kali Tools Explained Practically — Real Ethical Hacker Workflow Guide](https://securityelites.com/top-20-kali-tools-explained-practically/) — *Kali Linux* (2026-11-02)

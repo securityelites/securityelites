@@ -417,3 +417,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Best Kali Linux Tools for Beginners (2026 Ethical Hacking Guide)](https://securityelites.com/best-kali-linux-tools-for-beginners/) — *Kali Linux* (2026-11-02)
 - [Information Gathering Tools in Kali Linux – Complete Beginner to Expert Guide](https://securityelites.com/information-gathering-tools-in-kali-linux/) — *Ethical Hacking* (2026-11-02)
 - [Networking Basics for Hackers: Complete Beginner Guide to Ethical Hacking](https://securityelites.com/networking-basics-for-hackers/) — *Ethical Hacking* (2026-11-02)
+- [Attribute XSS Lab: Break Out of a Value When Angle Brackets Are Escaped](https://securityelites.com/attribute-xss-lab-walkthrough-break-out-of-value/) — *Hacking Labs* (2026-11-02)

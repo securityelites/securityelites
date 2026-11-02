@@ -389,3 +389,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Password Reset Lab: Guess the Reset Token and Take the Admin Account](https://securityelites.com/password-reset-poisoning-lab-walkthrough-predictable-token/) — *Hacking Labs* (2026-11-02)
 - [LDAP Injection Lab: Log In as Admin by Breaking the Filter](https://securityelites.com/ldap-injection-lab-walkthrough-filter-manipulation/) — *Hacking Labs* (2026-11-02)
 - [XPath Injection Lab: Bypass an XML Login With Query Syntax](https://securityelites.com/xpath-injection-lab-walkthrough-login-bypass/) — *Hacking Labs* (2026-11-02)
+- [SSRF Lab: Beat the URL Allowlist With a Redirect](https://securityelites.com/ssrf-lab-walkthrough-allowlist-bypass-via-redirect/) — *Hacking Labs* (2026-11-02)

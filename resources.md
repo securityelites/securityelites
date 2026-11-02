@@ -422,3 +422,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Fingerprinting Defender Lab: Catch the Probing Sessions](https://securityelites.com/ai-model-fingerprinting-defender-lab-walkthrough-detect-probes/) — *AI in Hacking* (2026-11-02)
 - [AI System Prompt Leak Lab: Beat an Input and an Output Filter](https://securityelites.com/ai-system-prompt-leak-lab-walkthrough-encoded-channel/) — *AI in Hacking* (2026-11-02)
 - [AI Output Filter Lab: Get the Secret Past the Scrubber](https://securityelites.com/ai-output-filter-bypass-lab-walkthrough-encoded-secret/) — *AI in Hacking* (2026-11-02)
+- [AI Multi-Agent Lab: Hijack a Spawned Sub-Agent](https://securityelites.com/ai-recursive-self-prompting-lab-walkthrough-sub-agent-hijack/) — *AI in Hacking* (2026-11-02)

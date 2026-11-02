@@ -392,3 +392,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [SSRF Lab: Beat the URL Allowlist With a Redirect](https://securityelites.com/ssrf-lab-walkthrough-allowlist-bypass-via-redirect/) — *Hacking Labs* (2026-11-02)
 - [SVG XSS Lab: Slip Script Past a Tag-Stripping Sanitiser](https://securityelites.com/svg-xss-lab-walkthrough-sanitiser-bypass/) — *Hacking Labs* (2026-11-02)
 - [CRLF Injection Lab: Inject a Header Into the Response](https://securityelites.com/crlf-injection-lab-walkthrough-http-response-splitting/) — *Hacking Labs* (2026-11-02)
+- [Web Cache Poisoning Lab: Serve Your Payload to Everyone](https://securityelites.com/web-cache-poisoning-lab-walkthrough-unkeyed-header/) — *Hacking Labs* (2026-11-02)

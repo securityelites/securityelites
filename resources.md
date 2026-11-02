@@ -406,3 +406,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Footprinting and Reconnaissance Tutorial (2026) – Complete Step-by-Step Guide](https://securityelites.com/footprinting-and-reconnaissance-tutorial-2026-guide/) — *Ethical Hacking* (2026-11-02)
 - [Enumeration in Ethical Hacking – Full Practical Guide](https://securityelites.com/enumeration-in-ethical-hacking-guide/) — *Enumeration* (2026-11-02)
 - [How to Start Bug Bounty With Zero Experience – Beginner to Pro Guide](https://securityelites.com/how-to-start-bug-bounty-with-zero-experience/) — *Bug Bounty Hunting* (2026-11-02)
+- [The Power of AI in Cyber Security – Beginner Friendly Guide (2026)](https://securityelites.com/the-power-of-ai-in-cyber-security-beginner-friendly-guide/) — *AI in Security* (2026-11-02)

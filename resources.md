@@ -394,3 +394,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [CRLF Injection Lab: Inject a Header Into the Response](https://securityelites.com/crlf-injection-lab-walkthrough-http-response-splitting/) — *Hacking Labs* (2026-11-02)
 - [Web Cache Poisoning Lab: Serve Your Payload to Everyone](https://securityelites.com/web-cache-poisoning-lab-walkthrough-unkeyed-header/) — *Hacking Labs* (2026-11-02)
 - [GraphQL Batching Lab: Brute-Force Past a Rate Limit in One Request](https://securityelites.com/graphql-batching-lab-walkthrough-rate-limit-bypass/) — *Hacking Labs* (2026-11-02)
+- [SSTI Lab: Read a Secret Through an Email Preview Template](https://securityelites.com/ssti-lab-walkthrough-email-preview-template/) — *Hacking Labs* (2026-11-02)

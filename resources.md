@@ -442,3 +442,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI LLM-Driven SSRF Lab: Push the Agent&#x27;s Fetch Tool Inward](https://securityelites.com/ai-llm-ssrf-lab-walkthrough-agent-http-tool/) — *AI in Hacking* (2026-11-03)
 - [AI Confused Deputy Lab: Turn the Agent&#x27;s Privileges Against Its User](https://securityelites.com/ai-confused-deputy-lab-walkthrough-privilege-misuse/) — *AI in Hacking* (2026-11-03)
 - [AI Plan Injection Lab: Corrupt the Agent&#x27;s Scratchpad](https://securityelites.com/ai-plan-injection-lab-walkthrough-scratchpad-exfiltration/) — *AI in Hacking* (2026-11-03)
+- [AI Tool-Output Injection Lab: Hostile Search Results Drive the Agent](https://securityelites.com/ai-tool-output-injection-lab-walkthrough-hostile-results/) — *AI in Hacking* (2026-11-03)

@@ -437,3 +437,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Agent Race Lab: Exploit the Gap Between Check and Transfer](https://securityelites.com/ai-agent-toctou-race-lab-walkthrough-tool-execution/) — *AI in Hacking* (2026-11-03)
 - [AI Agent State Lab: Tamper the Saved Role to Reach Admin Code](https://securityelites.com/ai-agent-deserialization-lab-walkthrough-tampered-state/) — *AI in Hacking* (2026-11-03)
 - [AI Output Schema Bypass Lab: Valid JSON, Impossible Values](https://securityelites.com/ai-output-schema-bypass-lab-walkthrough-valid-json-bad-values/) — *AI in Hacking* (2026-11-03)
+- [AI Token Forgery Lab: When the Backend Trusts a Model-Made Token](https://securityelites.com/ai-llm-token-forgery-lab-walkthrough-backend-trusts-model/) — *AI in Hacking* (2026-11-03)

@@ -465,3 +465,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Cyber Kill Chain Explained: 7 Stages of a Cyber Attack](https://securityelites.com/cyber-kill-chain-explained/) — *Blue Team* (2026-11-03)
 - [Gobuster Tutorial: 9 Powerful Steps to Discover Hidden Directories (Kali Linux Guide)](https://securityelites.com/gobuster-tutorial-kali-linux/) — *Cyber Security Courses &amp; Training* (2026-11-03)
 - [FFUF Guide for Ethical Hackers – 10 Steps Web Fuzzing Tutorial Kali Linux](https://securityelites.com/ffuf-guide-ethical-hackers/) — *Cyber Security Courses &amp; Training* (2026-11-03)
+- [Ultimate JavaScript Analysis for Hackers – Powerful 2026 Guide to Find Hidden APIs &amp; Vulnerabilities](https://securityelites.com/javascript-analysis-for-hackers/) — *Bug Bounty Hunting* (2026-11-03)

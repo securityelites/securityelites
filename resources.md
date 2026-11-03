@@ -475,3 +475,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Hack Websites in 2026: A Beginner-Friendly Step-by-Step Guide](https://securityelites.com/how-hackers-hack-websites-2026/) — *Authentication Bypass* (2026-11-03)
 - [25 Google Dorks Hackers Use to Find Vulnerable Websites (2026 Guide)](https://securityelites.com/google-dorks-hackers-find-vulnerable-websites/) — *Bug Bounty Hunting* (2026-11-03)
 - [100 Kali Linux Commands Every Hacker Must Know (Ultimate Ethical Hacking Guide)](https://securityelites.com/kali-linux-commands/) — *Cheat Sheets* (2026-11-03)
+- [NMAP Cheat Sheet (60+ Commands, Examples &amp; Hands-on Lab) – Ultimate 2026 Guide](https://securityelites.com/nmap-cheat-sheet/) — *Cheat Sheets* (2026-11-03)

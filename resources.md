@@ -451,3 +451,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Burp Suite Beginner Guide: Complete Ethical Hacking &amp; Web Testing Tutorial](https://securityelites.com/burp-suite-beginner-guide/) — *Cyber Security Tools* (2026-11-03)
 - [First Pentest Walkthrough – Step-by-Step Ethical Hacking Guide](https://securityelites.com/first-pentest-walkthrough/) — *Cyber Security Courses &amp; Training* (2026-11-03)
 - [6 Powerful Stages of the Pentesting Lifecycle: Complete Penetration Testing Guide](https://securityelites.com/pentesting-lifecycle-explained/) — *Blue Team* (2026-11-03)
+- [Hacker Recon Checklist: 10-Step Ethical Hacking Recon Guide](https://securityelites.com/hacker-recon-checklist/) — *Bug Bounty Reconnaissance* (2026-11-03)

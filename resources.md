@@ -438,3 +438,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Agent State Lab: Tamper the Saved Role to Reach Admin Code](https://securityelites.com/ai-agent-deserialization-lab-walkthrough-tampered-state/) — *AI in Hacking* (2026-11-03)
 - [AI Output Schema Bypass Lab: Valid JSON, Impossible Values](https://securityelites.com/ai-output-schema-bypass-lab-walkthrough-valid-json-bad-values/) — *AI in Hacking* (2026-11-03)
 - [AI Token Forgery Lab: When the Backend Trusts a Model-Made Token](https://securityelites.com/ai-llm-token-forgery-lab-walkthrough-backend-trusts-model/) — *AI in Hacking* (2026-11-03)
+- [AI Output XSS Lab: When the Chatbot&#x27;s Reply Is Trusted HTML](https://securityelites.com/ai-llm-output-xss-lab-walkthrough-model-output-rendered-as-html/) — *AI in Hacking* (2026-11-03)

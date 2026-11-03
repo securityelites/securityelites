@@ -461,3 +461,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [ChatGPT Penetration Testing Automation: 7 Powerful Techniques Ethical Hackers Use](https://securityelites.com/chatgpt-penetration-testing-automation/) — *AI in Security* (2026-11-03)
 - [50 Powerful AI Penetration Testing Prompts Ethical Hackers Use](https://securityelites.com/50-chatgpt-ai-penetration-testing-prompts/) — *AI in Security* (2026-11-03)
 - [20 AI Penetration Testing Tools Ethical Hackers Use (Kali Linux Guide)](https://securityelites.com/20-ai-penetration-testing-tools/) — *AI in Security* (2026-11-03)
+- [Beginner Exploitation Guide: 10 Ethical Hacking Techniques Every Pentester Should Know](https://securityelites.com/beginner-exploitation-guide/) — *Ethical Hacking* (2026-11-03)

@@ -435,3 +435,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Adversarial Document Lab: Crafted Markdown Defeats the Summariser](https://securityelites.com/ai-adversarial-document-upload-lab-walkthrough-crafted-markdown/) — *AI in Hacking* (2026-11-03)
 - [AI Cross-Tenant Cache Lab: Read Another Tenant&#x27;s Cached Answer](https://securityelites.com/ai-cross-tenant-cache-leak-lab-walkthrough-embedding-cache/) — *AI in Hacking* (2026-11-03)
 - [AI Agent Race Lab: Exploit the Gap Between Check and Transfer](https://securityelites.com/ai-agent-toctou-race-lab-walkthrough-tool-execution/) — *AI in Hacking* (2026-11-03)
+- [AI Agent State Lab: Tamper the Saved Role to Reach Admin Code](https://securityelites.com/ai-agent-deserialization-lab-walkthrough-tampered-state/) — *AI in Hacking* (2026-11-03)

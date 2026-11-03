@@ -426,3 +426,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Shared-Memory Lab: Poison Session 1 to Leak in Session 2](https://securityelites.com/ai-shared-memory-injection-lab-walkthrough-persisted-conversation/) — *AI in Hacking* (2026-11-02)
 - [AI Memory Poisoning Lab: Plant an Instruction for Next Session](https://securityelites.com/ai-memory-poisoning-lab-walkthrough-persistent-instruction/) — *AI in Hacking* (2026-11-02)
 - [AI Hidden Character Lab: An Invisible Instruction in a RAG Document](https://securityelites.com/ai-hidden-character-injection-lab-walkthrough-invisible-unicode-rag/) — *AI in Hacking* (2026-11-03)
+- [AI Unicode Jailbreak Lab: Hidden Characters the Filter Can&#x27;t See](https://securityelites.com/ai-unicode-jailbreak-lab-walkthrough-hidden-characters/) — *AI in Hacking* (2026-11-03)

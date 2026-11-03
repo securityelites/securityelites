@@ -456,3 +456,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [VPN &amp; Anonymity Guide for Ethical Hackers (Intermediate Level)](https://securityelites.com/vpn-anonymity-guide-intermediate/) — *Ethical Hacking* (2026-11-03)
 - [Authentication Bypass Basics for Beginners | Complete Ethical Hacking Guide](https://securityelites.com/authentication-bypass-basics/) — *Authentication Bypass* (2026-11-03)
 - [Bug Bounty Case Study: 8 Steps to Discover an IDOR Vulnerability](https://securityelites.com/real-bug-bounty-case-study-idor-vulnerability/) — *Authentication Bypass* (2026-11-03)
+- [ChatGPT Bug Bounty Automation: How Hackers Find Vulnerabilities Faster (5 AI Techniques)](https://securityelites.com/chatgpt-bug-bounty-automation/) — *AI in Security* (2026-11-03)

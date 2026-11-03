@@ -428,3 +428,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Hidden Character Lab: An Invisible Instruction in a RAG Document](https://securityelites.com/ai-hidden-character-injection-lab-walkthrough-invisible-unicode-rag/) — *AI in Hacking* (2026-11-03)
 - [AI Unicode Jailbreak Lab: Hidden Characters the Filter Can&#x27;t See](https://securityelites.com/ai-unicode-jailbreak-lab-walkthrough-hidden-characters/) — *AI in Hacking* (2026-11-03)
 - [AI Encoding Jailbreak Lab: Slip a Request Past a Keyword Filter](https://securityelites.com/ai-encoding-jailbreak-lab-walkthrough-encoded-payload/) — *AI in Hacking* (2026-11-03)
+- [AI Gradual Escalation Lab: Small Steps Past the Guardrails](https://securityelites.com/ai-gradual-escalation-lab-walkthrough-compliance-drift/) — *AI in Hacking* (2026-11-03)

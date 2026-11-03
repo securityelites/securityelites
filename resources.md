@@ -480,3 +480,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [theHarvester Cheat Sheet (60+ Commands, Examples &amp; Kali Linux Guide) – 2026](https://securityelites.com/theharvester-cheat-sheet/) — *Bug Bounty Hunting* (2026-11-03)
 - [Burp Suite Cheat Sheet (75+ Commands, Examples &amp; Hands-on Labs) – 2026 Ethical Hacking Guide](https://securityelites.com/burp-suite-cheat-sheet/) — *Bug Bounty Hunting* (2026-11-03)
 - [Amass Cheat Sheet (70+ Commands &amp; Examples) – Ultimate 2026 Guide for Recon &amp; Bug Bounty](https://securityelites.com/amass-cheat-sheet/) — *Bug Bounty Hunting* (2026-11-03)
+- [Pro-Iran Hacker Group Suspected in Massive Stryker Cyberattack Wiping Employee Devices Worldwide](https://securityelites.com/stryker-cyberattack-pro-iran-hackers/) — *Cyber Security News* (2026-11-03)

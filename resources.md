@@ -445,3 +445,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Tool-Output Injection Lab: Hostile Search Results Drive the Agent](https://securityelites.com/ai-tool-output-injection-lab-walkthrough-hostile-results/) — *AI in Hacking* (2026-11-03)
 - [AI Agent Hijacking Lab: A Document That Hijacks the Bot](https://securityelites.com/ai-agent-hijacking-lab-walkthrough-indirect-tool-injection/) — *AI in Hacking* (2026-11-03)
 - [Bug Bounty Hunting Methodology: Complete Ethical Hacker Workflow Guide](https://securityelites.com/bug-bounty-hunting-methodology/) — *Bug Bounty Hunting* (2026-11-03)
+- [AI vs Hackers: Future of Cyber Warfare Explained (2026 Cybersecurity Guide)](https://securityelites.com/ai-vs-hackers-future-of-cyber-warfare/) — *AI in Security* (2026-11-03)

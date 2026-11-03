@@ -455,3 +455,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Claude AI Kali Linux MCP Penetration Testing: 7 Powerful AI Automation Techniques](https://securityelites.com/claude-ai-kali-linux-mcp-penetration-testing/) — *Cyber Security Tools* (2026-11-03)
 - [VPN &amp; Anonymity Guide for Ethical Hackers (Intermediate Level)](https://securityelites.com/vpn-anonymity-guide-intermediate/) — *Ethical Hacking* (2026-11-03)
 - [Authentication Bypass Basics for Beginners | Complete Ethical Hacking Guide](https://securityelites.com/authentication-bypass-basics/) — *Authentication Bypass* (2026-11-03)
+- [Bug Bounty Case Study: 8 Steps to Discover an IDOR Vulnerability](https://securityelites.com/real-bug-bounty-case-study-idor-vulnerability/) — *Authentication Bypass* (2026-11-03)

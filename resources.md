@@ -441,3 +441,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Output XSS Lab: When the Chatbot&#x27;s Reply Is Trusted HTML](https://securityelites.com/ai-llm-output-xss-lab-walkthrough-model-output-rendered-as-html/) — *AI in Hacking* (2026-11-03)
 - [AI LLM-Driven SSRF Lab: Push the Agent&#x27;s Fetch Tool Inward](https://securityelites.com/ai-llm-ssrf-lab-walkthrough-agent-http-tool/) — *AI in Hacking* (2026-11-03)
 - [AI Confused Deputy Lab: Turn the Agent&#x27;s Privileges Against Its User](https://securityelites.com/ai-confused-deputy-lab-walkthrough-privilege-misuse/) — *AI in Hacking* (2026-11-03)
+- [AI Plan Injection Lab: Corrupt the Agent&#x27;s Scratchpad](https://securityelites.com/ai-plan-injection-lab-walkthrough-scratchpad-exfiltration/) — *AI in Hacking* (2026-11-03)

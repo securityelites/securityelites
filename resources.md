@@ -446,3 +446,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Agent Hijacking Lab: A Document That Hijacks the Bot](https://securityelites.com/ai-agent-hijacking-lab-walkthrough-indirect-tool-injection/) — *AI in Hacking* (2026-11-03)
 - [Bug Bounty Hunting Methodology: Complete Ethical Hacker Workflow Guide](https://securityelites.com/bug-bounty-hunting-methodology/) — *Bug Bounty Hunting* (2026-11-03)
 - [AI vs Hackers: Future of Cyber Warfare Explained (2026 Cybersecurity Guide)](https://securityelites.com/ai-vs-hackers-future-of-cyber-warfare/) — *AI in Security* (2026-11-03)
+- [Email Harvesting Tutorial for Ethical Hackers – Beginner to Pro Guide](https://securityelites.com/email-harvesting-tutorial-ethical-hacking/) — *Cyber Security Tools* (2026-11-03)

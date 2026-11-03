@@ -431,3 +431,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Gradual Escalation Lab: Small Steps Past the Guardrails](https://securityelites.com/ai-gradual-escalation-lab-walkthrough-compliance-drift/) — *AI in Hacking* (2026-11-03)
 - [AI Context Overflow Lab: Crowd Out the Safety Rules](https://securityelites.com/ai-context-overflow-lab-walkthrough-attention-dilution/) — *AI in Hacking* (2026-11-03)
 - [AI Instruction Conflict Lab: Wedge Two Rules Apart](https://securityelites.com/ai-instruction-conflict-lab-walkthrough-wedge-between-rules/) — *AI in Hacking* (2026-11-03)
+- [AI Role-Confusion Lab: Make User Text Look Like a System Rule](https://securityelites.com/ai-role-confusion-lab-walkthrough-forged-system-instruction/) — *AI in Hacking* (2026-11-03)

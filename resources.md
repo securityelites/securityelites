@@ -483,3 +483,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Pro-Iran Hacker Group Suspected in Massive Stryker Cyberattack Wiping Employee Devices Worldwide](https://securityelites.com/stryker-cyberattack-pro-iran-hackers/) — *Cyber Security News* (2026-11-03)
 - [7 Types of Hackers Explained: The Ultimate Beginner Friendly Guide](https://securityelites.com/types-of-hackers/) — *Ethical Hacking* (2026-11-03)
 - [White Hat Hackers vs Black Hat Hackers Explained | Ethical Hacking Guide](https://securityelites.com/white-hat-hackers-vs-black-hat-hackers/) — *Cyber Security Courses &amp; Training* (2026-11-03)
+- [FFUF Cheat Sheet (60+ Commands &amp; Examples) – Ultimate 2026 FFUF Guide for Kali Linux](https://securityelites.com/ffuf-cheat-sheet/) — *Cheat Sheets* (2026-11-03)

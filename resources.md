@@ -450,3 +450,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How Hackers Find Vulnerabilities: Beginner Guide to Real Attacker Methodology](https://securityelites.com/how-hackers-find-vulnerabilities/) — *Cyber Security Courses &amp; Training* (2026-11-03)
 - [Burp Suite Beginner Guide: Complete Ethical Hacking &amp; Web Testing Tutorial](https://securityelites.com/burp-suite-beginner-guide/) — *Cyber Security Tools* (2026-11-03)
 - [First Pentest Walkthrough – Step-by-Step Ethical Hacking Guide](https://securityelites.com/first-pentest-walkthrough/) — *Cyber Security Courses &amp; Training* (2026-11-03)
+- [6 Powerful Stages of the Pentesting Lifecycle: Complete Penetration Testing Guide](https://securityelites.com/pentesting-lifecycle-explained/) — *Blue Team* (2026-11-03)

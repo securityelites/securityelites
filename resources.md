@@ -467,3 +467,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [FFUF Guide for Ethical Hackers – 10 Steps Web Fuzzing Tutorial Kali Linux](https://securityelites.com/ffuf-guide-ethical-hackers/) — *Cyber Security Courses &amp; Training* (2026-11-03)
 - [Ultimate JavaScript Analysis for Hackers – Powerful 2026 Guide to Find Hidden APIs &amp; Vulnerabilities](https://securityelites.com/javascript-analysis-for-hackers/) — *Bug Bounty Hunting* (2026-11-03)
 - [Amass Tutorial (2026): Powerful Subdomain Enumeration Guide for Kali Linux](https://securityelites.com/amass-tutorial-kali-linux/) — *Cyber Security Courses &amp; Training* (2026-11-03)
+- [Real XSS Case Study: How Hackers Exploit Cross-Site Scripting (15 Steps)](https://securityelites.com/real-xss-case-study/) — *Cross-Site Scripting (XSS)* (2026-11-03)

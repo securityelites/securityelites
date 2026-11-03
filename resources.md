@@ -477,3 +477,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [100 Kali Linux Commands Every Hacker Must Know (Ultimate Ethical Hacking Guide)](https://securityelites.com/kali-linux-commands/) — *Cheat Sheets* (2026-11-03)
 - [NMAP Cheat Sheet (60+ Commands, Examples &amp; Hands-on Lab) – Ultimate 2026 Guide](https://securityelites.com/nmap-cheat-sheet/) — *Cheat Sheets* (2026-11-03)
 - [Masscan Cheat Sheet (70+ Commands &amp; Examples) – Complete Masscan Guide 2026](https://securityelites.com/masscan-cheat-sheet/) — *Bug Bounty Hunting* (2026-11-03)
+- [theHarvester Cheat Sheet (60+ Commands, Examples &amp; Kali Linux Guide) – 2026](https://securityelites.com/theharvester-cheat-sheet/) — *Bug Bounty Hunting* (2026-11-03)

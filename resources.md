@@ -469,3 +469,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Amass Tutorial (2026): Powerful Subdomain Enumeration Guide for Kali Linux](https://securityelites.com/amass-tutorial-kali-linux/) — *Cyber Security Courses &amp; Training* (2026-11-03)
 - [Real XSS Case Study: How Hackers Exploit Cross-Site Scripting (15 Steps)](https://securityelites.com/real-xss-case-study/) — *Cross-Site Scripting (XSS)* (2026-11-03)
 - [Dark Web Guide: Dark Web Explained and What Hackers Really Do There (2026)](https://securityelites.com/dark-web-guide/) — *Dark Web and Privacy* (2026-11-03)
+- [10 SQL Injection Attacks Hackers Use (Real Examples &amp; Prevention)](https://securityelites.com/sql-injection-attacks/) — *Cyber Security Courses &amp; Training* (2026-11-03)

@@ -447,3 +447,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Bug Bounty Hunting Methodology: Complete Ethical Hacker Workflow Guide](https://securityelites.com/bug-bounty-hunting-methodology/) — *Bug Bounty Hunting* (2026-11-03)
 - [AI vs Hackers: Future of Cyber Warfare Explained (2026 Cybersecurity Guide)](https://securityelites.com/ai-vs-hackers-future-of-cyber-warfare/) — *AI in Security* (2026-11-03)
 - [Email Harvesting Tutorial for Ethical Hackers – Beginner to Pro Guide](https://securityelites.com/email-harvesting-tutorial-ethical-hacking/) — *Cyber Security Tools* (2026-11-03)
+- [How Hackers Find Vulnerabilities: Beginner Guide to Real Attacker Methodology](https://securityelites.com/how-hackers-find-vulnerabilities/) — *Cyber Security Courses &amp; Training* (2026-11-03)

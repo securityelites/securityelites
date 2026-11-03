@@ -460,3 +460,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [How to Detect and Prevent Claude AI Kali Linux MCP Penetration Testing Attacks (7 Security Defenses)](https://securityelites.com/detect-claude-ai-kali-linux-mcp-penetration-testing/) — *AI in Security* (2026-11-03)
 - [ChatGPT Penetration Testing Automation: 7 Powerful Techniques Ethical Hackers Use](https://securityelites.com/chatgpt-penetration-testing-automation/) — *AI in Security* (2026-11-03)
 - [50 Powerful AI Penetration Testing Prompts Ethical Hackers Use](https://securityelites.com/50-chatgpt-ai-penetration-testing-prompts/) — *AI in Security* (2026-11-03)
+- [20 AI Penetration Testing Tools Ethical Hackers Use (Kali Linux Guide)](https://securityelites.com/20-ai-penetration-testing-tools/) — *AI in Security* (2026-11-03)

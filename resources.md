@@ -454,3 +454,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Hacker Recon Checklist: 10-Step Ethical Hacking Recon Guide](https://securityelites.com/hacker-recon-checklist/) — *Bug Bounty Reconnaissance* (2026-11-03)
 - [Claude AI Kali Linux MCP Penetration Testing: 7 Powerful AI Automation Techniques](https://securityelites.com/claude-ai-kali-linux-mcp-penetration-testing/) — *Cyber Security Tools* (2026-11-03)
 - [VPN &amp; Anonymity Guide for Ethical Hackers (Intermediate Level)](https://securityelites.com/vpn-anonymity-guide-intermediate/) — *Ethical Hacking* (2026-11-03)
+- [Authentication Bypass Basics for Beginners | Complete Ethical Hacking Guide](https://securityelites.com/authentication-bypass-basics/) — *Authentication Bypass* (2026-11-03)

@@ -463,3 +463,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [20 AI Penetration Testing Tools Ethical Hackers Use (Kali Linux Guide)](https://securityelites.com/20-ai-penetration-testing-tools/) — *AI in Security* (2026-11-03)
 - [Beginner Exploitation Guide: 10 Ethical Hacking Techniques Every Pentester Should Know](https://securityelites.com/beginner-exploitation-guide/) — *Ethical Hacking* (2026-11-03)
 - [Cyber Kill Chain Explained: 7 Stages of a Cyber Attack](https://securityelites.com/cyber-kill-chain-explained/) — *Blue Team* (2026-11-03)
+- [Gobuster Tutorial: 9 Powerful Steps to Discover Hidden Directories (Kali Linux Guide)](https://securityelites.com/gobuster-tutorial-kali-linux/) — *Cyber Security Courses &amp; Training* (2026-11-03)

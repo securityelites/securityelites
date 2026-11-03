@@ -444,3 +444,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Plan Injection Lab: Corrupt the Agent&#x27;s Scratchpad](https://securityelites.com/ai-plan-injection-lab-walkthrough-scratchpad-exfiltration/) — *AI in Hacking* (2026-11-03)
 - [AI Tool-Output Injection Lab: Hostile Search Results Drive the Agent](https://securityelites.com/ai-tool-output-injection-lab-walkthrough-hostile-results/) — *AI in Hacking* (2026-11-03)
 - [AI Agent Hijacking Lab: A Document That Hijacks the Bot](https://securityelites.com/ai-agent-hijacking-lab-walkthrough-indirect-tool-injection/) — *AI in Hacking* (2026-11-03)
+- [Bug Bounty Hunting Methodology: Complete Ethical Hacker Workflow Guide](https://securityelites.com/bug-bounty-hunting-methodology/) — *Bug Bounty Hunting* (2026-11-03)

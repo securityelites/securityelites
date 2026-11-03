@@ -458,3 +458,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Bug Bounty Case Study: 8 Steps to Discover an IDOR Vulnerability](https://securityelites.com/real-bug-bounty-case-study-idor-vulnerability/) — *Authentication Bypass* (2026-11-03)
 - [ChatGPT Bug Bounty Automation: How Hackers Find Vulnerabilities Faster (5 AI Techniques)](https://securityelites.com/chatgpt-bug-bounty-automation/) — *AI in Security* (2026-11-03)
 - [How to Detect and Prevent Claude AI Kali Linux MCP Penetration Testing Attacks (7 Security Defenses)](https://securityelites.com/detect-claude-ai-kali-linux-mcp-penetration-testing/) — *AI in Security* (2026-11-03)
+- [ChatGPT Penetration Testing Automation: 7 Powerful Techniques Ethical Hackers Use](https://securityelites.com/chatgpt-penetration-testing-automation/) — *AI in Security* (2026-11-03)

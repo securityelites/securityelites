@@ -487,3 +487,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [CORS Misconfiguration Bug Bounty 2026 — Find, Test & Report Cross-Origin Bugs | Bug Bounty Day 31 of 60](https://securityelites.com/day-31-cors-misconfiguration-bug-bounty/) — *Bug Bounty Course* (2026-11-05)
 - [OAuth Token Leakage Bug Bounty 2026 — Find, Exploit & Report Token Exposure | Bug Bounty Day 32 of 60](https://securityelites.com/day-32-oauth-token-leakage-bug-bounty/) — *Authentication Bypass* (2026-11-08)
 - [SSRF Bug Bounty 2026 — Server-Side Request Forgery from Finding to Full Cloud Takeover | Bug Bounty Course Day 33 of 60](https://securityelites.com/day-33-ssrf-bug-bounty/) — *Authentication Bypass* (2026-11-13)
+- [GraphQL Vulnerabilities Bug Bounty 2026 — Introspection, Batching and BOLA in Modern APIs | Bug Bounty Course Day 34 of 60](https://securityelites.com/day-34-graphql-bug-bounty/) — *Bug Bounty Course* (2026-11-13)

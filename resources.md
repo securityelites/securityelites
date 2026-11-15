@@ -488,3 +488,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [OAuth Token Leakage Bug Bounty 2026 — Find, Exploit & Report Token Exposure | Bug Bounty Day 32 of 60](https://securityelites.com/day-32-oauth-token-leakage-bug-bounty/) — *Authentication Bypass* (2026-11-08)
 - [SSRF Bug Bounty 2026 — Server-Side Request Forgery from Finding to Full Cloud Takeover | Bug Bounty Course Day 33 of 60](https://securityelites.com/day-33-ssrf-bug-bounty/) — *Authentication Bypass* (2026-11-13)
 - [GraphQL Vulnerabilities Bug Bounty 2026 — Introspection, Batching and BOLA in Modern APIs | Bug Bounty Course Day 34 of 60](https://securityelites.com/day-34-graphql-bug-bounty/) — *Bug Bounty Course* (2026-11-13)
+- [Business Logic Vulnerabilities Bug Bounty 2026 — Price Manipulation, Coupon Abuse and Workflow Bypass | Bug Bounty Course Day 35 of 60](https://securityelites.com/day-35-business-logic-bug-bounty/) — *Bug Bounty Course* (2026-11-15)

@@ -490,3 +490,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [GraphQL Vulnerabilities Bug Bounty 2026 — Introspection, Batching and BOLA in Modern APIs | Bug Bounty Course Day 34 of 60](https://securityelites.com/day-34-graphql-bug-bounty/) — *Bug Bounty Course* (2026-11-13)
 - [Business Logic Vulnerabilities Bug Bounty 2026 — Price Manipulation, Coupon Abuse and Workflow Bypass | Bug Bounty Course Day 35 of 60](https://securityelites.com/day-35-business-logic-bug-bounty/) — *Bug Bounty Course* (2026-11-15)
 - [Race Conditions Bug Bounty 2026 — TOCTOU, Concurrent Requests and Turbo Intruder Exploitation | Bug Bounty Course Day 36 of 60](https://securityelites.com/day-36-race-conditions-bug-bounty/) — *Bug Bounty Course* (2026-11-17)
+- [Java4Shell flaw in OpenJDK Base64 decoding exposes Jira, Jenkins and Keycloak](https://securityelites.com/news/java4shell-openjdk-base64-flaw-enterprise-apps/) — *Security news* (2026-11-18)

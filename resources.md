@@ -522,3 +522,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [RAG Security: Vector Database Attacks and Data Leakage — Day 10: Secure RAG Architecture and Review](https://securityelites.com/academy/rag-security-vector-database-attacks/day-10-secure-rag-architecture-and-review/) — *Academy* (2026-11-19)
 - [RAG Security: Vector Database Attacks and Data Leakage — Day 11: Capstone: Assess and Harden a RAG Application](https://securityelites.com/academy/rag-security-vector-database-attacks/day-11-capstone-assess-and-harden-rag/) — *Academy* (2026-11-19)
 - [European Commission confirms AI-driven cyberattack that disrupted HR and payroll systems](https://securityelites.com/news/european-commission-confirms-ai-driven-cyberattack/) — *Security news* (2026-11-19)
+- [PHP patches 18 flaws, seven critical, including session bug phpAfterShell](https://securityelites.com/news/php-patches-phpaftershell-seven-critical-flaws/) — *Security news* (2026-11-19)

@@ -523,3 +523,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [RAG Security: Vector Database Attacks and Data Leakage — Day 11: Capstone: Assess and Harden a RAG Application](https://securityelites.com/academy/rag-security-vector-database-attacks/day-11-capstone-assess-and-harden-rag/) — *Academy* (2026-11-19)
 - [European Commission confirms AI-driven cyberattack that disrupted HR and payroll systems](https://securityelites.com/news/european-commission-confirms-ai-driven-cyberattack/) — *Security news* (2026-11-19)
 - [PHP patches 18 flaws, seven critical, including session bug phpAfterShell](https://securityelites.com/news/php-patches-phpaftershell-seven-critical-flaws/) — *Security news* (2026-11-19)
+- [F5 patches five critical NGINX flaws dubbed NGINX2Root; public exploit exists for one](https://securityelites.com/news/nginx2root-f5-patches-five-critical-nginx-flaws/) — *Security news* (2026-11-19)

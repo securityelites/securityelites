@@ -524,3 +524,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [European Commission confirms AI-driven cyberattack that disrupted HR and payroll systems](https://securityelites.com/news/european-commission-confirms-ai-driven-cyberattack/) — *Security news* (2026-11-19)
 - [PHP patches 18 flaws, seven critical, including session bug phpAfterShell](https://securityelites.com/news/php-patches-phpaftershell-seven-critical-flaws/) — *Security news* (2026-11-19)
 - [F5 patches five critical NGINX flaws dubbed NGINX2Root; public exploit exists for one](https://securityelites.com/news/nginx2root-f5-patches-five-critical-nginx-flaws/) — *Security news* (2026-11-19)
+- [VMware vCenter zero-day CVE-2026-123890 patched after attacks since September](https://securityelites.com/news/vmware-vcenter-zero-day-cve-2026-123890-patched/) — *Security news* (2026-11-20)

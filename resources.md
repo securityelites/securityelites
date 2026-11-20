@@ -526,3 +526,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [F5 patches five critical NGINX flaws dubbed NGINX2Root; public exploit exists for one](https://securityelites.com/news/nginx2root-f5-patches-five-critical-nginx-flaws/) — *Security news* (2026-11-19)
 - [VMware vCenter zero-day CVE-2026-123890 patched after attacks since September](https://securityelites.com/news/vmware-vcenter-zero-day-cve-2026-123890-patched/) — *Security news* (2026-11-20)
 - [Sean Cairncross leaves post as US national cyber director; Kirsten Davies to act](https://securityelites.com/news/cairncross-out-national-cyber-director-davies-acting/) — *Security news* (2026-11-20)
+- [Subdomain Takeover Bug Bounty 2026 — Full Exploitation Guide | Bug Bounty Course Day 37 of 60](https://securityelites.com/day-37-subdomain-takeover-bug-bounty/) — *Authentication Bypass* (2026-11-20)

@@ -531,3 +531,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [XXE Injection Bug Bounty 2026 — Full Exploitation Guide | Bug Bounty Course Day 38 of 60](https://securityelites.com/day-38-xxe-injection-bug-bounty/) — *Bug Bounty Course* (2026-11-20)
 - [US National Cyber Director Cairncross out after week of major outages](https://securityelites.com/news/cairncross-out-national-cyber-director-outages/) — *Security news* (2026-11-20)
 - [JPMorgan, Visa and Mastercard confirm vendor breaches after N0n extortion claims](https://securityelites.com/news/jpmorgan-visa-mastercard-vendor-data-breach-n0n/) — *Security news* (2026-11-20)
+- [Amazon says AI tool Cairn found a zero-day in MONAI Label during attacks on Asian universities](https://securityelites.com/news/cairn-ai-tool-monai-label-zero-day-universities/) — *Security news* (2026-11-20)

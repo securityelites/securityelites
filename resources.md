@@ -529,3 +529,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Subdomain Takeover Bug Bounty 2026 — Full Exploitation Guide | Bug Bounty Course Day 37 of 60](https://securityelites.com/day-37-subdomain-takeover-bug-bounty/) — *Authentication Bypass* (2026-11-20)
 - [Day 10: AI Deepfake Detection and Digital Forensics Masterclass — Day 10: Apply It: Mixed Media Ca](https://securityelites.com/academy/deepfake-detection-digital-forensics-masterclass/day-10-deepfake-detection-day-10-mixed-media-case-detector-limits/) — *Academy* (2026-11-20)
 - [XXE Injection Bug Bounty 2026 — Full Exploitation Guide | Bug Bounty Course Day 38 of 60](https://securityelites.com/day-38-xxe-injection-bug-bounty/) — *Bug Bounty Course* (2026-11-20)
+- [US National Cyber Director Cairncross out after week of major outages](https://securityelites.com/news/cairncross-out-national-cyber-director-outages/) — *Security news* (2026-11-20)

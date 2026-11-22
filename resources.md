@@ -580,3 +580,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Cleverbridge says hackers copied card numbers and CVV codes from its platform](https://securityelites.com/news/cleverbridge-breach-card-numbers-cvv-stolen/) — *Security news* (2026-11-22)
 - [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 1: What Recon Is and Your Safe Workspace](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-1-what-recon-is-safe-workspace/) — *Academy* (2026-11-22)
 - [GL.iNet confirms hackers used cloud flaw to infect routers and KVM devices](https://securityelites.com/news/glinet-goodcloud-flaw-routers-kvm-malware/) — *Security news* (2026-11-22)
+- [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 1: Orientation: Your First Agent Attack](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-1-orientation-your-first-agent-attack/) — *Academy* (2026-11-22)

@@ -578,3 +578,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Build Your Own AI Assistant, Securely, in 9 Days — Day 8: Approvals, Secrets and Memory](https://securityelites.com/academy/build-your-own-ai-assistant-securely/day-8-approvals-secrets-and-memory/) — *Academy* (2026-11-22)
 - [Build Your Own AI Assistant, Securely, in 9 Days — Day 9: Capstone: Attack Your Own Assistant, Then Harden It](https://securityelites.com/academy/build-your-own-ai-assistant-securely/day-9-attack-and-harden-your-assistant/) — *Academy* (2026-11-22)
 - [Cleverbridge says hackers copied card numbers and CVV codes from its platform](https://securityelites.com/news/cleverbridge-breach-card-numbers-cvv-stolen/) — *Security news* (2026-11-22)
+- [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 1: What Recon Is and Your Safe Workspace](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-1-what-recon-is-safe-workspace/) — *Academy* (2026-11-22)

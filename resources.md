@@ -584,3 +584,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Signal blocks OS-level AI agents from reading its screen on iOS 27 and Android](https://securityelites.com/news/signal-blocks-os-ai-agents-reading-screen/) — *Security news* (2026-11-22)
 - [Google adds an LLM judge that can block AI agent tool calls before they run](https://securityelites.com/news/google-semantic-governance-policies-ai-agent-tool-calls/) — *Security news* (2026-11-23)
 - [Xalgorix open-source AI pen-testing tool re-tests its own findings](https://securityelites.com/news/xalgorix-open-source-ai-penetration-testing-verifier/) — *Security news* (2026-11-23)
+- [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 2: Reading a Web App From the Outside](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-2-reading-a-web-app-from-outside/) — *Academy* (2026-11-23)

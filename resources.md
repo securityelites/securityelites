@@ -587,3 +587,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 2: Reading a Web App From the Outside](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-2-reading-a-web-app-from-outside/) — *Academy* (2026-11-23)
 - [CrowdStrike agrees $43.9bn all-stock deal to buy Zscaler, pending approvals](https://securityelites.com/news/crowdstrike-to-acquire-zscaler-43-9-billion/) — *Security news* (2026-11-23)
 - [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 2: Anatomy of an Agent and the Ten Risks Map](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-2-anatomy-of-an-agent-ten-risks-map/) — *Academy* (2026-11-23)
+- [KEPCO confirms breach of billing and procurement systems affecting over 1.5 million people](https://securityelites.com/news/kepco-data-breach-1-5-million-exposed/) — *Security news* (2026-11-24)

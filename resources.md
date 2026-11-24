@@ -588,3 +588,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [CrowdStrike agrees $43.9bn all-stock deal to buy Zscaler, pending approvals](https://securityelites.com/news/crowdstrike-to-acquire-zscaler-43-9-billion/) — *Security news* (2026-11-23)
 - [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 2: Anatomy of an Agent and the Ten Risks Map](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-2-anatomy-of-an-agent-ten-risks-map/) — *Academy* (2026-11-23)
 - [KEPCO confirms breach of billing and procurement systems affecting over 1.5 million people](https://securityelites.com/news/kepco-data-breach-1-5-million-exposed/) — *Security news* (2026-11-24)
+- [Cisco and OpenAI release Shirudo, an open-source Linux tool for stopgap flaw defences](https://securityelites.com/news/cisco-openai-shirudo-ebpf-compensating-controls/) — *Security news* (2026-11-24)

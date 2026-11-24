@@ -590,3 +590,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [KEPCO confirms breach of billing and procurement systems affecting over 1.5 million people](https://securityelites.com/news/kepco-data-breach-1-5-million-exposed/) — *Security news* (2026-11-24)
 - [Cisco and OpenAI release Shirudo, an open-source Linux tool for stopgap flaw defences](https://securityelites.com/news/cisco-openai-shirudo-ebpf-compensating-controls/) — *Security news* (2026-11-24)
 - [Insecure Deserialization Bug Bounty 2026 — Object Tampering, Gadget Chains & RCE | Bug Bounty Course Day 39 of 60](https://securityelites.com/day-39-insecure-deserialization-bug-bounty/) — *Bug Bounty Course* (2026-11-24)
+- [Bug Bounty Hunting with Claude and ChatGPT in 21 Days — Day 15: Broken Authentication: JWT](https://securityelites.com/academy/bug-bounty-hunting-claude-chatgpt/day-15-bug-bounty-day-15-broken-authentication-jwts-password-resets/) — *Academy* (2026-11-24)

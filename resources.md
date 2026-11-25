@@ -603,3 +603,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [US Treasury's FinCEN takes systems offline after unauthorised access to a limited subset](https://securityelites.com/news/fincen-takes-systems-offline-cyber-incident/) — *Security news* (2026-11-25)
 - [CISA warns of unpatched critical flaw in Danfoss supermarket refrigeration controllers](https://securityelites.com/news/cisa-warns-unpatched-danfoss-refrigeration-controller-flaw/) — *Security news* (2026-11-25)
 - [1Password says attacker used stolen employee GitHub access to take customer names and emails](https://securityelites.com/news/1password-breach-employee-github-account-customer-data/) — *Security news* (2026-11-25)
+- [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 4: ASI02 Tool Misuse: Right Tool, Wrong Use](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-4-asi02-tool-misuse-right-tool-wrong-use/) — *Academy* (2026-11-25)

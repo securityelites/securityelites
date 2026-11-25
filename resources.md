@@ -600,3 +600,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Building a Vulnerability Scanning Pipeline with AI Agents at Work — Day 1: Orientation, scope and the pipeline blueprint](https://securityelites.com/academy/ai-agent-vulnerability-scanning-pipeline/day-1-scoped-scanning-pipeline-blueprint-day-one/) — *Academy* (2026-11-25)
 - [Drupal core flaw found by Anthropic's scanner is exploited in attacks days after patch](https://securityelites.com/news/drupal-core-installer-flaw-exploited-cve-2026-132165/) — *Security news* (2026-11-25)
 - [GT13 campaign hits 22 organisations through Check Point management servers](https://securityelites.com/news/gt13-ai-assisted-check-point-management-servers/) — *Security news* (2026-11-25)
+- [US Treasury's FinCEN takes systems offline after unauthorised access to a limited subset](https://securityelites.com/news/fincen-takes-systems-offline-cyber-incident/) — *Security news* (2026-11-25)

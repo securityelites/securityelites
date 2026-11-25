@@ -602,3 +602,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [GT13 campaign hits 22 organisations through Check Point management servers](https://securityelites.com/news/gt13-ai-assisted-check-point-management-servers/) — *Security news* (2026-11-25)
 - [US Treasury's FinCEN takes systems offline after unauthorised access to a limited subset](https://securityelites.com/news/fincen-takes-systems-offline-cyber-incident/) — *Security news* (2026-11-25)
 - [CISA warns of unpatched critical flaw in Danfoss supermarket refrigeration controllers](https://securityelites.com/news/cisa-warns-unpatched-danfoss-refrigeration-controller-flaw/) — *Security news* (2026-11-25)
+- [1Password says attacker used stolen employee GitHub access to take customer names and emails](https://securityelites.com/news/1password-breach-employee-github-account-customer-data/) — *Security news* (2026-11-25)

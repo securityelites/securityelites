@@ -596,3 +596,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Server-Side Template Injection Bug Bounty 2026 — SSTI Detection, Engine Fingerprinting & RCE | Bug Bounty Course Day 40 of 60](https://securityelites.com/day-40-ssti-bug-bounty/) — *Blue Team* (2026-11-24)
 - [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 3: ASI01 Agent Goal Hijack: Hiding Orders in Content](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-3-asi01-agent-goal-hijack-practice/) — *Academy* (2026-11-24)
 - [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 4: Cleaning Output Into Structured Data](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-4-cleaning-output-into-structured-data/) — *Academy* (2026-11-25)
+- [CIA and ODNI open-source intelligence system breached, unclassified data exposed](https://securityelites.com/news/cia-odni-open-source-intelligence-system-breach/) — *Security news* (2026-11-25)

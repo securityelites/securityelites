@@ -606,3 +606,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 4: ASI02 Tool Misuse: Right Tool, Wrong Use](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-4-asi02-tool-misuse-right-tool-wrong-use/) — *Academy* (2026-11-25)
 - [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 5: Using AI to Sort and Summarise Your Findings](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-5-ai-summarise-recon-findings-safely/) — *Academy* (2026-11-25)
 - [Switzerland confirms first AI-agent cyberattacks, hitting critical infrastructure operators](https://securityelites.com/news/switzerland-confirms-first-ai-agent-cyberattacks/) — *Security news* (2026-11-25)
+- [Microsoft says Salt Typhoon and other state hackers now use AI attack tool Artex](https://securityelites.com/news/microsoft-salt-typhoon-artex-ai-hacking-tool/) — *Security news* (2026-11-26)

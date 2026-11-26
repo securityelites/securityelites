@@ -608,3 +608,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Switzerland confirms first AI-agent cyberattacks, hitting critical infrastructure operators](https://securityelites.com/news/switzerland-confirms-first-ai-agent-cyberattacks/) — *Security news* (2026-11-25)
 - [Microsoft says Salt Typhoon and other state hackers now use AI attack tool Artex](https://securityelites.com/news/microsoft-salt-typhoon-artex-ai-hacking-tool/) — *Security news* (2026-11-26)
 - [1Password says hijacked employee GitHub account led to source code and customer data theft](https://securityelites.com/news/1password-breach-hijacked-github-account/) — *Security news* (2026-11-26)
+- [Building a Vulnerability Scanning Pipeline with AI Agents at Work — Day 2: Giving the agent scanner tools with least privilege](https://securityelites.com/academy/ai-agent-vulnerability-scanning-pipeline/day-2-agent-scanner-tools-least-privilege/) — *Academy* (2026-11-26)

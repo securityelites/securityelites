@@ -617,3 +617,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [SAP investigates attack on GitHub code after reports of stolen employee tokens](https://securityelites.com/news/sap-github-cyberattack-stolen-tokens-source-code/) — *Security news* (2026-11-27)
 - [Building a Vulnerability Scanning Pipeline with AI Agents at Work — Day 3: Hostile findings: injection through scan output](https://securityelites.com/academy/ai-agent-vulnerability-scanning-pipeline/day-3-hostile-findings-injection-scan-output/) — *Academy* (2026-11-27)
 - [Hackers reportedly breach US Air Force Cloud One platform, Reuters says](https://securityelites.com/news/air-force-cloud-one-breach-reported/) — *Security news* (2026-11-27)
+- [Unpatched Cacti zero-day with public exploit allows unauthenticated command execution](https://securityelites.com/news/cacti-zero-day-4http2shell-public-exploit/) — *Security news* (2026-11-27)

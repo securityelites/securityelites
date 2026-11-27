@@ -613,3 +613,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [OWASP Top 10 for Agentic Applications 2026: 12-Day Beginner Course — Day 5: ASI03: Shrink an Agent's Permissions to the Minimum](https://securityelites.com/academy/owasp-agentic-top-10-2026-course/day-5-asi03-identity-privilege-abuse-least-privilege/) — *Academy* (2026-11-26)
 - [Critical SQL injection flaw found in India's DIGIT e-government platform](https://securityelites.com/news/digit-egovernment-platform-critical-sql-injection-flaw/) — *Security news* (2026-11-27)
 - [Secure AI Development 2026 — Build LLM Apps That Resist Attack | AI LLM Hacking Course Day 44 of 90](https://securityelites.com/ai-llm-day-44-secure-ai-development/) — *Agentic AI* (2026-11-27)
+- [CREST study: 81% of penetration testing providers now use AI beyond trials](https://securityelites.com/news/crest-study-ai-threat-led-penetration-testing/) — *Security news* (2026-11-27)

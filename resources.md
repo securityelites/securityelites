@@ -614,3 +614,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Critical SQL injection flaw found in India's DIGIT e-government platform](https://securityelites.com/news/digit-egovernment-platform-critical-sql-injection-flaw/) — *Security news* (2026-11-27)
 - [Secure AI Development 2026 — Build LLM Apps That Resist Attack | AI LLM Hacking Course Day 44 of 90](https://securityelites.com/ai-llm-day-44-secure-ai-development/) — *Agentic AI* (2026-11-27)
 - [CREST study: 81% of penetration testing providers now use AI beyond trials](https://securityelites.com/news/crest-study-ai-threat-led-penetration-testing/) — *Security news* (2026-11-27)
+- [SAP investigates attack on GitHub code after reports of stolen employee tokens](https://securityelites.com/news/sap-github-cyberattack-stolen-tokens-source-code/) — *Security news* (2026-11-27)

@@ -628,3 +628,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Prompt Injection Explained: How the Attack Works and How to Defend Against It](https://securityelites.com/prompt-injection-guide/) — *AI in Hacking* (2026-11-28)
 - [AI Red Teaming: What It Is, How It Works and How to Start](https://securityelites.com/ai-red-teaming-guide/) — *AI in Hacking* (2026-11-28)
 - [OWASP Top 10 for LLM Applications 2026: Every Risk Explained](https://securityelites.com/owasp-llm-top-10-2026/) — *AI in Hacking* (2026-11-28)
+- [Booba ransomware spreads from US water plant to local government network](https://securityelites.com/news/booba-ransomware-water-plant-local-government/) — *Security news* (2026-11-28)

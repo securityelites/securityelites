@@ -626,3 +626,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Building a Vulnerability Scanning Pipeline with AI Agents at Work — Day 4: Confused Deputy, SSRF and Approval Spoofing](https://securityelites.com/academy/ai-agent-vulnerability-scanning-pipeline/day-4-confused-deputy-ssrf-approval-spoofing/) — *Academy* (2026-11-28)
 - [Building a Recon Pipeline Using AI: A 7-Day Beginner Course — Day 7: Capstone: Your Complete Recon Pipeline](https://securityelites.com/academy/building-recon-pipeline-using-ai/day-7-capstone-complete-recon-pipeline-ai/) — *Academy* (2026-11-28)
 - [Prompt Injection Explained: How the Attack Works and How to Defend Against It](https://securityelites.com/prompt-injection-guide/) — *AI in Hacking* (2026-11-28)
+- [AI Red Teaming: What It Is, How It Works and How to Start](https://securityelites.com/ai-red-teaming-guide/) — *AI in Hacking* (2026-11-28)

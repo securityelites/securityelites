@@ -619,3 +619,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [Hackers reportedly breach US Air Force Cloud One platform, Reuters says](https://securityelites.com/news/air-force-cloud-one-breach-reported/) — *Security news* (2026-11-27)
 - [Unpatched Cacti zero-day with public exploit allows unauthenticated command execution](https://securityelites.com/news/cacti-zero-day-4http2shell-public-exploit/) — *Security news* (2026-11-27)
 - [Fake Interior Ministry app delivered Morpheus spyware to asylum seekers in Italy](https://securityelites.com/news/fake-interior-ministry-app-morpheus-spyware-italy/) — *Security news* (2026-11-28)
+- [RAG Security: Vector Database Attacks and Data Leakage — Day 12: RAG Security Day 12 — Document Poisoning and Indirect Prompt Injection](https://securityelites.com/academy/rag-security-vector-database-attacks/day-12-rag-security-day-12-document-poisoning-indirect-injection/) — *Academy* (2026-11-28)

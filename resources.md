@@ -632,3 +632,4 @@ Curated cybersecurity articles, guides, and tutorials.
 - [AI Agent and MCP Security: How Agents Get Attacked and How to Defend Them](https://securityelites.com/ai-agent-security-guide/) — *Agentic AI* (2026-11-28)
 - [AI Jailbreaking Explained: How It Works and How to Defend Against It](https://securityelites.com/ai-jailbreaking-guide/) — *AI in Hacking* (2026-11-28)
 - [AI-Powered Attacks Explained: How Criminals Use AI and How to Defend](https://securityelites.com/ai-powered-attacks-guide/) — *AI in Hacking* (2026-11-28)
+- [Q-Dir and DesktopOK installers trojanized on official site to push Python RAT](https://securityelites.com/news/q-dir-desktopok-installers-trojanized-python-rat/) — *Security news* (2026-11-28)
